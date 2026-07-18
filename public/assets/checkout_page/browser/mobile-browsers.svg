@@ -1,0 +1,16 @@
+<svg width="32" height="34" viewBox="0 0 32 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3C6 1.89543 6.89543 1 8 1H24C25.1046 1 26 1.89543 26 3V31C26 32.1046 25.1046 33 24 33H8C6.89543 33 6 32.1046 6 31V3Z" stroke="#FFD400" stroke-width="2"/>
+<circle cx="16" cy="30" r="1" fill="#FFD400"/>
+<path d="M10 0H22L21.3787 2.48507C21.1561 3.37541 20.3562 4 19.4384 4H12.5616C11.6438 4 10.8439 3.37541 10.6213 2.48507L10 0Z" fill="#FFD400"/>
+<path d="M1 13C1 11.8954 1.89543 11 3 11H29C30.1046 11 31 11.8954 31 13V20C31 21.1046 30.1046 22 29 22H3C1.89543 22 1 21.1046 1 20V13Z" fill="#FFD400"/>
+<path d="M7.4043 14.2002H8.30273L9.40137 17.501L10.5049 14.2002H11.5547L9.9043 19H8.95215L7.85352 15.8018L6.75488 19H5.80273L4.15234 14.2002H5.20215L6.30566 17.501L7.4043 14.2002ZM15.502 14.2002H16.4004L17.499 17.501L18.6025 14.2002H19.6523L18.002 19H17.0498L15.9512 15.8018L14.8525 19H13.9004L12.25 14.2002H13.2998L14.4033 17.501L15.502 14.2002ZM23.5996 14.2002H24.498L25.5967 17.501L26.7002 14.2002H27.75L26.0996 19H25.1475L24.0488 15.8018L22.9502 19H21.998L20.3477 14.2002H21.3975L22.501 17.501L23.5996 14.2002Z" fill="#1F1F1F"/>
+ 
+<metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/">
+ <rdf:Description rdf:about='' xmlns:tiff="http://ns.adobe.com/tiff/1.0/">
+  <tiff:Copyright>
+   <rdf:Alt>
+    <rdf:li xml:lang="x-default">© Copyright 2022 Corefy, Inc. All rights reserved.</rdf:li>
+   </rdf:Alt>
+  </tiff:Copyright>
+ </rdf:Description>
+</rdf:RDF></metadata></svg>
