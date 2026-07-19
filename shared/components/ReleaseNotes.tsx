@@ -95,12 +95,12 @@ export function ReleaseNotes() {
             {/* Introduction */}
             <div className="bg-white rounded-[20px] p-6 lg:p-8 shadow-sm mb-8">
               <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                ValoraPay Changelog
+                BrosPay Changelog
               </h1>
               <div id="release-notes">
                 <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-6 font-heading">Release Notes</h2>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                  ValoraPay follows Semantic Versioning and regularly updates the platform and its APIs. You can periodically check this page to keep abreast of new or updated features, bug fixes, known issues, and deprecated functionality.
+                  BrosPay follows Semantic Versioning and regularly updates the platform and its APIs. You can periodically check this page to keep abreast of new or updated features, bug fixes, known issues, and deprecated functionality.
                 </p>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
                   This changelog lists releases by date and version number along with associated changes.
@@ -149,12 +149,12 @@ export function ReleaseNotes() {
               <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                 You also can follow us for the latest news and updates on{' '}
                 <Link
-                  href="https://twitter.com/insideValoraPay"
+                  href="https://twitter.com/insideBrosPay"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#4730B8] hover:text-[#5a3fc9] underline font-body"
                 >
-                  @insideValoraPay
+                  @insideBrosPay
                 </Link>
                 .
               </p>

@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 
 /**
  * Forex Optimize Performance section component
- * Shows "ValoraPay is not just a cashier" with virtual multicurrency merchant accounts features
+ * Shows "BrosPay is not just a cashier" with virtual multicurrency merchant accounts features
  */
 export function ForexOptimizePerformance() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -35,7 +35,7 @@ export function ForexOptimizePerformance() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-6 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            ValoraPay is not just a cashier
+            BrosPay is not just a cashier
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
             Virtual <span className="text-[#4730B8] font-semibold">multicurrency</span> merchant accounts provide additional flexibility for processing and managing incoming and outgoing payments.

@@ -20,7 +20,7 @@ export default function CareersPage() {
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-12 lg:mb-16">
                   <h1 className="text-[2.4rem] font-medium text-white mb-4 max-w-3xl mx-auto leading-[3.05563rem] tracking-[-0.075rem] font-body">
-                    Career at <span className="font-bold">ValoraPay</span>
+                    Career at <span className="font-bold">BrosPay</span>
                   </h1>
                   <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
                     Let&apos;s build the fintech future together! Join our team.

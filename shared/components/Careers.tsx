@@ -362,7 +362,7 @@ export function Careers() {
                 Welcome aboard!
               </h2>
               <p className="text-base lg:text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto font-body">
-                Here are some of the perks of being a member of our ValoraPay family
+                Here are some of the perks of being a member of our BrosPay family
               </p>
             </div>
 

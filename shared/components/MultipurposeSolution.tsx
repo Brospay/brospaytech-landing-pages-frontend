@@ -66,7 +66,7 @@ export function MultipurposeSolution() {
             Multipurpose Solution
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay mass payout services are suitable for various industries and cover a range of working processes.
+            BrosPay mass payout services are suitable for various industries and cover a range of working processes.
           </p>
         </div>
 

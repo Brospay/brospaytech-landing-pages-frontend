@@ -3,7 +3,7 @@
 import { useFadeIn } from '@/shared/hooks/useFadeIn'
 
 /**
- * PSP Why Choose ValoraPay section
+ * PSP Why Choose BrosPay section
  */
 export function PSPWhyChoose() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -11,7 +11,7 @@ export function PSPWhyChoose() {
   const features = [
     {
       title: 'Payment and payout capabilities',
-      description: 'Our offering combines ValoraPay\'s payment and payout capabilities with a feature-rich white-label merchant back office.',
+      description: 'Our offering combines BrosPay\'s payment and payout capabilities with a feature-rich white-label merchant back office.',
     },
     {
       title: 'Set up fees',
@@ -48,7 +48,7 @@ export function PSPWhyChoose() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            Why choose white-label PSP by ValoraPay
+            Why choose white-label PSP by BrosPay
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-body">
             We've been gathering insights on the best payment practices for more than ten years, developing and bringing payment products to markets worldwide. This knowledge is what our white-label payment provider solution is based on.
@@ -82,7 +82,7 @@ export function PSPWhyChoose() {
             </div>
             <div>
               <div className="font-semibold text-gray-900 font-heading">Denys Kyrychenko</div>
-              <div className="text-sm text-gray-600 font-body">ValoraPay's Co-founder & CEO</div>
+              <div className="text-sm text-gray-600 font-body">BrosPay's Co-founder & CEO</div>
             </div>
           </div>
         </div>

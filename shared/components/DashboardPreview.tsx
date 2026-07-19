@@ -20,7 +20,7 @@ export function DashboardPreview() {
               Single Dashboard For All Activity
             </h2>
             <p className="text-[18px] text-gray-600 leading-relaxed mb-8 font-body">
-              Payment processes in your business are a thousand-piece jigsaw puzzle you are trying to complete. Dashboard by ValoraPay is that final piece to snugly fit the blank space and make the overall picture perfect and understandable. Just sit back and admire the seamless flow of your transactions.
+              Payment processes in your business are a thousand-piece jigsaw puzzle you are trying to complete. Dashboard by BrosPay is that final piece to snugly fit the blank space and make the overall picture perfect and understandable. Just sit back and admire the seamless flow of your transactions.
             </p>
             <Link
               href="#dashboard"

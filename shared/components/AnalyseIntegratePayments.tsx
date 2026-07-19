@@ -422,7 +422,7 @@ export function AnalyseIntegratePayments({ type = 'payments' }: AnalyseIntegrate
                   Integrate Payments
                 </h2>
                 <p className="text-[18px] text-gray-300 mb-8 leading-relaxed font-body">
-                  We see the beauty in simplifying the complex. That's why we give you everything needed to start working with ValoraPay with minimal effort and in a matter of minutes.
+                  We see the beauty in simplifying the complex. That's why we give you everything needed to start working with BrosPay with minimal effort and in a matter of minutes.
                 </p>
                 <div className="space-y-4 mb-8">
                   {integrateFeatures.map((feature, index) => (

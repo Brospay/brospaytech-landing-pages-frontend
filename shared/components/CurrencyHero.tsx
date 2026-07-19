@@ -53,7 +53,7 @@ export function CurrencyHero() {
             <div className="relative w-full h-[400px] lg:h-[450px] flex items-center justify-center">
               <img
                 src="/assets/currency-conversion_page/hero-right.png"
-                alt="ValoraPay currency conversion solutions"
+                alt="BrosPay currency conversion solutions"
                 className="w-full h-full object-contain max-w-md"
                 loading="eager"
                 width={450}

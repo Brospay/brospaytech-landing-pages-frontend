@@ -16,7 +16,7 @@ import {
 
 /**
  * Batch Payouts page component
- * Displays comprehensive information about ValoraPay's batch payout solutions
+ * Displays comprehensive information about BrosPay's batch payout solutions
  */
 export default function BatchPayoutsPage() {
   return (

@@ -21,7 +21,7 @@ import {
 
 /**
  * Gambling page component
- * Displays comprehensive information about ValoraPay's Gambling payment gateway solution
+ * Displays comprehensive information about BrosPay's Gambling payment gateway solution
  */
 export default function GamblingPage() {
   return (

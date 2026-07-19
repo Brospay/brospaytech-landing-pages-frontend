@@ -27,7 +27,7 @@ export function PrivacyPolicy() {
             {/* Introduction */}
             <div className="mb-8">
               <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
-                ValoraPay takes care of your personal data and does everything possible to protect it. This Privacy Notice is written to help you understand what your personal data is collected, stored and used, and what happens to it when you use our website at valorapay.com ("Website").
+                BrosPay takes care of your personal data and does everything possible to protect it. This Privacy Notice is written to help you understand what your personal data is collected, stored and used, and what happens to it when you use our website at valorapay.com ("Website").
               </p>
               <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg mb-4">
                 <p className="text-sm text-gray-800 font-semibold font-body mb-2">
@@ -70,7 +70,7 @@ export function PrivacyPolicy() {
                 1. Who are we?
               </h2>
               <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
-                We are ValoraPay Limited (the Company), company number 11654625, with a registered address at 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.
+                We are BrosPay Limited (the Company), company number 11654625, with a registered address at 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.
               </p>
               <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
                 In relation to your personal data, we are the controller and processor at the same time. We are the controller of your personal data of our clients and users, which means that we determine what, for what purpose and how your personal data will be processed.
@@ -80,7 +80,7 @@ export function PrivacyPolicy() {
                 <a href="mailto:info@valorapay.com" className="text-primary hover:text-primary/80 underline font-body">
                   info@valorapay.com
                 </a>
-                . You can also send us a letter at ValoraPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.
+                . You can also send us a letter at BrosPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.
               </p>
             </div>
 
@@ -90,7 +90,7 @@ export function PrivacyPolicy() {
                 2. What is the Privacy Notice covered by?
               </h2>
               <p className="text-base text-gray-700 leading-relaxed font-body">
-                This Privacy Notice applies to our website and our services. Our websites are valorapay.com and ValoraPay.io.
+                This Privacy Notice applies to our website and our services. Our websites are valorapay.com and BrosPay.io.
               </p>
             </div>
 
@@ -132,7 +132,7 @@ export function PrivacyPolicy() {
                   Data provided by the consumer.
                 </h3>
                 <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
-                  In cases where ValoraPay processes personal data of end users of our clients (consumers), ValoraPay acts strictly as a Data Processor under the GDPR. The client (our business partner) acts as the Data Controller and determines the purposes and means of processing. Processing is carried out on behalf of and under the lawful instructions of the Data Controller (Art. 28 GDPR). For detailed information about the processing of such personal data, data subjects should contact the relevant controller directly. As a processor, we may process the following data: name, surname, geolocation, address, device hash, email, phone number, tax number, payment information incl. but not limited to bank ID, bank details, payment card details, electronic wallet ID.
+                  In cases where BrosPay processes personal data of end users of our clients (consumers), BrosPay acts strictly as a Data Processor under the GDPR. The client (our business partner) acts as the Data Controller and determines the purposes and means of processing. Processing is carried out on behalf of and under the lawful instructions of the Data Controller (Art. 28 GDPR). For detailed information about the processing of such personal data, data subjects should contact the relevant controller directly. As a processor, we may process the following data: name, surname, geolocation, address, device hash, email, phone number, tax number, payment information incl. but not limited to bank ID, bank details, payment card details, electronic wallet ID.
                 </p>
               </div>
 
@@ -416,7 +416,7 @@ export function PrivacyPolicy() {
                   Also, please be aware that we are allowed to maintain personal data after deletion request is received as permitted by the CCPA (for instance, for the purposes of detection of security incidents, repair errors, comply with legal obligations, transaction completion).
                 </p>
                 <p className="text-base text-gray-700 leading-relaxed font-body">
-                  We want to draw your special attention that ValoraPay does not sell, rent, or trade your personal data to anyone.
+                  We want to draw your special attention that BrosPay does not sell, rent, or trade your personal data to anyone.
                 </p>
               </div>
               <div className="mb-4">
@@ -445,7 +445,7 @@ export function PrivacyPolicy() {
                   </a>
                 </p>
                 <p className="text-base text-gray-700 leading-relaxed font-body">
-                  <strong>Address:</strong> ValoraPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom
+                  <strong>Address:</strong> BrosPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom
                 </p>
               </div>
             </div>

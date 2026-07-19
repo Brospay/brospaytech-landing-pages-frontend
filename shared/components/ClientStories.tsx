@@ -54,7 +54,7 @@ export function ClientStories() {
             Client stories
           </h2>
           <p className="text-[18px] text-gray-600 mb-8 max-w-3xl mx-auto text-center leading-relaxed font-body">
-            See which challenges businesses solve and which results they achieve with ValoraPay's payment platform and expertise. We're excited to dive into your case!
+            See which challenges businesses solve and which results they achieve with BrosPay's payment platform and expertise. We're excited to dive into your case!
           </p>
         </div>
 

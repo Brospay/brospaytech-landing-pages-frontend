@@ -19,7 +19,7 @@ import {
 
 /**
  * iGaming page component
- * Displays comprehensive information about ValoraPay's iGaming payment gateway solution
+ * Displays comprehensive information about BrosPay's iGaming payment gateway solution
  */
 export default function IGamingPage() {
   return (

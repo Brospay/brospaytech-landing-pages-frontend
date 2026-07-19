@@ -19,7 +19,7 @@ export function MakePayouts() {
             Make Payouts
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay allows you to easily handle global payouts both automatically and manually.
+            BrosPay allows you to easily handle global payouts both automatically and manually.
           </p>
         </div>
 

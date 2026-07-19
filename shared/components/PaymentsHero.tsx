@@ -20,7 +20,7 @@ export function PaymentsHero() {
               Unified online payments
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              ValoraPay's Payments is a unified interface allowing the way of accepting online payments to be centralised, standardised, and streamlined. Connect with hundreds of payment providers and acquirers in a few clicks, getting a clear view and full control of all your transactions.
+              BrosPay's Payments is a unified interface allowing the way of accepting online payments to be centralised, standardised, and streamlined. Connect with hundreds of payment providers and acquirers in a few clicks, getting a clear view and full control of all your transactions.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a
@@ -56,7 +56,7 @@ export function PaymentsHero() {
             <div className="relative w-full h-[500px] lg:h-[600px] flex items-center justify-center">
               <img
                 src="/assets/payments_page/hero_right.webp"
-                alt="ValoraPay payment solutions"
+                alt="BrosPay payment solutions"
                 className="w-full h-full object-contain"
                 loading="eager"
                 width={600}

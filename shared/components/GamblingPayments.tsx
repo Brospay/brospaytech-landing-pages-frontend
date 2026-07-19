@@ -9,7 +9,7 @@ export function GamblingPayments() {
     {
       text: (
         <>
-          <strong>New integrations with payment providers go live every day,</strong> making ValoraPay the fastest-growing payment orchestration platform ever.
+          <strong>New integrations with payment providers go live every day,</strong> making BrosPay the fastest-growing payment orchestration platform ever.
         </>
       ),
     },
@@ -58,7 +58,7 @@ export function GamblingPayments() {
               Powering Your Business Growth Without Delay
             </h2>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed font-body">
-              As online casino, poker, or betting platforms grow, multiple gambling payment gateways become a must. ValoraPay is the ultimate payment solution provider for online casinos, offering instant access to hundreds of ready-made integrations.
+              As online casino, poker, or betting platforms grow, multiple gambling payment gateways become a must. BrosPay is the ultimate payment solution provider for online casinos, offering instant access to hundreds of ready-made integrations.
             </p>
 
             {/* Benefits List */}

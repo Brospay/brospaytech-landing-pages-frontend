@@ -3,9 +3,9 @@
 import { useFadeIn } from '@/shared/hooks/useFadeIn'
 
 /**
- * Marketplace How ValoraPay Helps section
+ * Marketplace How BrosPay Helps section
  */
-export function MarketplaceHowValoraPayHelps() {
+export function MarketplaceHowBrosPayHelps() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
 
   return (
@@ -13,7 +13,7 @@ export function MarketplaceHowValoraPayHelps() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            How ValoraPay can help?
+            How BrosPay can help?
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-body">
             It's difficult to underestimate the functionality of a payment gateway for marketplaces, as the security of transactions is paramount to customers shopping online. By providing them with maximum data protection on your marketplace, you will increase loyalty to your company and boost your revenue accordingly.
@@ -22,7 +22,7 @@ export function MarketplaceHowValoraPayHelps() {
 
         <div className="bg-white rounded-[20px] p-8 lg:p-12 border-2 border-primary/20">
           <p className="text-xl text-gray-700 leading-relaxed mb-6 font-body text-center">
-            At ValoraPay, we offer much more than just a payment gateway. Take your marketplace to a new level with our e-commerce management tools.
+            At BrosPay, we offer much more than just a payment gateway. Take your marketplace to a new level with our e-commerce management tools.
           </p>
           <div className="flex justify-center">
             <a

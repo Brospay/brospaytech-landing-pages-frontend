@@ -28,7 +28,7 @@ export function ReconciliationsHero() {
               Accurate & fast payment reconciliation software
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              ValoraPay's Reconciliations is a fully-equipped accounting software for any online business, aimed at organising and unifying all the transaction data.
+              BrosPay's Reconciliations is a fully-equipped accounting software for any online business, aimed at organising and unifying all the transaction data.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a
@@ -60,7 +60,7 @@ export function ReconciliationsHero() {
               <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 overflow-hidden">
                 {/* Header */}
                 <div className="grid grid-cols-3 gap-4 mb-4 text-xs text-white/60 font-body">
-                  <div>ValoraPay's statement</div>
+                  <div>BrosPay's statement</div>
                   <div>Provider's statement</div>
                   <div>Status</div>
                 </div>

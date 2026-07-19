@@ -120,13 +120,13 @@ export function CheckoutOptimisation() {
           ))}
         </div>
 
-        {/* How ValoraPay Can Help */}
+        {/* How BrosPay Can Help */}
         <div className="bg-[#4730B8] rounded-2xl p-8 lg:p-12 text-center mb-16">
           <h3 className="text-2xl lg:text-3xl font-bold text-white mb-4 font-heading">
-            How ValoraPay can help with online checkout services
+            How BrosPay can help with online checkout services
           </h3>
           <p className="text-[18px] text-white/90 max-w-3xl mx-auto leading-relaxed mb-8 font-body">
-            Having more than ten years of experience in developing and promoting online payment products, ValoraPay has tested and learned what works best in terms of digital payments. Contact us to see all the features mentioned above in action and get the best online checkout for your company.
+            Having more than ten years of experience in developing and promoting online payment products, BrosPay has tested and learned what works best in terms of digital payments. Contact us to see all the features mentioned above in action and get the best online checkout for your company.
           </p>
           <Link
             href="/contacts"

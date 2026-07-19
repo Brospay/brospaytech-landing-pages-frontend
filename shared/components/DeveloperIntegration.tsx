@@ -12,7 +12,7 @@ export function DeveloperIntegration() {
   const integrationFeatures = [
     {
       title: 'RESTful API',
-      description: 'Integrate ValoraPay into your system using our comprehensive RESTful API. Build custom solutions that fit your unique business needs.',
+      description: 'Integrate BrosPay into your system using our comprehensive RESTful API. Build custom solutions that fit your unique business needs.',
     },
     {
       title: 'SDKs',
@@ -70,7 +70,7 @@ export function DeveloperIntegration() {
             Developer integration
           </h2>
           <p className="text-[18px] text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed font-body">
-            Integrate ValoraPay into your application with ease. Our developer-friendly tools and comprehensive documentation make integration simple and straightforward.
+            Integrate BrosPay into your application with ease. Our developer-friendly tools and comprehensive documentation make integration simple and straightforward.
           </p>
         </div>
 

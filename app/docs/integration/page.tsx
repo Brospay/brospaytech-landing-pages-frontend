@@ -16,10 +16,10 @@ export default function IntegrationPage() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="text-center mb-12 lg:mb-16">
                 <h1 className="text-[2.4rem] font-medium text-white mb-4 max-w-3xl mx-auto leading-[3.05563rem] tracking-[-0.075rem] font-body">
-                  Integrate with ValoraPay
+                  Integrate with BrosPay
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Complete integration guide for ValoraPay payment platform
+                  Complete integration guide for BrosPay payment platform
                 </p>
               </div>
             </div>

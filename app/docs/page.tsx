@@ -19,7 +19,7 @@ export default function DocsPage() {
                   Developer Documentation
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Resources and tools to integrate ValoraPay payment platform. Build your payment solution!
+                  Resources and tools to integrate BrosPay payment platform. Build your payment solution!
                 </p>
               </div>
             </div>

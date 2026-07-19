@@ -4,7 +4,7 @@ import { Navigation, Footer, ScrollToTop, Roadmap } from '@/shared/components'
 
 /**
  * Roadmap page
- * Displays ValoraPay's past achievements and future plans
+ * Displays BrosPay's past achievements and future plans
  */
 export default function RoadmapPage() {
   return (

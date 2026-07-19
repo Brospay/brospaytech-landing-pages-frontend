@@ -32,7 +32,7 @@ export function AnalyticsHero() {
               Payment Analytics Solution
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              ValoraPay's payment analytics system gathers all your data under one roof and makes it much easier to monitor, examine, and analyse.
+              BrosPay's payment analytics system gathers all your data under one roof and makes it much easier to monitor, examine, and analyse.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a

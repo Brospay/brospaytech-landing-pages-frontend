@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * Middle East Blog Layout - matches ValoraPay blog post design
+ * Middle East Blog Layout - matches BrosPay blog post design
  */
 export function MiddleEastBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -57,7 +57,7 @@ export function MiddleEastBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>January 11, 2024</span>
                 <span>•</span>
@@ -256,7 +256,7 @@ export function MiddleEastBlogLayout() {
                 Interested in e-commerce payments?
               </h3>
               <p className="text-gray-700 mb-4 font-body">
-                Learn how ValoraPay can help you optimize your payment processes for Middle Eastern markets.
+                Learn how BrosPay can help you optimize your payment processes for Middle Eastern markets.
               </p>
               <Link
                 href="/ecommerce"
@@ -302,7 +302,7 @@ export function MiddleEastBlogLayout() {
                 Smart way to expand
               </h3>
               <p className="text-gray-700 mb-4 font-body">
-                Discover how ValoraPay can help you expand into Middle Eastern markets efficiently.
+                Discover how BrosPay can help you expand into Middle Eastern markets efficiently.
               </p>
               <Link
                 href="/expand-globally"
@@ -315,10 +315,10 @@ export function MiddleEastBlogLayout() {
             {/* How We Can Help Section */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                How to enter the Middle East market with ValoraPay
+                How to enter the Middle East market with BrosPay
               </h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                Do you think the Middle East market is a good value for your product or services? We are ready to assist you with the expansion. Integrating ValoraPay empowers you with instant access to <strong className="font-heading">400+ payment service providers and acquirers</strong> to cater to your audience in the new market. Additionally, our robust reporting and analytics tools, dedicated technical support, and robust fraud prevention mechanisms empower businesses to make informed decisions and navigate the complexities of expansion successfully.
+                Do you think the Middle East market is a good value for your product or services? We are ready to assist you with the expansion. Integrating BrosPay empowers you with instant access to <strong className="font-heading">400+ payment service providers and acquirers</strong> to cater to your audience in the new market. Additionally, our robust reporting and analytics tools, dedicated technical support, and robust fraud prevention mechanisms empower businesses to make informed decisions and navigate the complexities of expansion successfully.
               </p>
             </div>
 
@@ -333,7 +333,7 @@ export function MiddleEastBlogLayout() {
                 Are you ready to expand your business to new markets?
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo and learn how ValoraPay can help you handle your payments and payouts efficiently.
+                Book a demo and learn how BrosPay can help you handle your payments and payouts efficiently.
               </p>
               <Link
                 href="#book-call"
@@ -353,7 +353,7 @@ export function MiddleEastBlogLayout() {
                   Ready to expand?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you expand into Middle Eastern markets.
+                  Discover how BrosPay can help you expand into Middle Eastern markets.
                 </p>
                 <Link
                   href="#book-call"
@@ -385,7 +385,7 @@ export function MiddleEastBlogLayout() {
                   E-commerce payments
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Learn how ValoraPay can help you optimize your payment processes for Middle Eastern e-commerce markets.
+                  Learn how BrosPay can help you optimize your payment processes for Middle Eastern e-commerce markets.
                 </p>
                 <Link
                   href="/ecommerce"

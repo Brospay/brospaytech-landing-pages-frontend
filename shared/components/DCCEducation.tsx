@@ -121,18 +121,18 @@ export function DCCEducation() {
         <div className="mb-16">
           <h3 className="text-2xl font-bold text-gray-900 mb-6 font-heading">Supported Currencies and Countries</h3>
           <p className="text-gray-600 leading-relaxed font-body">
-            ValoraPay supports an impressive list of currencies (160+) and currency pairs (1000+) to facilitate shopping and selling worldwide. The list comprises the following currency types: National, Cryptocurrency, Voucher, Digital, Technical, Game, Virtual, Cash, and Alternative.
+            BrosPay supports an impressive list of currencies (160+) and currency pairs (1000+) to facilitate shopping and selling worldwide. The list comprises the following currency types: National, Cryptocurrency, Voucher, Digital, Technical, Game, Virtual, Cash, and Alternative.
           </p>
         </div>
 
         {/* Transparent exchange rates */}
         <div className="bg-[#4730B8] rounded-2xl p-8 lg:p-12">
-          <h3 className="text-2xl font-bold text-white mb-6 font-heading">Transparent Exchange Rates at ValoraPay</h3>
+          <h3 className="text-2xl font-bold text-white mb-6 font-heading">Transparent Exchange Rates at BrosPay</h3>
           <p className="text-white/90 leading-relaxed mb-6 font-body">
             Simply put, an exchange rate is the value of one currency versus another. Usually, exchange rates fluctuate based on supply and demand in the market. But sometimes, they are strictly regulated by governments or central banks.
           </p>
           <p className="text-white/90 leading-relaxed mb-6 font-body">
-            ValoraPay offers a variety of connected exchange rate sources that get automatic updates. They are used in transaction processing if the payee's and the payer's currency do not match.
+            BrosPay offers a variety of connected exchange rate sources that get automatic updates. They are used in transaction processing if the payee's and the payer's currency do not match.
           </p>
           <p className="text-white/90 leading-relaxed font-body">
             Our payment orchestration platform allows for implementing different exchange rates and set fees per each client and currency pair based on an array of sources (central and commercial banks or FX-rate providers). To increase the overall efficiency, choose from the following types of exchange rates: direct, indirect, commercial, and fixed.

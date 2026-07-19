@@ -33,7 +33,7 @@ export function AllPaymentData() {
               All Payment Data At One Point
             </h2>
             <p className="text-[18px] text-gray-300 leading-relaxed mb-8 font-body">
-              Manage all payment processes and configure your ValoraPay account from a single payment tracking dashboard. This powerful interface allows you to view all data, monitor your integrations, manage payments and refunds, respond to disputes, and many more.
+              Manage all payment processes and configure your BrosPay account from a single payment tracking dashboard. This powerful interface allows you to view all data, monitor your integrations, manage payments and refunds, respond to disputes, and many more.
             </p>
             <div className="flex flex-wrap gap-3">
               {features.map((feature, index) => (

@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * Expand Globally Blog Layout - matches ValoraPay blog post design
+ * Expand Globally Blog Layout - matches BrosPay blog post design
  */
 export function ExpandGloballyBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -18,7 +18,7 @@ export function ExpandGloballyBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>February 24, 2024</span>
                 <span>•</span>
@@ -41,7 +41,7 @@ export function ExpandGloballyBlogLayout() {
             {/* Introduction */}
             <div className="prose prose-lg max-w-none mb-12">
               <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                Have you heard of Slack, a widespread cloud-based messaging tool? We at ValoraPay use it daily, just like other 38 million active users worldwide. In 2021, Slack was acquired for $27.7 billion. In 2012, it didn't even exist.
+                Have you heard of Slack, a widespread cloud-based messaging tool? We at BrosPay use it daily, just like other 38 million active users worldwide. In 2021, Slack was acquired for $27.7 billion. In 2012, it didn't even exist.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                 Isn't it astounding to understand that many of today's most renowned, profitable, and globally omnipresent businesses started as pet projects not long ago? Their journey has been primarily facilitated by the possibilities of the Internet combined with well-crafted business expansion strategies.
@@ -124,7 +124,7 @@ export function ExpandGloballyBlogLayout() {
                   },
                   {
                     title: 'You\'ve gathered a strong team of professionals who enjoy working with you',
-                    description: 'We at ValoraPay believe the team is what makes the difference. Reliable and committed colleagues who support your aspirations double your chances for success!',
+                    description: 'We at BrosPay believe the team is what makes the difference. Reliable and committed colleagues who support your aspirations double your chances for success!',
                   },
                   {
                     title: 'Your reputation crossed the borders before your business did',
@@ -215,7 +215,7 @@ export function ExpandGloballyBlogLayout() {
                     </div>
                   </button>
                   <div className="absolute bottom-4 left-4 text-white">
-                    <p className="text-sm font-semibold font-heading">How to enter new markets faster with ValoraPay</p>
+                    <p className="text-sm font-semibold font-heading">How to enter new markets faster with BrosPay</p>
                   </div>
                 </div>
               </div>
@@ -250,10 +250,10 @@ export function ExpandGloballyBlogLayout() {
                 ))}
               </div>
 
-              {/* ValoraPay Solution Call-out */}
+              {/* BrosPay Solution Call-out */}
               <div className="bg-blue-50 border-l-4 border-[#4730B8] rounded-r-xl p-6 my-8">
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  For instance, ValoraPay is a one-stop shop for growing businesses. Our solution not only allows connecting new payment methods in a few clicks but enables working with multiple payment providers conveniently, managing everything in a single place. We continuously work on upgrading our platform to ensure our clients get the best-in-class experience and technology.
+                  For instance, BrosPay is a one-stop shop for growing businesses. Our solution not only allows connecting new payment methods in a few clicks but enables working with multiple payment providers conveniently, managing everything in a single place. We continuously work on upgrading our platform to ensure our clients get the best-in-class experience and technology.
                 </p>
                 <p className="text-[18px] text-gray-700 leading-relaxed font-body">
                   Moreover, our team deeply understands the global payment market and has experience dealing with numerous providers and acquirers. We use that knowledge to assist our clients as they scale up, suggesting the best solution for each payment challenge.
@@ -272,7 +272,7 @@ export function ExpandGloballyBlogLayout() {
                 We would be delighted to help you out on your expansion journey!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo to meet us, learn more about how ValoraPay can help you handle payments, and have all your questions answered by qualified specialists.
+                Book a demo to meet us, learn more about how BrosPay can help you handle payments, and have all your questions answered by qualified specialists.
               </p>
               <Link
                 href="#book-call"
@@ -292,7 +292,7 @@ export function ExpandGloballyBlogLayout() {
                   Need to boost your conversions?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you optimize your payment processes and increase conversion rates.
+                  Discover how BrosPay can help you optimize your payment processes and increase conversion rates.
                 </p>
                 <Link
                   href="#book-call"

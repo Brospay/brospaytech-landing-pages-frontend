@@ -22,7 +22,7 @@ export function ConnectPayments() {
   const features = [
     {
       title: 'Any payment provider',
-      description: 'Reap the benefits of having hundreds of payment providers ready for you to connect to in a few clicks through ValoraPay\'s Provider hub.',
+      description: 'Reap the benefits of having hundreds of payment providers ready for you to connect to in a few clicks through BrosPay\'s Provider hub.',
       items: [
         'Payment gateways',
         'Payment aggregators',
@@ -32,7 +32,7 @@ export function ConnectPayments() {
     },
     {
       title: 'Any payment method',
-      description: 'Support for every possible payment method comes out of the box when you work with ValoraPay.',
+      description: 'Support for every possible payment method comes out of the box when you work with BrosPay.',
       items: [
         'Credit cards',
         'Bank transfers',

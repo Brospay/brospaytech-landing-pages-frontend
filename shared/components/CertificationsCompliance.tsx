@@ -17,7 +17,7 @@ export function CertificationsCompliance() {
       title: 'PCI DSS Level 1 compliance',
       description: 'Payment Card Industry Data Security Standard (PCI DSS) is one of the security standards created by major payment systems. Compliance with this standard makes online transactions secure and protects them against identity theft.',
       features: [
-        { title: 'Level 1 PCI compliant', description: 'ValoraPay meets the strictest requirements of the highest PCI DSS. It ensures that your payments are highly secure.' },
+        { title: 'Level 1 PCI compliant', description: 'BrosPay meets the strictest requirements of the highest PCI DSS. It ensures that your payments are highly secure.' },
         { title: 'Industry recognition', description: "We are on Visa's Global Registry of Service Providers and Mastercard's Compliant Service Providers Lists." },
         { title: 'No need for you to be PCI compliant', description: 'Eliminate the hassle with PCI DSS compliance and let us deal with the banks on your behalf.' },
         { title: 'No prohibited data storage', description: 'We do not store raw magnetic-stripe, card validation codes or PIN block data.' },
@@ -42,7 +42,7 @@ export function CertificationsCompliance() {
     {
       id: 'google',
       title: 'Google Pay',
-      description: 'ValoraPay is officially featured in the Google Pay list of participating processors. It allows our clients to easily implement this in-demand payment method and securely process Google Pay transactions.',
+      description: 'BrosPay is officially featured in the Google Pay list of participating processors. It allows our clients to easily implement this in-demand payment method and securely process Google Pay transactions.',
       features: [],
       icon: (
         <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">

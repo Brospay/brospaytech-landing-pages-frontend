@@ -16,7 +16,7 @@ export function ReconciliationTypes() {
     },
     {
       title: 'Manual statement import',
-      description: "Pull a statement directly from the provider and upload it to ValoraPay. It may be quite helpful in case of API or callback glitches.",
+      description: "Pull a statement directly from the provider and upload it to BrosPay. It may be quite helpful in case of API or callback glitches.",
     },
     {
       title: 'Bulk statements import',
@@ -35,7 +35,7 @@ export function ReconciliationTypes() {
     },
     {
       title: 'Callbacks and API responses',
-      description: 'ValoraPay supports both callbacks and API responses handling.',
+      description: 'BrosPay supports both callbacks and API responses handling.',
     },
   ]
 
@@ -51,7 +51,7 @@ export function ReconciliationTypes() {
             Types of payment reconciliations
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay supports instant real-time payment reconciliation for multiple accounts, payment methods, and currencies. Payment reconciliation automation helps to switch your focus towards handling exceptions instead of time-consuming manual reconciliation of each transaction.
+            BrosPay supports instant real-time payment reconciliation for multiple accounts, payment methods, and currencies. Payment reconciliation automation helps to switch your focus towards handling exceptions instead of time-consuming manual reconciliation of each transaction.
           </p>
         </div>
 

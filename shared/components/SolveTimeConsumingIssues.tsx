@@ -37,7 +37,7 @@ export function SolveTimeConsumingIssues() {
             Solve Time-Consuming Issues
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            Have the full visibility of your Batch payouts using the advanced set of additional tools provided by ValoraPay.
+            Have the full visibility of your Batch payouts using the advanced set of additional tools provided by BrosPay.
           </p>
         </div>
 

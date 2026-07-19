@@ -16,7 +16,7 @@ import {
 
 /**
  * White Label Payment Gateway page component
- * Displays comprehensive information about ValoraPay's white label payment gateway solution
+ * Displays comprehensive information about BrosPay's white label payment gateway solution
  */
 export default function WhiteLabelGatewayPage() {
   return (

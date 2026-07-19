@@ -63,7 +63,7 @@ export function EcommerceIntegration() {
             Choose the Optimal Integration Option
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-body">
-            It's easy to start with ValoraPay — just choose the right option for your case.
+            It's easy to start with BrosPay — just choose the right option for your case.
           </p>
         </div>
 

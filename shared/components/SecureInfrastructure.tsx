@@ -27,7 +27,7 @@ export function SecureInfrastructure() {
     },
     {
       name: 'Two-Factor Authentication',
-      description: 'Our users are prompted to authenticate with their password and verification code. The additional layer of security ensures that only authorised ValoraPay users can access their account.',
+      description: 'Our users are prompted to authenticate with their password and verification code. The additional layer of security ensures that only authorised BrosPay users can access their account.',
       icon: '2FA',
     },
   ]
@@ -41,7 +41,7 @@ export function SecureInfrastructure() {
             Secure Infrastructure
           </h2>
           <p className="text-[18px] text-gray-300 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay meets <strong>the highest standards of security</strong>, <strong>integrity</strong> and <strong>stability</strong>. We understand that you entrust your data to us, and we do everything possible to keep it secure and continuously look for opportunities to improve.
+            BrosPay meets <strong>the highest standards of security</strong>, <strong>integrity</strong> and <strong>stability</strong>. We understand that you entrust your data to us, and we do everything possible to keep it secure and continuously look for opportunities to improve.
           </p>
         </div>
 

@@ -25,7 +25,7 @@ export function ReverseReconciliation() {
     },
     {
       title: 'Manual processes',
-      description: "Export ValoraPay's detailed statements manually by downloading a .xls file.",
+      description: "Export BrosPay's detailed statements manually by downloading a .xls file.",
       link: '/docs',
       linkText: 'Explore the documentation',
       icon: (
@@ -56,7 +56,7 @@ export function ReverseReconciliation() {
             Double-check with reverse reconciliation
           </h2>
           <p className="text-[18px] text-gray-300 max-w-3xl mx-auto leading-relaxed font-body">
-            Identify omissions and errors in your own records by comparing them with the entries and the closing balances in ValoraPay's payment reconciliation system.
+            Identify omissions and errors in your own records by comparing them with the entries and the closing balances in BrosPay's payment reconciliation system.
           </p>
         </div>
 

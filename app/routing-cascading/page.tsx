@@ -18,7 +18,7 @@ import {
 
 /**
  * Routing & Cascading page component
- * Displays comprehensive information about ValoraPay's routing and cascading solutions
+ * Displays comprehensive information about BrosPay's routing and cascading solutions
  */
 export default function RoutingCascadingPage() {
   return (

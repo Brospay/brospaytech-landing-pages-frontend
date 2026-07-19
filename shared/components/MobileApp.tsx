@@ -112,7 +112,7 @@ export function MobileApp() {
             </h2>
             <div className="mb-8 space-y-4">
               <p className="text-[18px] text-gray-600 leading-relaxed font-body">
-                At ValoraPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure.
+                At BrosPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure.
               </p>
               <p className="text-[18px] text-gray-600 leading-relaxed font-body">
                 We offer the technology to build almost any online payment solution. We see the beauty in simplifying the complex, so you can run your online business without obstacles using cloud infrastructure, omni- and cross-channel and full-service payment solutions for both corporate and institutional clients.

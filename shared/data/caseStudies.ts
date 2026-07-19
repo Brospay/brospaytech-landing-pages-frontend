@@ -31,34 +31,34 @@ export interface CaseStudy {
 export const caseStudies: CaseStudy[] = [
   {
     slug: 'forex-client',
-    title: 'How a forex platform leveraged ValoraPay to improve payment acceptance and expand globally',
-    subtitle: 'See how one of the leading forex trading platforms leveraged ValoraPay to overcome its payment processing challenges in various regions and streamline operations.',
+    title: 'How a forex platform leveraged BrosPay to improve payment acceptance and expand globally',
+    subtitle: 'See how one of the leading forex trading platforms leveraged BrosPay to overcome its payment processing challenges in various regions and streamline operations.',
     clientName: 'Forex client',
     location: 'London, United Kingdom',
     industry: 'Forex',
     targetGeo: 'International',
     image: '/assets/landing_page/client_stories/three_img.webp',
     aboutCompany: 'The client\'s company represents a leading online forex trading platform that has been offering traders in 170 countries a wide range of services since 2002.',
-    backgroundBefore: 'At first, the company established direct integrations with payment providers and acquirers. But over the course of time, as their customer base and the number of processed transactions in different currencies grew exponentially, it was getting more complicated to manage all payment flows and integrations on their own. Thus, the company decided to seek professional help. Before discovering ValoraPay, our client partnered with another payment gateway to facilitate their payment processing and management. This partnership lasted one year and was terminated due to several reasons.',
+    backgroundBefore: 'At first, the company established direct integrations with payment providers and acquirers. But over the course of time, as their customer base and the number of processed transactions in different currencies grew exponentially, it was getting more complicated to manage all payment flows and integrations on their own. Thus, the company decided to seek professional help. Before discovering BrosPay, our client partnered with another payment gateway to facilitate their payment processing and management. This partnership lasted one year and was terminated due to several reasons.',
     quote: {
       text: 'Our crucial need was connecting several new PSPs almost every month to make our traders\' payment journey convenient in every region. But it sometimes took them too long to establish integrations for us – the record is half a year for connecting one provider. Moreover, we didn\'t have any custom integrations included in our plan and were charged for each separately.',
       author: 'Head of Payments',
       role: 'at the client\'s company',
     },
-    whyChoose: 'These aspects, topped with weak-quality support and price hikes, made our client seek an alternative to address all their needs. Communicating with their network, our client discovered ValoraPay\'s forex payment processing solution and decided to try it. It\'s been a year since we partnered with the client\'s company. Below you can see how our cooperation evolved, what the results are, and what\'s coming in the near future.',
+    whyChoose: 'These aspects, topped with weak-quality support and price hikes, made our client seek an alternative to address all their needs. Communicating with their network, our client discovered BrosPay\'s forex payment processing solution and decided to try it. It\'s been a year since we partnered with the client\'s company. Below you can see how our cooperation evolved, what the results are, and what\'s coming in the near future.',
     benefits: [
       {
         title: 'Unifying processes & decreasing operational costs',
-        description: 'Leveraging ValoraPay\'s solution allowed our client to access a pool of ready-made connections with payment service providers via one integration with our platform. Also, managing all their payment flows through our payment dashboard helped centralise their operations and streamline payment processing.',
+        description: 'Leveraging BrosPay\'s solution allowed our client to access a pool of ready-made connections with payment service providers via one integration with our platform. Also, managing all their payment flows through our payment dashboard helped centralise their operations and streamline payment processing.',
       },
       {
         title: 'Facilitated scalability',
         description: 'As our client expanded its customer base globally, the need to establish new integrations was vital. Poor choice of payment options could hinder customer acquisition and retention, as traders often prefer platforms that offer various payment options. Moreover, the high-risk nature of the client\'s business made it even more challenging to get high-risk MIDs with particular payment providers.',
-        additionalContent: 'Integrating ValoraPay, they got access to a list of 250+ off-the-shelf integrations simultaneously, which kept growing with time. Also, they could request custom integrations for the convenience of their clients in different geographies.',
+        additionalContent: 'Integrating BrosPay, they got access to a list of 250+ off-the-shelf integrations simultaneously, which kept growing with time. Also, they could request custom integrations for the convenience of their clients in different geographies.',
       },
       {
         title: 'Easy and efficient reconciliation',
-        description: 'Working with multiple payment providers, our client faced challenges in reconciling transactions across various accounts. This created a time-consuming and error-prone process, leading to higher operational costs and settlement delays. ValoraPay\'s automated reconciliation capabilities simplified the process of reconciling transactions across various channels. By using real-time transaction data from ValoraPay, the client reduced their manual effort, minimised errors, and accelerated settlement times.',
+        description: 'Working with multiple payment providers, our client faced challenges in reconciling transactions across various accounts. This created a time-consuming and error-prone process, leading to higher operational costs and settlement delays. BrosPay\'s automated reconciliation capabilities simplified the process of reconciling transactions across various channels. By using real-time transaction data from BrosPay, the client reduced their manual effort, minimised errors, and accelerated settlement times.',
       },
       {
         title: 'Conversion rates growth',
@@ -79,11 +79,11 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/one_img.webp',
     aboutCompany: 'The client represents a leading international gambling and betting company operating across multiple jurisdictions worldwide.',
     backgroundBefore: 'The company faced significant challenges in managing payment processing across different regions, with varying regulatory requirements and payment method preferences. They needed a unified solution to streamline operations and improve conversion rates.',
-    whyChoose: 'After evaluating multiple payment orchestration platforms, the client chose ValoraPay for its comprehensive high-risk payment processing capabilities and extensive provider network.',
+    whyChoose: 'After evaluating multiple payment orchestration platforms, the client chose BrosPay for its comprehensive high-risk payment processing capabilities and extensive provider network.',
     benefits: [
       {
         title: 'Global payment coverage',
-        description: 'ValoraPay enabled the client to accept payments from customers worldwide through our extensive network of payment providers, each optimized for specific regions and payment methods.',
+        description: 'BrosPay enabled the client to accept payments from customers worldwide through our extensive network of payment providers, each optimized for specific regions and payment methods.',
       },
       {
         title: 'Improved conversion rates',
@@ -111,11 +111,11 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/two_img.webp',
     aboutCompany: 'Kuna is the first cryptocurrency exchange in Eastern Europe, providing trading services and payment solutions for businesses in the region.',
     backgroundBefore: 'As a pioneering crypto exchange, Kuna needed a robust payment infrastructure to support both their trading operations and their B2B payment services. Managing multiple payment integrations was becoming increasingly complex.',
-    whyChoose: 'Kuna chose ValoraPay to consolidate their payment operations and provide seamless payment services to their business clients.',
+    whyChoose: 'Kuna chose BrosPay to consolidate their payment operations and provide seamless payment services to their business clients.',
     benefits: [
       {
         title: 'Unified payment management',
-        description: 'ValoraPay provided Kuna with a single platform to manage all payment operations, simplifying their infrastructure and reducing operational overhead.',
+        description: 'BrosPay provided Kuna with a single platform to manage all payment operations, simplifying their infrastructure and reducing operational overhead.',
       },
       {
         title: 'B2B payment services',
@@ -123,18 +123,18 @@ export const caseStudies: CaseStudy[] = [
       },
       {
         title: 'Multi-currency support',
-        description: 'With ValoraPay\'s multi-currency capabilities, Kuna could seamlessly handle transactions in various fiat and cryptocurrencies.',
+        description: 'With BrosPay\'s multi-currency capabilities, Kuna could seamlessly handle transactions in various fiat and cryptocurrencies.',
       },
       {
         title: 'Scalable infrastructure',
-        description: 'As Kuna\'s business grew, ValoraPay\'s scalable infrastructure supported their expansion without requiring significant additional resources.',
+        description: 'As Kuna\'s business grew, BrosPay\'s scalable infrastructure supported their expansion without requiring significant additional resources.',
       },
     ],
-    conclusion: 'ValoraPay helped Kuna establish itself as a leading payment service provider in Eastern Europe, enabling them to offer comprehensive payment solutions while maintaining focus on their core cryptocurrency exchange business.',
+    conclusion: 'BrosPay helped Kuna establish itself as a leading payment service provider in Eastern Europe, enabling them to offer comprehensive payment solutions while maintaining focus on their core cryptocurrency exchange business.',
   },
   {
     slug: 'psp-client',
-    title: 'How a PSP streamlined operations with ValoraPay\'s white-label solution',
+    title: 'How a PSP streamlined operations with BrosPay\'s white-label solution',
     subtitle: 'Learn how our White label payment provider solution facilitated the whole operational cycle for a payment company and helped them handle growing payment volume.',
     clientName: 'PSP client',
     location: 'Eastern Europe',
@@ -143,11 +143,11 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/one_img.webp',
     aboutCompany: 'The client is a payment service provider operating in Eastern Europe, serving merchants across various industries.',
     backgroundBefore: 'The PSP was struggling to manage growing payment volumes and needed a more efficient way to handle operations while maintaining their brand identity.',
-    whyChoose: 'The client chose ValoraPay\'s white-label solution to streamline operations while preserving their brand and customer relationships.',
+    whyChoose: 'The client chose BrosPay\'s white-label solution to streamline operations while preserving their brand and customer relationships.',
     benefits: [
       {
         title: 'White-label solution',
-        description: 'ValoraPay\'s white-label platform allowed the PSP to maintain their brand identity while leveraging our robust payment infrastructure.',
+        description: 'BrosPay\'s white-label platform allowed the PSP to maintain their brand identity while leveraging our robust payment infrastructure.',
       },
       {
         title: 'Operational efficiency',
@@ -159,14 +159,14 @@ export const caseStudies: CaseStudy[] = [
       },
       {
         title: 'Provider network',
-        description: 'Access to ValoraPay\'s extensive provider network gave the PSP more options to serve their merchants effectively.',
+        description: 'Access to BrosPay\'s extensive provider network gave the PSP more options to serve their merchants effectively.',
       },
     ],
-    conclusion: 'With ValoraPay\'s white-label solution, the PSP successfully streamlined their operations, reduced costs, and improved their ability to serve merchants, positioning them for continued growth.',
+    conclusion: 'With BrosPay\'s white-label solution, the PSP successfully streamlined their operations, reduced costs, and improved their ability to serve merchants, positioning them for continued growth.',
   },
   {
     slug: 'boosta',
-    title: 'How Boosta manages multiple products with ValoraPay\'s multitenancy solution',
+    title: 'How Boosta manages multiple products with BrosPay\'s multitenancy solution',
     subtitle: 'The company with numerous products and websites conveniently operates their payment flows in the multitenancy environment after a single integration with us.',
     clientName: 'Boosta',
     location: 'International',
@@ -175,11 +175,11 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/two_img.webp',
     aboutCompany: 'Boosta is an IT company with multiple products and websites, each requiring payment processing capabilities.',
     backgroundBefore: 'Managing separate payment integrations for each product was becoming increasingly complex and costly, requiring significant development and maintenance resources.',
-    whyChoose: 'Boosta chose ValoraPay for its multitenancy capabilities, allowing them to manage all products through a single integration.',
+    whyChoose: 'Boosta chose BrosPay for its multitenancy capabilities, allowing them to manage all products through a single integration.',
     benefits: [
       {
         title: 'Single integration',
-        description: 'One integration with ValoraPay enabled Boosta to manage payment flows for all their products and websites, significantly reducing development time and costs.',
+        description: 'One integration with BrosPay enabled Boosta to manage payment flows for all their products and websites, significantly reducing development time and costs.',
       },
       {
         title: 'Centralized management',
@@ -194,12 +194,12 @@ export const caseStudies: CaseStudy[] = [
         description: 'Adding new products or websites became much simpler, requiring only configuration changes rather than new integrations.',
       },
     ],
-    conclusion: 'ValoraPay\'s multitenancy solution transformed how Boosta manages payments across all their products, enabling them to focus on product development rather than payment infrastructure.',
+    conclusion: 'BrosPay\'s multitenancy solution transformed how Boosta manages payments across all their products, enabling them to focus on product development rather than payment infrastructure.',
   },
   {
     slug: 'coffeeok',
     title: 'How Coffeeok enhanced customer experience with personalized checkout',
-    subtitle: 'With the help of ValoraPay, Ukrainian e-commerce merchant Coffeeok organised a personalised checkout experience and gained customer loyalty and trust.',
+    subtitle: 'With the help of BrosPay, Ukrainian e-commerce merchant Coffeeok organised a personalised checkout experience and gained customer loyalty and trust.',
     clientName: 'Coffeeok',
     location: 'Ukraine',
     industry: 'E-commerce',
@@ -207,11 +207,11 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/three_img.webp',
     aboutCompany: 'Coffeeok is a Ukrainian e-commerce merchant specializing in coffee products, serving customers across Ukraine.',
     backgroundBefore: 'Coffeeok needed to improve their checkout experience to reduce cart abandonment and increase customer satisfaction.',
-    whyChoose: 'Coffeeok chose ValoraPay for its flexible checkout customization options and local payment method support.',
+    whyChoose: 'Coffeeok chose BrosPay for its flexible checkout customization options and local payment method support.',
     benefits: [
       {
         title: 'Personalized checkout',
-        description: 'ValoraPay enabled Coffeeok to create a customized checkout experience that matched their brand and improved user experience.',
+        description: 'BrosPay enabled Coffeeok to create a customized checkout experience that matched their brand and improved user experience.',
       },
       {
         title: 'Local payment methods',
@@ -226,11 +226,11 @@ export const caseStudies: CaseStudy[] = [
         description: 'A seamless, secure checkout process helped build customer trust and loyalty, leading to repeat purchases.',
       },
     ],
-    conclusion: 'By partnering with ValoraPay, Coffeeok successfully enhanced their checkout experience, resulting in improved conversion rates, customer satisfaction, and business growth.',
+    conclusion: 'By partnering with BrosPay, Coffeeok successfully enhanced their checkout experience, resulting in improved conversion rates, customer satisfaction, and business growth.',
   },
   {
     slug: 'letyshops',
-    title: 'How LetyShops scaled internationally with ValoraPay\'s payout solutions',
+    title: 'How LetyShops scaled internationally with BrosPay\'s payout solutions',
     subtitle: 'Discover the success story of LetyShops to learn how we helped them handle mass payouts and establish new integrations, equipping the company for international expansion.',
     clientName: 'LetyShops',
     location: 'Worldwide',
@@ -239,15 +239,15 @@ export const caseStudies: CaseStudy[] = [
     image: '/assets/landing_page/client_stories/one_img.webp',
     aboutCompany: 'LetyShops is a cashback service operating worldwide, providing rewards to customers for their online purchases.',
     backgroundBefore: 'As LetyShops expanded internationally, managing mass payouts across different countries and payment methods became increasingly challenging.',
-    whyChoose: 'LetyShops chose ValoraPay for its comprehensive payout solutions and ability to handle high-volume transactions across multiple geographies.',
+    whyChoose: 'LetyShops chose BrosPay for its comprehensive payout solutions and ability to handle high-volume transactions across multiple geographies.',
     benefits: [
       {
         title: 'Mass payout capabilities',
-        description: 'ValoraPay\'s batch payout functionality enabled LetyShops to efficiently process thousands of payouts simultaneously.',
+        description: 'BrosPay\'s batch payout functionality enabled LetyShops to efficiently process thousands of payouts simultaneously.',
       },
       {
         title: 'Global reach',
-        description: 'Access to ValoraPay\'s provider network allowed LetyShops to offer payouts in various countries and currencies.',
+        description: 'Access to BrosPay\'s provider network allowed LetyShops to offer payouts in various countries and currencies.',
       },
       {
         title: 'Rapid integration',
@@ -258,7 +258,7 @@ export const caseStudies: CaseStudy[] = [
         description: 'Optimized payout routing helped LetyShops reduce transaction costs while maintaining fast processing times.',
       },
     ],
-    conclusion: 'With ValoraPay\'s support, LetyShops successfully scaled their operations internationally, handling mass payouts efficiently and expanding into new markets with confidence.',
+    conclusion: 'With BrosPay\'s support, LetyShops successfully scaled their operations internationally, handling mass payouts efficiently and expanding into new markets with confidence.',
   },
 ]
 

@@ -12,7 +12,7 @@ export function CaseStudiesStats() {
   const stats = [
     {
       value: '800M+',
-      label: 'successful transactions across the world powered by ValoraPay',
+      label: 'successful transactions across the world powered by BrosPay',
       icon: (
         <svg className="w-12 h-12 text-[#4730B8]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -21,7 +21,7 @@ export function CaseStudiesStats() {
     },
     {
       value: 'Principal members',
-      label: 'Principal members of Visa and Mastercard use ValoraPay as a gateway for card-acquiring services',
+      label: 'Principal members of Visa and Mastercard use BrosPay as a gateway for card-acquiring services',
       icon: (
         <svg className="w-12 h-12 text-[#4730B8]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />

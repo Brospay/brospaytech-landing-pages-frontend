@@ -37,7 +37,7 @@ export function ExpandGloballyIndicators() {
     {
       number: 6,
       title: 'You\'ve gathered a strong team of professionals who enjoy working with you',
-      description: 'We at ValoraPay believe the team is what makes the difference. Reliable and committed colleagues who support your aspirations double your chances for success!',
+      description: 'We at BrosPay believe the team is what makes the difference. Reliable and committed colleagues who support your aspirations double your chances for success!',
     },
     {
       number: 7,

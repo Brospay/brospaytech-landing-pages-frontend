@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * Boost Conversions Blog Layout - matches ValoraPay blog post design
+ * Boost Conversions Blog Layout - matches BrosPay blog post design
  */
 export function BoostConversionsBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -124,7 +124,7 @@ export function BoostConversionsBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>February 21, 2024</span>
                 <span>•</span>
@@ -158,7 +158,7 @@ export function BoostConversionsBlogLayout() {
                 Need a hand in conversion optimisation?
               </h3>
               <p className="text-gray-700 mb-4 font-body">
-                Explore ValoraPay's Checkout solution and an array of features it provides for your conversion rates growth.
+                Explore BrosPay's Checkout solution and an array of features it provides for your conversion rates growth.
               </p>
               <Link
                 href="/checkout"
@@ -272,13 +272,13 @@ export function BoostConversionsBlogLayout() {
               </div>
             </div>
 
-            {/* Advanced Strategies with ValoraPay */}
+            {/* Advanced Strategies with BrosPay */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                Advanced strategies and techniques for conversion optimisation with ValoraPay
+                Advanced strategies and techniques for conversion optimisation with BrosPay
               </h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-8 font-body">
-                ValoraPay offers a suite of features designed to enhance checkout conversion rates, with clients observing an increase between 10-25%. This section delves into how our payment orchestration platform empowers businesses with advanced strategies and techniques for conversion optimisation, supported by illustrative client stories.
+                BrosPay offers a suite of features designed to enhance checkout conversion rates, with clients observing an increase between 10-25%. This section delves into how our payment orchestration platform empowers businesses with advanced strategies and techniques for conversion optimisation, supported by illustrative client stories.
               </p>
 
               <div className="space-y-8">
@@ -287,7 +287,7 @@ export function BoostConversionsBlogLayout() {
                     Instant and one-click payments
                   </h3>
                   <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                    ValoraPay simplifies the checkout experience with instant and one-click payments, eliminating the need for returning customers to re-enter their payment details. This convenience significantly reduces checkout time, a key factor in boosting conversion rates, as it aligns with the modern consumer's expectation for speed and efficiency.
+                    BrosPay simplifies the checkout experience with instant and one-click payments, eliminating the need for returning customers to re-enter their payment details. This convenience significantly reduces checkout time, a key factor in boosting conversion rates, as it aligns with the modern consumer's expectation for speed and efficiency.
                   </p>
                 </div>
 
@@ -296,7 +296,7 @@ export function BoostConversionsBlogLayout() {
                     Custom payment routing strategy and cascading schemes
                   </h3>
                   <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                    ValoraPay enables the creation of tailored routing and cascading strategies that consider a wide range of transaction parameters, from card issuer details to transaction amounts. This granularity in routing decisions ensures that each transaction is processed through the pathway with the highest likelihood of approval.
+                    BrosPay enables the creation of tailored routing and cascading strategies that consider a wide range of transaction parameters, from card issuer details to transaction amounts. This granularity in routing decisions ensures that each transaction is processed through the pathway with the highest likelihood of approval.
                   </p>
                   <p className="text-[18px] text-gray-700 leading-relaxed font-body">
                     Our PSP client's journey from a 56.2% conversion rate to an impressive 85.1% within a year underscores the power of a meticulously crafted routing strategy, combined with cascading and UX improvements, in achieving significant conversion rate growth.
@@ -308,7 +308,7 @@ export function BoostConversionsBlogLayout() {
                     Card bindings for higher acceptance rates
                   </h3>
                   <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                    The card binding feature offered by ValoraPay significantly enhances payment acceptance rates by optimising transaction flows based on historical success. By binding a customer's card to the Merchant ID (MID) that previously processed a successful transaction, subsequent payments are streamlined, leading to improved approval rates.
+                    The card binding feature offered by BrosPay significantly enhances payment acceptance rates by optimising transaction flows based on historical success. By binding a customer's card to the Merchant ID (MID) that previously processed a successful transaction, subsequent payments are streamlined, leading to improved approval rates.
                   </p>
                 </div>
 
@@ -320,13 +320,13 @@ export function BoostConversionsBlogLayout() {
                     Payment team as a service is how we refer to the payment guidance and support we provide to our clients. Based on our payment expertise, we perform tasks varying from daily operations to forming feature requests, solving issues with providers, developing payment expansion strategies, and more.
                   </p>
                   <p className="text-[18px] text-gray-700 leading-relaxed font-body">
-                    Here's a brief recap of a case that illustrates our capacity to pinpoint and resolve intricate problems, leading to substantial conversion rate improvements: a major PSP client faced a dismal 14% conversion rate with Google Pay due to issues in the provider's interaction with the issuer. ValoraPay's intervention rectified these issues and boosted the conversion rate to 84% after implementing recommended adjustments.
+                    Here's a brief recap of a case that illustrates our capacity to pinpoint and resolve intricate problems, leading to substantial conversion rate improvements: a major PSP client faced a dismal 14% conversion rate with Google Pay due to issues in the provider's interaction with the issuer. BrosPay's intervention rectified these issues and boosted the conversion rate to 84% after implementing recommended adjustments.
                   </p>
                 </div>
 
                 <div className="bg-gray-50 rounded-[20px] p-6 lg:p-8">
                   <h3 className="text-xl font-bold text-gray-900 mb-4 font-heading">
-                    Proactive monitoring with ValoraPay's Dashboard
+                    Proactive monitoring with BrosPay's Dashboard
                   </h3>
                   <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                     By providing a comprehensive overview of transaction data, our Dashboard enables businesses to identify and address inefficiencies within their payment processes, allowing for continuous optimisation based on real-time performance. This works especially well with the payment team as a service, when our Account Managers monitor clients' data to help them detect areas for improvement.
@@ -379,7 +379,7 @@ export function BoostConversionsBlogLayout() {
                   Need to boost your conversions?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you optimize your payment processes and increase conversion rates.
+                  Discover how BrosPay can help you optimize your payment processes and increase conversion rates.
                 </p>
                 <Link
                   href="#book-call"

@@ -17,7 +17,7 @@ import {
 
 /**
  * Checkout page component
- * Displays comprehensive information about ValoraPay's checkout solutions
+ * Displays comprehensive information about BrosPay's checkout solutions
  */
 export default function CheckoutPage() {
   return (

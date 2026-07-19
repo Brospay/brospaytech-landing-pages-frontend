@@ -56,7 +56,7 @@ export function MerchantHero() {
             <div className="relative w-full h-[500px] lg:h-[600px] flex items-center justify-center">
               <img
                 src="/assets/merchant-management_page/hero_right.png"
-                alt="ValoraPay merchant management solutions"
+                alt="BrosPay merchant management solutions"
                 className="w-full h-full object-contain"
                 loading="eager"
                 width={600}

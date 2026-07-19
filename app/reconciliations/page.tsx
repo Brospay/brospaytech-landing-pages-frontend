@@ -16,7 +16,7 @@ import {
 
 /**
  * Reconciliations page component
- * Displays comprehensive information about ValoraPay's reconciliation solutions
+ * Displays comprehensive information about BrosPay's reconciliation solutions
  */
 export default function ReconciliationsPage() {
   return (

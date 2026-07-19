@@ -10,7 +10,7 @@ import {
 
 /**
  * North America page component
- * Blog-style layout matching ValoraPay design
+ * Blog-style layout matching BrosPay design
  */
 export default function NorthAmericaPage() {
   return (

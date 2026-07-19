@@ -133,7 +133,7 @@ export function DynamicRoutingRules() {
             Dynamic Routing Rules
           </h2>
           <p className="text-[18px] text-gray-300 max-w-3xl mx-auto leading-relaxed font-body">
-            All transactions coming through ValoraPay can be instantly analysed and routed to the optimal provider based on a variety of flexible payment routing parameters.
+            All transactions coming through BrosPay can be instantly analysed and routed to the optimal provider based on a variety of flexible payment routing parameters.
           </p>
         </div>
 

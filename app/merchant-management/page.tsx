@@ -15,7 +15,7 @@ import {
 
 /**
  * Merchant Management page component
- * Displays comprehensive information about ValoraPay's merchant management solutions
+ * Displays comprehensive information about BrosPay's merchant management solutions
  */
 export default function MerchantManagementPage() {
   return (

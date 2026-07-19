@@ -10,7 +10,7 @@ import {
 
 /**
  * Middle East page component
- * Blog-style layout matching ValoraPay design
+ * Blog-style layout matching BrosPay design
  */
 export default function MiddleEastPage() {
   return (

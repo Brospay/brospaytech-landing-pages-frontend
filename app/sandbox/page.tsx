@@ -20,7 +20,7 @@ export default function SandboxPage() {
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
                   Test your payment and payout integrations in a safe sandbox environment. 
-                  Set up your test accounts and start building with ValoraPay.
+                  Set up your test accounts and start building with BrosPay.
                 </p>
               </div>
             </div>

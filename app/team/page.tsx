@@ -4,7 +4,7 @@ import { Navigation, Footer, ScrollToTop, Team } from '@/shared/components'
 
 /**
  * Team page
- * Displays information about ValoraPay team members
+ * Displays information about BrosPay team members
  */
 export default function TeamPage() {
   return (
@@ -23,7 +23,7 @@ export default function TeamPage() {
                     Our Team
                   </h1>
                   <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                    Meet the talented people behind ValoraPay
+                    Meet the talented people behind BrosPay
                   </p>
                 </div>
               </div>

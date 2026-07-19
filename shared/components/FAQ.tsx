@@ -17,11 +17,11 @@ export function FAQ() {
 
   const faqs = [
     {
-      question: 'What is ValoraPay payment orchestration platform?',
-      answer: 'ValoraPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface. Our platform helps businesses streamline payment processing, reduce integration complexity, and improve transaction success rates.',
+      question: 'What is BrosPay payment orchestration platform?',
+      answer: 'BrosPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface. Our platform helps businesses streamline payment processing, reduce integration complexity, and improve transaction success rates.',
     },
     {
-      question: 'How do I get started with ValoraPay?',
+      question: 'How do I get started with BrosPay?',
       answer: 'Getting started is simple. Sign up for an account, complete the onboarding process, and connect your payment providers. Our team will guide you through the integration process, and you\'ll have access to comprehensive documentation and API references. You can also test in our sandbox environment before going live.',
     },
     {
@@ -30,23 +30,23 @@ export function FAQ() {
     },
     {
       question: 'What payment methods can I accept?',
-      answer: 'With ValoraPay, you can accept various payment methods including credit and debit cards (Visa, Mastercard, American Express, Discover), digital wallets (Apple Pay, Google Pay, Samsung Pay), bank transfers, local payment methods, and cryptocurrencies. Our platform supports 200+ currencies and cryptos, giving you global payment acceptance.',
+      answer: 'With BrosPay, you can accept various payment methods including credit and debit cards (Visa, Mastercard, American Express, Discover), digital wallets (Apple Pay, Google Pay, Samsung Pay), bank transfers, local payment methods, and cryptocurrencies. Our platform supports 200+ currencies and cryptos, giving you global payment acceptance.',
     },
     {
       question: 'How does routing and cascading work?',
       answer: 'Our intelligent routing system automatically directs transactions to the best-performing payment provider based on success rates, costs, and region. Cascading allows failed transactions to automatically retry with alternative providers, maximizing your approval rates and ensuring smooth payment processing.',
     },
     {
-      question: 'Is ValoraPay secure and compliant?',
+      question: 'Is BrosPay secure and compliant?',
       answer: 'Yes, security and compliance are our top priorities. We are PCI DSS Level 1 certified and comply with GDPR, PSD2, and other regional regulations. All transactions are encrypted, and we provide advanced fraud prevention tools, 3D Secure support, and comprehensive risk management features to protect your business and customers.',
     },
     {
       question: 'What kind of analytics and reporting do you provide?',
-      answer: 'ValoraPay offers real-time transaction monitoring and comprehensive analytics dashboards. Track transaction success rates, revenue, refunds, chargebacks, and provider performance. Generate detailed reports, reconcile payments automatically, and gain insights into your payment operations to optimize performance and reduce costs.',
+      answer: 'BrosPay offers real-time transaction monitoring and comprehensive analytics dashboards. Track transaction success rates, revenue, refunds, chargebacks, and provider performance. Generate detailed reports, reconcile payments automatically, and gain insights into your payment operations to optimize performance and reduce costs.',
     },
     {
-      question: 'Can I use ValoraPay for white-label solutions?',
-      answer: 'Absolutely. ValoraPay offers white-label payment provider solutions that allow you to brand the platform as your own. Perfect for payment institutions, PSPs, and businesses that want to offer payment services under their brand. We provide full customization options and dedicated support for white-label implementations.',
+      question: 'Can I use BrosPay for white-label solutions?',
+      answer: 'Absolutely. BrosPay offers white-label payment provider solutions that allow you to brand the platform as your own. Perfect for payment institutions, PSPs, and businesses that want to offer payment services under their brand. We provide full customization options and dedicated support for white-label implementations.',
     },
     {
       question: 'What support options are available?',

@@ -15,10 +15,10 @@ export function DeveloperCentric() {
     {
       id: 'hosted',
       title: 'Ready for use',
-      description: 'Checkout is a secure, ValoraPay-hosted payment page that lets you collect payments with minimal development effort. Just redirect your customers to our hosted page.',
+      description: 'Checkout is a secure, BrosPay-hosted payment page that lets you collect payments with minimal development effort. Just redirect your customers to our hosted page.',
       features: ['No PCI compliance needed', 'Automatic updates', 'Mobile optimised', 'Customisable branding'],
       code: `// Redirect to hosted checkout
-const checkout = await ValoraPay.createCheckout({
+const checkout = await BrosPay.createCheckout({
   amount: 4999,
   currency: 'USD',
   success_url: 'https://your-site.com/success',
@@ -33,7 +33,7 @@ window.location.href = checkout.url;`,
       description: 'Embed our checkout directly into your website for a seamless experience. Keep customers on your domain while we handle the payment processing.',
       features: ['Seamless UX', 'Full control', 'Custom styling', 'Event callbacks'],
       code: `// Embed checkout in your page
-const checkout = ValoraPay.Checkout({
+const checkout = BrosPay.Checkout({
   container: '#checkout-container',
   publicKey: 'pk_live_xxx',
   amount: 4999,
@@ -51,7 +51,7 @@ checkout.mount();`,
       description: 'Full API access for complete control over the checkout experience. Build your own UI while leveraging our powerful payment infrastructure.',
       features: ['Complete flexibility', 'Custom flows', 'Server-side control', 'Webhooks'],
       code: `// Server-side payment creation
-const payment = await ValoraPay.payments.create({
+const payment = await BrosPay.payments.create({
   amount: 4999,
   currency: 'USD',
   payment_method: 'card',

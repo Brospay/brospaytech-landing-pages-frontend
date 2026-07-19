@@ -54,10 +54,10 @@ export function Integration() {
             {/* Introduction */}
             <div className="bg-white rounded-[20px] p-6 lg:p-8 shadow-sm mb-8">
               <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                Integrate with ValoraPay
+                Integrate with BrosPay
               </h1>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                ValoraPay APIs
+                BrosPay APIs
               </p>
             </div>
 
@@ -77,7 +77,7 @@ export function Integration() {
                     Which payment products do you want to offer your customers?
                   </h3>
                   <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                    The ValoraPay platforms offer the widest range of payment methods of any payment service provider, from global card processing to specialized local payment products your world wide audience likes best. Have a look at the options we provide.
+                    The BrosPay platforms offer the widest range of payment methods of any payment service provider, from global card processing to specialized local payment products your world wide audience likes best. Have a look at the options we provide.
                   </p>
                   <Link
                     href="/payment-methods"
@@ -120,7 +120,7 @@ export function Integration() {
                   <h3 className="text-xl font-bold text-gray-900 font-heading">Payment Form</h3>
                 </div>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  With ValoraPay, you can build a payments flow that gives you and your customers the power of choice. Collect payment information quickly and securely, create charges server-side in over 150 currencies, or accept payments from a host of additional payment methods, including 3-D Secure, Apple Pay, and SEPA.
+                  With BrosPay, you can build a payments flow that gives you and your customers the power of choice. Collect payment information quickly and securely, create charges server-side in over 150 currencies, or accept payments from a host of additional payment methods, including 3-D Secure, Apple Pay, and SEPA.
                 </p>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                   Read about our integration methods below, then choose the one that best suits your needs.
@@ -147,13 +147,13 @@ export function Integration() {
                   <h3 className="text-xl font-bold text-gray-900 font-heading">Mass payout</h3>
                 </div>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  Many companies leverage ValoraPay Payouts to please their customers with timely payouts, while reducing the costs associated with managing multiple payout solutions. Integrate mass payout functionality directly in your existing system and gain time back to focus on building your business.
+                  Many companies leverage BrosPay Payouts to please their customers with timely payouts, while reducing the costs associated with managing multiple payout solutions. Integrate mass payout functionality directly in your existing system and gain time back to focus on building your business.
                 </p>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                   Build mass payouts right into your platform, cut out manual processes, and add time and peace of mind back into your work day.
                 </p>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  ValoraPay delivers the best global payout experience. You know your business and what it takes to succeed. We understand the complex world of global payouts and we know what it takes to deliver an outstanding experience.
+                  BrosPay delivers the best global payout experience. You know your business and what it takes to succeed. We understand the complex world of global payouts and we know what it takes to deliver an outstanding experience.
                 </p>
                 <Link
                   href="/docs/integration/make-payouts"

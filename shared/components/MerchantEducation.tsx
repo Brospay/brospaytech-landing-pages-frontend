@@ -79,19 +79,19 @@ export function MerchantEducation() {
           </div>
         </div>
 
-        {/* Merchant management software by ValoraPay */}
+        {/* Merchant management software by BrosPay */}
         <div className="bg-[#4730B8] rounded-2xl p-8 lg:p-12">
           <h2 className="text-2xl lg:text-3xl font-bold text-white mb-6 font-heading">
-            Merchant Management Software By ValoraPay
+            Merchant Management Software By BrosPay
           </h2>
           <p className="text-white/90 leading-relaxed mb-6 font-body">
-            ValoraPay equips merchants with reliable payment management software that allows them to control financial flows at several points of sale at once. Payment management software provides analytics on money movement across several accounts. It displays the data about the processed transactions per day and allows you to set alerts about important incidents so that you don't miss any critical data.
+            BrosPay equips merchants with reliable payment management software that allows them to control financial flows at several points of sale at once. Payment management software provides analytics on money movement across several accounts. It displays the data about the processed transactions per day and allows you to set alerts about important incidents so that you don't miss any critical data.
           </p>
           <p className="text-white/90 leading-relaxed mb-8 font-body">
-            With the payment management software by ValoraPay, you can compare different periods and analyse your business management performance. This tool for merchant management allows you to monitor the conversion rates of different periods to understand the overall efficiency and throughput of payment processing software.
+            With the payment management software by BrosPay, you can compare different periods and analyse your business management performance. This tool for merchant management allows you to monitor the conversion rates of different periods to understand the overall efficiency and throughput of payment processing software.
           </p>
           <p className="text-white/90 leading-relaxed mb-6 font-body">
-            The merchant management tool by ValoraPay allows you to:
+            The merchant management tool by BrosPay allows you to:
           </p>
           <ul className="space-y-3 mb-8">
             {softwareFeatures.map((feature, index) => (

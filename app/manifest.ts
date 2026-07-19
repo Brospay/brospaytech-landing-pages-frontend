@@ -2,8 +2,8 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'ValoraPay - Payment Orchestration Platform',
-    short_name: 'ValoraPay',
+    name: 'BrosPay - Payment Orchestration Platform',
+    short_name: 'BrosPay',
     description: 'Top-Notch Payment Orchestration Platform. Universal feature-rich payment hub for online businesses.',
     start_url: '/',
     display: 'standalone',

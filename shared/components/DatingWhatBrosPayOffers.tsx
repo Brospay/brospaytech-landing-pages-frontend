@@ -3,9 +3,9 @@
 import { useFadeIn } from '@/shared/hooks/useFadeIn'
 
 /**
- * Dating What ValoraPay Offers section
+ * Dating What BrosPay Offers section
  */
-export function DatingWhatValoraPayOffers() {
+export function DatingWhatBrosPayOffers() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
 
   const features = [
@@ -40,10 +40,10 @@ export function DatingWhatValoraPayOffers() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            What does ValoraPay offer to online dating merchants?
+            What does BrosPay offer to online dating merchants?
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-body">
-            Running an online dating platform comes with its fair share of payment headaches, including juggling multiple providers, fighting chargebacks, and keeping global users happy. That's where ValoraPay steps in.
+            Running an online dating platform comes with its fair share of payment headaches, including juggling multiple providers, fighting chargebacks, and keeping global users happy. That's where BrosPay steps in.
           </p>
         </div>
 

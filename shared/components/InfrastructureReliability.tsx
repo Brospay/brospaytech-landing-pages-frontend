@@ -14,15 +14,15 @@ export function InfrastructureReliability() {
   const features = [
     {
       title: 'Hosting Facilities',
-      description: 'ValoraPay currently hosts its main systems in separate data centres in Europe and in the United States provided by Amazon Web Services. We administer and manage all our servers and do not outsource any administration to third parties for payment processing.',
+      description: 'BrosPay currently hosts its main systems in separate data centres in Europe and in the United States provided by Amazon Web Services. We administer and manage all our servers and do not outsource any administration to third parties for payment processing.',
     },
     {
       title: '99.95% Uptime',
-      description: "ValoraPay's systems have been designed for maximum uptime through a redundant and stateless service-oriented architecture that simultaneously accepts payments on multiple physical hosting locations.",
+      description: "BrosPay's systems have been designed for maximum uptime through a redundant and stateless service-oriented architecture that simultaneously accepts payments on multiple physical hosting locations.",
     },
     {
       title: 'Monitoring',
-      description: "Our Internet-facing systems are probed from points all over the world at least every five minutes to assess availability. ValoraPay's entire infrastructure is monitored by a series of internal monitoring platforms that alert our engineers around the clock, 365 days a year.",
+      description: "Our Internet-facing systems are probed from points all over the world at least every five minutes to assess availability. BrosPay's entire infrastructure is monitored by a series of internal monitoring platforms that alert our engineers around the clock, 365 days a year.",
     },
     {
       title: 'DDoS Protection',
@@ -34,7 +34,7 @@ export function InfrastructureReliability() {
     },
     {
       title: 'Processing Speed',
-      description: "ValoraPay's standard real-time reporting dashboard provides detailed analytics and insights into your payment processing performance with minimal delay.",
+      description: "BrosPay's standard real-time reporting dashboard provides detailed analytics and insights into your payment processing performance with minimal delay.",
     },
   ]
 
@@ -47,7 +47,7 @@ export function InfrastructureReliability() {
             Infrastructure Reliability
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay's PCI-compliant payment platform runs entirely on AWS, relying on security best practices and auditability.
+            BrosPay's PCI-compliant payment platform runs entirely on AWS, relying on security best practices and auditability.
           </p>
         </div>
 

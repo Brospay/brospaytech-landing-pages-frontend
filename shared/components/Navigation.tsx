@@ -217,7 +217,7 @@ export function Navigation() {
             >
               <img
                 src="/assets/logo_dark.png"
-                alt="ValoraPay Logo"
+                alt="BrosPay Logo"
                 className="h-10 w-auto"
                 loading="eager"
               />
@@ -872,7 +872,7 @@ export function Navigation() {
                                   {[
                                     'Static vs. dynamic payment routing explained',
                                     'Payment routing 101: definition, process, rules, and workflow',
-                                    "ValoraPay's monthly updates: October 2025",
+                                    "BrosPay's monthly updates: October 2025",
                                   ].map((title, index) => (
                                     <a
                                       key={index}
@@ -1020,13 +1020,13 @@ export function Navigation() {
                                 <div className="bg-gray-100 rounded-xl mb-4 h-48 overflow-hidden">
                                   <img
                                     src="/assets/team.jpg"
-                                    alt="ValoraPay team"
+                                    alt="BrosPay team"
                                     className="w-full h-full object-cover"
                                     loading="lazy"
                                   />
                                 </div>
                                 <p className="text-sm text-gray-600 font-body leading-relaxed">
-                                  Find out more about ValoraPay as a company, meet our team and get the relevant contacts here.
+                                  Find out more about BrosPay as a company, meet our team and get the relevant contacts here.
                                 </p>
                               </div>
 

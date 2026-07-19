@@ -17,20 +17,20 @@ export function PayoutsFAQ() {
       answer: "Payouts mean the disbursement of funds from a payer's account to a payee's one. Frequently, there might be several payees or recipients of funds. The international payout system represents a set of tools that provide online businesses with an opportunity to make outgoing electronic transactions to partners, contractors, or clients across the globe.\n\nIt is impossible to run an online business without making payouts. Business owners use this type of transactions to pay out salaries to their employees, freelancers, or suppliers to their accounts globally and initiate other types of outgoing payments to partners, clients, etc.",
     },
     {
-      question: 'How can ValoraPay assist me in handling global payouts?',
-      answer: "The global payout solution by ValoraPay is a ready-made tool that allows businesses to send instant singular or mass payouts to any recipient, in any currency, both automatically and manually. Additionally, the platform provides an opportunity to easily control all the incoming and outgoing transactions in a unified dashboard.\n\nOur platform provides online businesses with a range of smart tools to make financial flows in your company smooth and efficient. We empower you to initiate payouts in any currency via multiple methods and monitor the transaction data to analyse it further.",
+      question: 'How can BrosPay assist me in handling global payouts?',
+      answer: "The global payout solution by BrosPay is a ready-made tool that allows businesses to send instant singular or mass payouts to any recipient, in any currency, both automatically and manually. Additionally, the platform provides an opportunity to easily control all the incoming and outgoing transactions in a unified dashboard.\n\nOur platform provides online businesses with a range of smart tools to make financial flows in your company smooth and efficient. We empower you to initiate payouts in any currency via multiple methods and monitor the transaction data to analyse it further.",
     },
     {
-      question: 'Which countries can I send payouts to with ValoraPay?',
-      answer: "With ValoraPay's extensive provider network, you can send payouts to almost any country worldwide. Coverage depends on the providers you connect, making our payout platform flexible for both regional and global businesses.",
+      question: 'Which countries can I send payouts to with BrosPay?',
+      answer: "With BrosPay's extensive provider network, you can send payouts to almost any country worldwide. Coverage depends on the providers you connect, making our payout platform flexible for both regional and global businesses.",
     },
     {
-      question: 'How fast can I send payouts with ValoraPay?',
-      answer: "Payout speed depends on the connected provider, but ValoraPay's payout solution enables you to set up automatic routing through the fastest available channels. This helps you offer instant or near-instant payouts, reducing delays and improving customer satisfaction.",
+      question: 'How fast can I send payouts with BrosPay?',
+      answer: "Payout speed depends on the connected provider, but BrosPay's payout solution enables you to set up automatic routing through the fastest available channels. This helps you offer instant or near-instant payouts, reducing delays and improving customer satisfaction.",
     },
     {
-      question: "How do I get started with ValoraPay's payout platform?",
-      answer: "Getting started with ValoraPay's payout platform is simple and doesn't require heavy development work. First, book a call with our team to discuss your payout needs and target regions. Next, we'll help you connect to the right payment providers from our network of 550+ integrations. Once your accounts are linked, you can start sending payouts through our dashboard or automate them via our payouts API.\n\nWith our ready-made infrastructure, you can launch fast and begin managing global mass payouts securely and efficiently.",
+      question: "How do I get started with BrosPay's payout platform?",
+      answer: "Getting started with BrosPay's payout platform is simple and doesn't require heavy development work. First, book a call with our team to discuss your payout needs and target regions. Next, we'll help you connect to the right payment providers from our network of 550+ integrations. Once your accounts are linked, you can start sending payouts through our dashboard or automate them via our payouts API.\n\nWith our ready-made infrastructure, you can launch fast and begin managing global mass payouts securely and efficiently.",
     },
   ]
 

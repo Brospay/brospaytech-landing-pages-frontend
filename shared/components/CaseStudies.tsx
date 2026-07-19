@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 /**
  * Case Studies component
- * Features all case studies from ValoraPay
+ * Features all case studies from BrosPay
  */
 export function CaseStudies() {
   const sectionFade = useFadeIn({ threshold: 0.15, delay: 0 })
@@ -16,7 +16,7 @@ export function CaseStudies() {
       clientId: 'Forex client',
       industry: 'Forex',
       targetGeo: 'International',
-      description: 'See how one of the leading forex trading platforms leveraged ValoraPay to overcome its payment processing challenges in various regions and streamline operations.',
+      description: 'See how one of the leading forex trading platforms leveraged BrosPay to overcome its payment processing challenges in various regions and streamline operations.',
       image: '/assets/landing_page/client_stories/three_img.webp',
     },
     {
@@ -56,7 +56,7 @@ export function CaseStudies() {
       clientId: 'Coffeeok',
       industry: 'E-commerce',
       targetGeo: 'Ukraine',
-      description: 'With the help of ValoraPay, Ukrainian e-commerce merchant Coffeeok organised a personalised checkout experience and gained customer loyalty and trust.',
+      description: 'With the help of BrosPay, Ukrainian e-commerce merchant Coffeeok organised a personalised checkout experience and gained customer loyalty and trust.',
       image: '/assets/landing_page/client_stories/three_img.webp',
     },
     {

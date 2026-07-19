@@ -73,13 +73,13 @@ export function MassPayoutsEducation() {
           </div>
         </div>
 
-        {/* How to make a batch payout using ValoraPay? */}
+        {/* How to make a batch payout using BrosPay? */}
         <div className="bg-[#4730B8] rounded-2xl p-8 lg:p-12">
           <h2 className="text-2xl lg:text-3xl font-bold text-white mb-6 font-heading">
-            How to make a batch payout using ValoraPay?
+            How to make a batch payout using BrosPay?
           </h2>
           <p className="text-white/90 leading-relaxed mb-8 font-body">
-            Payment orchestration platform ValoraPay is the technical partner you can completely trust with your online payments. Our platform offers sophisticated mass payouts capabilities, allowing you to send out money to thousands of users worldwide at once by following three simple steps:
+            Payment orchestration platform BrosPay is the technical partner you can completely trust with your online payments. Our platform offers sophisticated mass payouts capabilities, allowing you to send out money to thousands of users worldwide at once by following three simple steps:
           </p>
           <div className="space-y-4 mb-8">
             {howToSteps.map((step, index) => (

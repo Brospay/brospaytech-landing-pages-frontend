@@ -108,7 +108,7 @@ export function Guides() {
 
                     {/* Hover Overlay - Shows on hover */}
                     <div className="absolute inset-0 bg-[#4730B8]/90 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-6 flex flex-col justify-center items-center text-center">
-                      <div className="text-white/80 text-xs font-semibold font-body mb-4">ValoraPay</div>
+                      <div className="text-white/80 text-xs font-semibold font-body mb-4">BrosPay</div>
                       <h2 className="text-white text-xl lg:text-2xl font-bold mb-3 font-heading">
                         {guide.title}
                       </h2>

@@ -20,7 +20,7 @@ How it works?
 
 Being interfaces, or web applications, payment dashboards epitomise a single access point to all the payment processes for your team.
 
-At ValoraPay, we create and set up an account for our customer's organisation as part of the onboarding process. We provide all the information, tutorials, and assistance as customers and their team start using it. Then, they can view and use their dashboard autonomously and request help from a dedicated Account Manager assigned to them by ValoraPay. The solution gets automatically updated by us, so you don't need to involve developers in maintaining it.`,
+At BrosPay, we create and set up an account for our customer's organisation as part of the onboarding process. We provide all the information, tutorials, and assistance as customers and their team start using it. Then, they can view and use their dashboard autonomously and request help from a dedicated Account Manager assigned to them by BrosPay. The solution gets automatically updated by us, so you don't need to involve developers in maintaining it.`,
     },
     {
       question: 'Why use a payment dashboard?',
@@ -34,7 +34,7 @@ What's it for?
 
 • Transaction data collection and visualisation - Information on every transaction is available for you to view in real time. With this data, you can create useful and beautiful charts or smart objects to make it easily digestible.
 
-• Reporting and analytics - Your team members can say goodbye to working hours on reports and handpicking relevant data. With ValoraPay, you can generate reports with almost any information set for any period of time.`,
+• Reporting and analytics - Your team members can say goodbye to working hours on reports and handpicking relevant data. With BrosPay, you can generate reports with almost any information set for any period of time.`,
     },
     {
       question: 'How to benefit from access to real-time data?',
@@ -48,7 +48,7 @@ Additionally, you can opt-in for notifications of reaching crucial figures. It h
       question: 'How Reports & Analytics simplify daily business operations?',
       answer: `Another powerful payment dashboard features are reporting and analytics capabilities. Having all your transactional data from various sources gathered in one place is a perk itself, but the chance to turn it into actionable insights is much more valuable.
 
-What has been a challenging, tedious and time-consuming task is now a piece of cake. ValoraPay enables the automatic creation of out-of-the-box reports (transactional, balance, turnover, income, conversion, and many others), as well as custom ones based on specific parameters: requisites, customers, storefronts, accounts, currencies, amounts, payment and payout methods, etc.
+What has been a challenging, tedious and time-consuming task is now a piece of cake. BrosPay enables the automatic creation of out-of-the-box reports (transactional, balance, turnover, income, conversion, and many others), as well as custom ones based on specific parameters: requisites, customers, storefronts, accounts, currencies, amounts, payment and payout methods, etc.
 
 Moreover, all the data in the payment processing dashboard can be visualised into graphs, charts, and smart objects for convenience and presentation purposes.
 

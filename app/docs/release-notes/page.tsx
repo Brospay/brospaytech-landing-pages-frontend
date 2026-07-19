@@ -19,7 +19,7 @@ export default function ReleaseNotesPage() {
                   Release Notes Overview
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Stay updated with the latest ValoraPay platform updates and changes
+                  Stay updated with the latest BrosPay platform updates and changes
                 </p>
               </div>
             </div>

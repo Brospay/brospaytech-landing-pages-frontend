@@ -62,7 +62,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   { id: '54', term: 'Recurring billing', definition: 'Recurring billing is repeated or regular payments carried out within a particular schedule. This payment scenario doesn\'t require re-entering payment data.', letter: 'R' },
   { id: '55', term: 'SaaS payment gateway', definition: 'Let\'s find out what a SaaS payment processing looks like and what a SaaS payment gateway is.', letter: 'S' },
   { id: '56', term: 'SaaS payment processing', definition: 'The way customers pay for the SaaS solutions, or billing process, can be referred to as SaaS payment processing.', letter: 'S' },
-  { id: '57', term: 'Secure payment gateway', definition: 'Dive into the world of secure payment gateways with ValoraPay\'s comprehensive glossary. Learn how they safeguard your transactions and why they are essential for your business.', letter: 'S' },
+  { id: '57', term: 'Secure payment gateway', definition: 'Dive into the world of secure payment gateways with BrosPay\'s comprehensive glossary. Learn how they safeguard your transactions and why they are essential for your business.', letter: 'S' },
   { id: '58', term: 'Secure payment methods', definition: 'Each payment involves at least two parties – a payer and a payee, and each is concerned about the security of their funds and all the data used while paying.', letter: 'S' },
   { id: '59', term: 'Secure payment processing', definition: 'Secure online payment processing is when the data and money of a customer and a merchant are protected based on specific standards, regulations, and measures.', letter: 'S' },
   { id: '60', term: 'SEPA', definition: 'SEPA was created to unify and harmonise domestic and cross-border funds transfers in European countries.', letter: 'S' },

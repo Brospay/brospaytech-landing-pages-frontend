@@ -19,7 +19,7 @@ export function SmartPaymentRouting() {
               Smart Payment Routing
             </h2>
             <p className="text-[18px] text-gray-600 leading-relaxed font-body">
-              ValoraPay's smart routing engine maximises payment performance and enables the highest success rates by optimising all incoming and outgoing transactions in real-time. With this powerful tool on board, you can easily implement and alter various flow strategies.
+              BrosPay's smart routing engine maximises payment performance and enables the highest success rates by optimising all incoming and outgoing transactions in real-time. With this powerful tool on board, you can easily implement and alter various flow strategies.
             </p>
           </div>
 

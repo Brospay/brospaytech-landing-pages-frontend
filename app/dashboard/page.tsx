@@ -16,7 +16,7 @@ import {
 
 /**
  * Dashboard page component
- * Displays comprehensive information about ValoraPay's dashboard solutions
+ * Displays comprehensive information about BrosPay's dashboard solutions
  */
 export default function DashboardPage() {
   return (

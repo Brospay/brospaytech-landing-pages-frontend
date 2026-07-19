@@ -6,7 +6,7 @@ import {
   ScrollToTop,
   FinancialInstitutionHero,
   FinancialInstitutionChallenges,
-  FinancialInstitutionHowValoraPayHelps,
+  FinancialInstitutionHowBrosPayHelps,
   FAQ,
 } from '@/shared/components'
 
@@ -32,9 +32,9 @@ export default function FinancialInstitutionPage() {
           <FinancialInstitutionChallenges />
         </section>
 
-        {/* How ValoraPay Helps Section */}
-        <section aria-label="How ValoraPay helps" className="mx-5 my-5">
-          <FinancialInstitutionHowValoraPayHelps />
+        {/* How BrosPay Helps Section */}
+        <section aria-label="How BrosPay helps" className="mx-5 my-5">
+          <FinancialInstitutionHowBrosPayHelps />
         </section>
 
         {/* FAQ Section */}

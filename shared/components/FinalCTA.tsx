@@ -16,7 +16,7 @@ export function FinalCTA() {
 
       <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-          Ready to get started? Join ValoraPay today
+          Ready to get started? Join BrosPay today
         </h2>
         <p className="text-[18px] text-gray-300 mb-8 max-w-2xl mx-auto font-body">
           Sign up now and experience the future of banking.

@@ -20,7 +20,7 @@ interface ROIResults {
   extraRevenueBoost: number
   processingCostSavings: number
   chargebackSavings: number
-  ValoraPayCost: number
+  BrosPayCost: number
   totalROI: number
 }
 
@@ -74,25 +74,25 @@ export function ROICalculator() {
     const avgChargebackValue = averageTransactionAmount * 1.5
     const chargebackSavings = preventedChargebacks * avgChargebackValue
 
-    let ValoraPayCost = 0
+    let BrosPayCost = 0
     if (monthlyTransactions < 10000) {
-      ValoraPayCost = 500
+      BrosPayCost = 500
     } else if (monthlyTransactions < 100000) {
-      ValoraPayCost = 2000
+      BrosPayCost = 2000
     } else if (monthlyTransactions < 1000000) {
-      ValoraPayCost = 5000
+      BrosPayCost = 5000
     } else {
-      ValoraPayCost = 10000
+      BrosPayCost = 10000
     }
 
     const totalGains = extraRevenueBoost + processingCostSavings + chargebackSavings
-    const totalROI = ((totalGains - ValoraPayCost) / ValoraPayCost) * 100
+    const totalROI = ((totalGains - BrosPayCost) / BrosPayCost) * 100
 
     return {
       extraRevenueBoost,
       processingCostSavings,
       chargebackSavings,
-      ValoraPayCost,
+      BrosPayCost,
       totalROI,
     }
   }
@@ -157,7 +157,7 @@ export function ROICalculator() {
                 Evaluate your ROI on payment orchestration
               </h2>
               <p className="text-base text-gray-700 leading-relaxed mb-8 font-body text-justify">
-                Not sure if orchestration is worth it? Use our calculator to estimate returns from optimising your payment setup with ValoraPay. Get clarity and financial insights in minutes.
+                Not sure if orchestration is worth it? Use our calculator to estimate returns from optimising your payment setup with BrosPay. Get clarity and financial insights in minutes.
               </p>
             </div>
           </div>
@@ -284,7 +284,7 @@ export function ROICalculator() {
                         Number of PSPs currently used
                       </label>
                       <p className="text-sm text-gray-600 mb-4 font-body">
-                        Select the number of payment service providers (PSPs) you use. ValoraPay is built to optimise operations for businesses working with multiple PSPs.
+                        Select the number of payment service providers (PSPs) you use. BrosPay is built to optimise operations for businesses working with multiple PSPs.
                       </p>
                       <div className="grid grid-cols-3 gap-4">
                         {(['0-1', '2-3', '4+'] as const).map((option) => (
@@ -304,7 +304,7 @@ export function ROICalculator() {
                       {formData.numberOfPSPs === '0-1' && (
                         <div className="mt-4 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
                           <p className="text-sm text-yellow-800 font-body">
-                            💡 Unfortunately, we can&apos;t calculate your ROI right now, as it looks like there&apos;s no fit between your current setup and our solutions. ValoraPay is best suited for businesses already working with multiple PSPs.
+                            💡 Unfortunately, we can&apos;t calculate your ROI right now, as it looks like there&apos;s no fit between your current setup and our solutions. BrosPay is best suited for businesses already working with multiple PSPs.
                           </p>
                         </div>
                       )}
@@ -602,7 +602,7 @@ export function ROICalculator() {
                 How our ROI calculator works
               </h2>
               <p className="text-base lg:text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto font-body">
-                We built this calculator to help you evaluate the impact ValoraPay can have on your business. Too often, return on investment feels like a vague promise — so we set out to change that.
+                We built this calculator to help you evaluate the impact BrosPay can have on your business. Too often, return on investment feels like a vague promise — so we set out to change that.
               </p>
             </div>
             <div className="grid md:grid-cols-3 gap-8">
@@ -682,7 +682,7 @@ export function ROICalculator() {
                   </p>
                   <div className="bg-gray-100 rounded-lg p-4 font-mono text-sm text-gray-900">
                     <span className="text-gray-900">((Conversion rate + </span>
-                    <span className="text-[#4730B8]">ValoraPay&apos;s impact</span>
+                    <span className="text-[#4730B8]">BrosPay&apos;s impact</span>
                     <span className="text-gray-900">) * </span>
                     <span className="text-[#4730B8]">Turnover</span>
                     <span className="text-gray-900"> * </span>
@@ -718,7 +718,7 @@ export function ROICalculator() {
                     <span className="text-gray-900">) - ((</span>
                     <span className="text-[#4730B8]">Cost</span>
                     <span className="text-gray-900"> - </span>
-                    <span className="text-[#4730B8]">ValoraPay&apos;s impact</span>
+                    <span className="text-[#4730B8]">BrosPay&apos;s impact</span>
                     <span className="text-gray-900">) * </span>
                     <span className="text-[#4730B8]">Transactions</span>
                     <span className="text-gray-900">)</span>
@@ -746,7 +746,7 @@ export function ROICalculator() {
                   </p>
                   <div className="bg-gray-100 rounded-lg p-4 font-mono text-sm text-gray-900">
                     <span className="text-gray-900">(Chargeback rate - </span>
-                    <span className="text-[#4730B8]">ValoraPay&apos;s impact</span>
+                    <span className="text-[#4730B8]">BrosPay&apos;s impact</span>
                     <span className="text-gray-900">) * </span>
                     <span className="text-[#4730B8]">Transactions</span>
                     <span className="text-gray-900"> * </span>
@@ -756,7 +756,7 @@ export function ROICalculator() {
               </div>
             </div>
 
-            {/* ValoraPay cost */}
+            {/* BrosPay cost */}
             <div className="bg-white rounded-[20px] p-6 lg:p-8 shadow-lg">
               <div className="flex items-start gap-6">
                 <div className="flex-shrink-0">
@@ -768,10 +768,10 @@ export function ROICalculator() {
                 </div>
                 <div className="flex-1">
                   <h3 className="text-xl font-semibold text-gray-900 mb-3 font-heading">
-                    ValoraPay cost
+                    BrosPay cost
                   </h3>
                   <p className="text-sm text-gray-600 mb-4 font-body">
-                    We estimate your ValoraPay pricing plan based on your total transaction volume, including projected growth. Add-ons and custom work aren&apos;t included.
+                    We estimate your BrosPay pricing plan based on your total transaction volume, including projected growth. Add-ons and custom work aren&apos;t included.
                   </p>
                   <div className="bg-gray-100 rounded-lg p-4 font-mono text-sm text-gray-900">
                     <span className="text-gray-900">Estimated according to your transaction count and our </span>
@@ -781,7 +781,7 @@ export function ROICalculator() {
               </div>
             </div>
 
-            {/* Your ROI with ValoraPay */}
+            {/* Your ROI with BrosPay */}
             <div className="bg-white rounded-[20px] p-6 lg:p-8 shadow-lg">
               <div className="flex items-start gap-6">
                 <div className="flex-shrink-0">
@@ -793,18 +793,18 @@ export function ROICalculator() {
                 </div>
                 <div className="flex-1">
                   <h3 className="text-xl font-semibold text-gray-900 mb-3 font-heading">
-                    Your ROI with ValoraPay
+                    Your ROI with BrosPay
                   </h3>
                   <p className="text-sm text-gray-600 mb-4 font-body">
-                    Your estimated return on investment is calculated by comparing total gains (extra revenue and savings) to the cost of using ValoraPay. The result shows the percentage return you can expect.
+                    Your estimated return on investment is calculated by comparing total gains (extra revenue and savings) to the cost of using BrosPay. The result shows the percentage return you can expect.
                   </p>
                   <div className="bg-gray-100 rounded-lg p-4 font-mono text-sm text-gray-900">
                     <span className="text-gray-900">(</span>
                     <span className="text-[#4730B8]">Sum of all gains</span>
                     <span className="text-gray-900"> - </span>
-                    <span className="text-[#4730B8]">ValoraPay cost</span>
+                    <span className="text-[#4730B8]">BrosPay cost</span>
                     <span className="text-gray-900">) / </span>
-                    <span className="text-[#4730B8]">ValoraPay cost</span>
+                    <span className="text-[#4730B8]">BrosPay cost</span>
                     <span className="text-gray-900"> * 100</span>
                   </div>
                 </div>

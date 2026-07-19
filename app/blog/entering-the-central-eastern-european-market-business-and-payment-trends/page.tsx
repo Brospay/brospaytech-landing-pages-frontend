@@ -10,7 +10,7 @@ import {
 
 /**
  * Central & Eastern Europe page component
- * Blog-style layout matching ValoraPay design
+ * Blog-style layout matching BrosPay design
  */
 export default function CentralEasternEuropePage() {
   return (

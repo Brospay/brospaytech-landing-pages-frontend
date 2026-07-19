@@ -106,7 +106,7 @@ export function ConversionTools() {
     },
     {
       title: 'Smart routing',
-      description: 'ValoraPay routes each transaction according to selected parameters, saving time and cutting costs.',
+      description: 'BrosPay routes each transaction according to selected parameters, saving time and cutting costs.',
     },
     {
       title: 'Localisation',

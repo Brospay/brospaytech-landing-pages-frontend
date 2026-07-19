@@ -6,7 +6,7 @@ export function Documentation() {
   const mainSections = [
     {
       title: 'Welcome!',
-      description: 'ValoraPay is a payment platform and payment hub for online businesses and financial institutions. With the technical cloud-based infrastructure and tools required to operate an online payment system, we help you to create any payment flow and effectively address complex financial problems in industries.',
+      description: 'BrosPay is a payment platform and payment hub for online businesses and financial institutions. With the technical cloud-based infrastructure and tools required to operate an online payment system, we help you to create any payment flow and effectively address complex financial problems in industries.',
       icon: (
         <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
@@ -28,7 +28,7 @@ export function Documentation() {
     },
     {
       title: 'Make payouts',
-      description: 'ValoraPay platform allows you to make transaction by any connected payout method, in any supported currency, and to almost any country across the globe. We support integration with multiple payment providers and acquirers to help you optimize your pricing and success rates. Your organisation can send single or batch payouts to your clients, contract workers, claimers, freelancers, and retailers.',
+      description: 'BrosPay platform allows you to make transaction by any connected payout method, in any supported currency, and to almost any country across the globe. We support integration with multiple payment providers and acquirers to help you optimize your pricing and success rates. Your organisation can send single or batch payouts to your clients, contract workers, claimers, freelancers, and retailers.',
       icon: (
         <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z" />
@@ -50,7 +50,7 @@ export function Documentation() {
     },
     {
       title: 'Payment APIs and Tools for Developers',
-      description: 'There is a range of different ways that you can integrate directly with ValoraPay\'s systems for seamless payment capability in your applications, systems, products, or services. You can use our RESTful API and Checkout Pages to accept payments and Callbacks to handle changes in the transaction statuses. And you can develop your own Checkout page. In any case, our APIs provide a safe route through standard interfaces to all ValoraPay\'s features.',
+      description: 'There is a range of different ways that you can integrate directly with BrosPay\'s systems for seamless payment capability in your applications, systems, products, or services. You can use our RESTful API and Checkout Pages to accept payments and Callbacks to handle changes in the transaction statuses. And you can develop your own Checkout page. In any case, our APIs provide a safe route through standard interfaces to all BrosPay\'s features.',
       icon: (
         <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />

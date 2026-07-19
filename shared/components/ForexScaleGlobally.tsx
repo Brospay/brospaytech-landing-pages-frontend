@@ -11,7 +11,7 @@ export function ForexScaleGlobally() {
 
   const benefits = [
     {
-      text: 'ValoraPay is the fastest payment orchestration platform ever as we develop new integrations with providers each day.',
+      text: 'BrosPay is the fastest payment orchestration platform ever as we develop new integrations with providers each day.',
     },
     {
       text: '500+ ready-made integrations with payment providers available.',

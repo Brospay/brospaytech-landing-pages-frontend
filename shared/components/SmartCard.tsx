@@ -205,7 +205,7 @@ export function SmartCard({ showPaymentDetails = false }: SmartCardProps = {}) {
                   {activeTooltip === 'provider' && (
                     <div className="absolute left-0 top-6 z-50 w-64 p-3 bg-white rounded-lg shadow-lg border border-gray-200">
                       <p className="text-sm text-gray-900 font-body">
-                        Reap the benefits of having hundreds of payment providers ready for you to connect to in a few clicks through ValoraPay's Provider hub.
+                        Reap the benefits of having hundreds of payment providers ready for you to connect to in a few clicks through BrosPay's Provider hub.
                       </p>
                     </div>
                   )}
@@ -238,7 +238,7 @@ export function SmartCard({ showPaymentDetails = false }: SmartCardProps = {}) {
                   {activeTooltip === 'method' && (
                     <div className="absolute left-0 top-6 z-50 w-64 p-3 bg-white rounded-lg shadow-lg border border-gray-200">
                       <p className="text-sm text-gray-900 font-body">
-                        Support for every possible payment method comes out of the box when you work with ValoraPay.
+                        Support for every possible payment method comes out of the box when you work with BrosPay.
                       </p>
                     </div>
                   )}

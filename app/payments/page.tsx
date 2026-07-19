@@ -18,7 +18,7 @@ import {
 
 /**
  * Payments page component
- * Displays comprehensive information about ValoraPay's payment solutions
+ * Displays comprehensive information about BrosPay's payment solutions
  */
 export default function PaymentsPage() {
   return (

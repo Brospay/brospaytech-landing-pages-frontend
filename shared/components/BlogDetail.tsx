@@ -18,24 +18,24 @@ interface BlogPost {
 const blogPosts: BlogPost[] = [
   {
     id: '1',
-    title: 'ValoraPay reached 500 ready-made integrations milestone',
+    title: 'BrosPay reached 500 ready-made integrations milestone',
     category: 'announcements',
     date: 'December 23, 2024',
     readTime: '1 min',
-    excerpt: 'We are excited to announce that ValoraPay has reached a significant milestone of 500 ready-made integrations.',
+    excerpt: 'We are excited to announce that BrosPay has reached a significant milestone of 500 ready-made integrations.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
-    content: '<p>We are thrilled to announce that ValoraPay has reached a significant milestone of 500 ready-made integrations. This achievement represents our commitment to providing comprehensive payment solutions for businesses worldwide.</p><h2>What This Means for You</h2><p>With 500 integrations, we now offer one of the most extensive payment provider networks in the industry. This means:</p><ul><li>Greater flexibility in choosing payment providers</li><li>Improved payment success rates through intelligent routing</li><li>Access to local payment methods in more regions</li><li>Reduced integration time and costs</li></ul><h2>Our Journey</h2><p>Reaching 500 integrations didn\'t happen overnight. It\'s the result of years of dedicated work, strategic partnerships, and listening to our customers\' needs. We started with a vision to simplify payment processing, and today, we\'re proud to be a leading payment orchestration platform.</p><h2>What\'s Next</h2><p>We\'re not stopping here. Our team continues to work on expanding our integration network, adding new payment methods, and improving our platform\'s capabilities. Stay tuned for more exciting updates!</p>',
+    content: '<p>We are thrilled to announce that BrosPay has reached a significant milestone of 500 ready-made integrations. This achievement represents our commitment to providing comprehensive payment solutions for businesses worldwide.</p><h2>What This Means for You</h2><p>With 500 integrations, we now offer one of the most extensive payment provider networks in the industry. This means:</p><ul><li>Greater flexibility in choosing payment providers</li><li>Improved payment success rates through intelligent routing</li><li>Access to local payment methods in more regions</li><li>Reduced integration time and costs</li></ul><h2>Our Journey</h2><p>Reaching 500 integrations didn\'t happen overnight. It\'s the result of years of dedicated work, strategic partnerships, and listening to our customers\' needs. We started with a vision to simplify payment processing, and today, we\'re proud to be a leading payment orchestration platform.</p><h2>What\'s Next</h2><p>We\'re not stopping here. Our team continues to work on expanding our integration network, adding new payment methods, and improving our platform\'s capabilities. Stay tuned for more exciting updates!</p>',
   },
   {
     id: '2',
-    title: "ValoraPay's 2024: milestones, achievements, and moments that mattered",
+    title: "BrosPay's 2024: milestones, achievements, and moments that mattered",
     category: 'announcements',
     date: 'December 20, 2024',
     readTime: '9 min',
-    excerpt: 'A comprehensive look back at ValoraPay&apos;s achievements, milestones, and significant moments throughout 2024.',
+    excerpt: 'A comprehensive look back at BrosPay&apos;s achievements, milestones, and significant moments throughout 2024.',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
     content: `
-      <p>2024 has been an incredible year for ValoraPay. We've achieved numerous milestones, launched exciting features, and continued to grow our community of partners and customers.</p>
+      <p>2024 has been an incredible year for BrosPay. We've achieved numerous milestones, launched exciting features, and continued to grow our community of partners and customers.</p>
       
       <h2>Key Achievements</h2>
       <p>This year, we've made significant strides in several areas:</p>
@@ -55,14 +55,14 @@ const blogPosts: BlogPost[] = [
   },
   {
     id: '3',
-    title: 'ValoraPay hits milestone with 400 ready-made integrations',
+    title: 'BrosPay hits milestone with 400 ready-made integrations',
     category: 'announcements',
     date: 'January 9, 2024',
     readTime: '2 min',
-    excerpt: 'Another major milestone achieved as ValoraPay expands its integration network to 400 payment providers.',
+    excerpt: 'Another major milestone achieved as BrosPay expands its integration network to 400 payment providers.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
     content: `
-      <p>We're excited to announce that ValoraPay has reached 400 ready-made integrations, marking another significant milestone in our journey to provide comprehensive payment solutions.</p>
+      <p>We're excited to announce that BrosPay has reached 400 ready-made integrations, marking another significant milestone in our journey to provide comprehensive payment solutions.</p>
       
       <h2>Expanding Our Network</h2>
       <p>This milestone reflects our ongoing commitment to expanding our payment provider network and offering businesses more options for processing payments globally.</p>
@@ -70,14 +70,14 @@ const blogPosts: BlogPost[] = [
   },
   {
     id: '4',
-    title: "ValoraPay's 2023: a wrap-up of our achievements",
+    title: "BrosPay's 2023: a wrap-up of our achievements",
     category: 'announcements',
     date: 'December 22, 2023',
     readTime: '6 min',
-    excerpt: 'Reflecting on the key achievements and milestones that shaped ValoraPay in 2023.',
+    excerpt: 'Reflecting on the key achievements and milestones that shaped BrosPay in 2023.',
     image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop',
     content: `
-      <p>2023 was a transformative year for ValoraPay. We achieved significant milestones and continued to innovate in the payment orchestration space.</p>
+      <p>2023 was a transformative year for BrosPay. We achieved significant milestones and continued to innovate in the payment orchestration space.</p>
       
       <h2>Major Milestones</h2>
       <p>Throughout 2023, we reached several important milestones that have helped us better serve our customers and partners.</p>
@@ -112,11 +112,11 @@ const blogPosts: BlogPost[] = [
   },
   {
     id: '6',
-    title: "ValoraPay's monthly updates: November 2025",
+    title: "BrosPay's monthly updates: November 2025",
     category: 'updates',
     date: 'December 1, 2025',
     readTime: '2 min',
-    excerpt: 'Stay updated with the latest features, improvements, and changes in ValoraPay&apos;s November 2025 release.',
+    excerpt: 'Stay updated with the latest features, improvements, and changes in BrosPay&apos;s November 2025 release.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
     content: `
       <p>This month, we've released several exciting updates to improve your payment processing experience.</p>
@@ -206,14 +206,14 @@ const blogPosts: BlogPost[] = [
   },
   {
     id: '10',
-    title: "ValoraPay's monthly updates: October 2025",
+    title: "BrosPay's monthly updates: October 2025",
     category: 'updates',
     date: 'November 4, 2025',
     readTime: '3 min',
-    excerpt: 'Latest updates and improvements in ValoraPay&apos;s October 2025 release cycle.',
+    excerpt: 'Latest updates and improvements in BrosPay&apos;s October 2025 release cycle.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
     content: `
-      <p>October brought several important updates to the ValoraPay platform, focusing on performance improvements and new features.</p>
+      <p>October brought several important updates to the BrosPay platform, focusing on performance improvements and new features.</p>
       
       <h2>Performance Improvements</h2>
       <p>We've made significant improvements to platform performance, reducing latency and improving overall reliability.</p>

@@ -96,7 +96,7 @@ export function WhyWhiteLabel() {
                 </svg>
               </div>
               <div>
-                <h3 className="text-xl font-bold font-heading">Choosing White Label Payment Service Provider By ValoraPay</h3>
+                <h3 className="text-xl font-bold font-heading">Choosing White Label Payment Service Provider By BrosPay</h3>
                 <p className="text-green-300 font-semibold font-body">Time-frame: 1-2 months</p>
               </div>
             </div>
@@ -126,7 +126,7 @@ export function WhyWhiteLabel() {
 
             {showWhiteLabelDetails && (
               <p className="mt-4 text-white/70 text-sm font-body">
-                That's it! Everything else is handled by ValoraPay's white label solution.
+                That's it! Everything else is handled by BrosPay's white label solution.
               </p>
             )}
           </div>

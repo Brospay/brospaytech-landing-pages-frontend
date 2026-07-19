@@ -42,7 +42,7 @@ export function IndustryStandards() {
     },
     {
       title: 'Google Pay',
-      description: "ValoraPay is Google Pay's certified participating processor.",
+      description: "BrosPay is Google Pay's certified participating processor.",
       icon: '🅖',
     },
     {

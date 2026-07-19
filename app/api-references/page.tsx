@@ -19,7 +19,7 @@ export default function ApiReferencesPage() {
                   API References
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Complete API documentation for integrating with ValoraPay payment platform
+                  Complete API documentation for integrating with BrosPay payment platform
                 </p>
               </div>
             </div>

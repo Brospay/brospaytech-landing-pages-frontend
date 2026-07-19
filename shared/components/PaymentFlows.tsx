@@ -67,7 +67,7 @@ export function PaymentFlows() {
             Any payment flow
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay delivers great flexibility that adapts to any payment flow and fits any business model.
+            BrosPay delivers great flexibility that adapts to any payment flow and fits any business model.
           </p>
         </div>
 

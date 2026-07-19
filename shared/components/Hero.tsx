@@ -50,7 +50,7 @@ export function Hero() {
 
             {/* Subheading */}
             <p className="text-[18px] text-gray-300 mb-8 max-w-xl leading-relaxed font-body">
-              ValoraPay serves as a comprehensive payment orchestration solution designed for digital enterprises and financial service providers. Our platform seamlessly connects payment processors and banking partners across the globe, delivering an integrated ecosystem for streamlined payment operations, enhanced visibility, and centralized administration.
+              BrosPay serves as a comprehensive payment orchestration solution designed for digital enterprises and financial service providers. Our platform seamlessly connects payment processors and banking partners across the globe, delivering an integrated ecosystem for streamlined payment operations, enhanced visibility, and centralized administration.
             </p>
 
             {/* CTA Buttons */}
@@ -98,7 +98,7 @@ export function Hero() {
             <div className="relative w-full h-[900px] lg:h-[1000px] flex items-center justify-center">
               <img
                 src="/assets/landing_page/hero/hero_right.png"
-                alt="ValoraPay smart payment cards with contactless payment technology, showing reward card with EMV chip and card number"
+                alt="BrosPay smart payment cards with contactless payment technology, showing reward card with EMV chip and card number"
                 className="w-full h-full object-contain scale-125"
                 loading="eager"
                 width={1000}

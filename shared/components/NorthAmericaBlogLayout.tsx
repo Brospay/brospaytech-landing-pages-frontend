@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * North America Blog Layout - matches ValoraPay blog post design
+ * North America Blog Layout - matches BrosPay blog post design
  */
 export function NorthAmericaBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -89,7 +89,7 @@ export function NorthAmericaBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>January 17, 2024</span>
                 <span>•</span>
@@ -298,7 +298,7 @@ export function NorthAmericaBlogLayout() {
                 An essential ingredient in the successful expansion formula is your customers' ability to pay online securely and hassle-free using the preferred methods. And that's where we cover you!
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                At ValoraPay, we provide expanding businesses with a unified payment infrastructure that simplifies the integration of various payment methods and acquirers. The list of 400+ ready-made integrations and the ability to integrate others upon request allow businesses to cater to customers in new regions. Additionally, our robust reporting and analytics tools, dedicated technical support, and robust fraud prevention mechanisms empower businesses to make informed decisions and navigate the complexities of expansion successfully.
+                At BrosPay, we provide expanding businesses with a unified payment infrastructure that simplifies the integration of various payment methods and acquirers. The list of 400+ ready-made integrations and the ability to integrate others upon request allow businesses to cater to customers in new regions. Additionally, our robust reporting and analytics tools, dedicated technical support, and robust fraud prevention mechanisms empower businesses to make informed decisions and navigate the complexities of expansion successfully.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
                 Are you ready to streamline your operations and expand your reach in the digital economy? Contact us to find out more and choose the most relevant payment strategy for your business.
@@ -316,7 +316,7 @@ export function NorthAmericaBlogLayout() {
                 We would be delighted to help you with all things payments!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo and learn how ValoraPay can help you handle your payments and payouts efficiently.
+                Book a demo and learn how BrosPay can help you handle your payments and payouts efficiently.
               </p>
               <Link
                 href="#book-call"
@@ -336,7 +336,7 @@ export function NorthAmericaBlogLayout() {
                   Ready to expand?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you expand into North American markets.
+                  Discover how BrosPay can help you expand into North American markets.
                 </p>
                 <Link
                   href="#book-call"
@@ -368,7 +368,7 @@ export function NorthAmericaBlogLayout() {
                   Interested in e-commerce payments?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Learn how ValoraPay can help you optimize your payment processes for North American markets.
+                  Learn how BrosPay can help you optimize your payment processes for North American markets.
                 </p>
                 <Link
                   href="/ecommerce"

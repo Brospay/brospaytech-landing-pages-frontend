@@ -20,7 +20,7 @@ export function RoutingHero() {
               Smart Payment Routing & Cascading Engine
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              ValoraPay payment software equips you with a complete set of smart routing and cascading tools helping to ensure maximum performance of your operations. Seize the flexibility and enjoy the smoothest of cash flows.
+              BrosPay payment software equips you with a complete set of smart routing and cascading tools helping to ensure maximum performance of your operations. Seize the flexibility and enjoy the smoothest of cash flows.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a
@@ -50,7 +50,7 @@ export function RoutingHero() {
             <div className="relative w-full h-[500px] lg:h-[600px] flex items-center justify-center">
               <img
                 src="/assets/routing-cascading_page/hero-right.png"
-                alt="ValoraPay routing and cascading solutions"
+                alt="BrosPay routing and cascading solutions"
                 className="w-full h-full object-contain"
                 loading="eager"
                 width={600}

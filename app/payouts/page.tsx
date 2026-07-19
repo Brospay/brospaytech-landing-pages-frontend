@@ -18,7 +18,7 @@ import {
 
 /**
  * Payouts page component
- * Displays comprehensive information about ValoraPay's payout solutions
+ * Displays comprehensive information about BrosPay's payout solutions
  */
 export default function PayoutsPage() {
   return (

@@ -19,7 +19,7 @@ export default function ConnectorsPage() {
                   Connectors Overview
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Connect your payment providers&apos; accounts with the ValoraPay platform
+                  Connect your payment providers&apos; accounts with the BrosPay platform
                 </p>
               </div>
             </div>

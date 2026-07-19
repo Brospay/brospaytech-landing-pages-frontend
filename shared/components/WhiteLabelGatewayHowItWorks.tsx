@@ -30,7 +30,7 @@ export function WhiteLabelGatewayHowItWorks() {
     },
     {
       title: 'Routing & Cascading',
-      description: "ValoraPay's smart Routing engine maximises payment performance and enables the highest success rates by optimising all incoming and outgoing transactions in real time. With this powerful tool on board, you can easily implement and alter various flow strategies.",
+      description: "BrosPay's smart Routing engine maximises payment performance and enables the highest success rates by optimising all incoming and outgoing transactions in real time. With this powerful tool on board, you can easily implement and alter various flow strategies.",
       linkText: 'Learn how routing works',
       linkHref: '/routing-cascading',
       visual: (

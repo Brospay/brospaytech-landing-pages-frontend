@@ -3,9 +3,9 @@
 import { useFadeIn } from '@/shared/hooks/useFadeIn'
 
 /**
- * Financial Institution How ValoraPay Helps section
+ * Financial Institution How BrosPay Helps section
  */
-export function FinancialInstitutionHowValoraPayHelps() {
+export function FinancialInstitutionHowBrosPayHelps() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
 
   const features = [
@@ -15,7 +15,7 @@ export function FinancialInstitutionHowValoraPayHelps() {
     },
     {
       title: '400+ ready-made integrations',
-      description: 'Integrating ValoraPay, businesses get access to 400+ ready-made integrations and 1200 payment providers from our network.',
+      description: 'Integrating BrosPay, businesses get access to 400+ ready-made integrations and 1200 payment providers from our network.',
     },
     {
       title: 'Payment management',
@@ -23,7 +23,7 @@ export function FinancialInstitutionHowValoraPayHelps() {
     },
     {
       title: 'Save time and resources',
-      description: 'There is a way to save you tons of time, manual effort, and financial resources. ValoraPay\'s payment orchestration platform offers a set of smart tools that help to overcome the majority of challenges.',
+      description: 'There is a way to save you tons of time, manual effort, and financial resources. BrosPay\'s payment orchestration platform offers a set of smart tools that help to overcome the majority of challenges.',
     },
   ]
 
@@ -32,7 +32,7 @@ export function FinancialInstitutionHowValoraPayHelps() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            How ValoraPay helps overcome payment challenges
+            How BrosPay helps overcome payment challenges
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto font-body">
             Digital transformation is attainable for every financial services company — bank, PSP, or financial institution — if there is sufficient time and resources. Some businesses want to be in charge of everything, but such a path is quite rocky and time-consuming.

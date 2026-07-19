@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * Central & Eastern Europe Blog Layout - matches ValoraPay blog post design
+ * Central & Eastern Europe Blog Layout - matches BrosPay blog post design
  */
 export function CentralEasternEuropeBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -37,7 +37,7 @@ export function CentralEasternEuropeBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>January 31, 2024</span>
                 <span>•</span>
@@ -188,7 +188,7 @@ export function CentralEasternEuropeBlogLayout() {
               </p>
               <div className="bg-blue-50 border-l-4 border-[#4730B8] rounded-r-xl p-6 my-6">
                 <p className="text-[18px] text-gray-700 leading-relaxed font-body">
-                  If you're ready to expand your business globally and target consumers in Central & Eastern Europe, it's essential to broaden your payment options. Do it with ValoraPay — a universal feature-rich payment hub that helps businesses set up and manage multiple payment methods at once.
+                  If you're ready to expand your business globally and target consumers in Central & Eastern Europe, it's essential to broaden your payment options. Do it with BrosPay — a universal feature-rich payment hub that helps businesses set up and manage multiple payment methods at once.
                 </p>
               </div>
             </div>
@@ -204,7 +204,7 @@ export function CentralEasternEuropeBlogLayout() {
                 We would be delighted to help you with all things payments!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo and learn how ValoraPay can help you handle your payments and payouts efficiently.
+                Book a demo and learn how BrosPay can help you handle your payments and payouts efficiently.
               </p>
               <Link
                 href="#book-call"
@@ -224,7 +224,7 @@ export function CentralEasternEuropeBlogLayout() {
                   Interested in expansion?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you expand into Central & Eastern European markets.
+                  Discover how BrosPay can help you expand into Central & Eastern European markets.
                 </p>
                 <Link
                   href="#book-call"
@@ -256,7 +256,7 @@ export function CentralEasternEuropeBlogLayout() {
                   Boost your e-commerce project
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Learn how ValoraPay can help you optimize your payment processes for Central & Eastern European markets.
+                  Learn how BrosPay can help you optimize your payment processes for Central & Eastern European markets.
                 </p>
                 <Link
                   href="/ecommerce"

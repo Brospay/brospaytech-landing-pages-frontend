@@ -34,7 +34,7 @@ export default function PaymentMethodsPage() {
                       Global payment methods list
                     </h1>
                     <p className="text-[18px] text-white mb-4 leading-relaxed font-body text-left">
-                      ValoraPay provides support for almost any online payment and payout method. Our clients can work with as many payment providers as they need, having the power to connect both global and local payment options in a few clicks.
+                      BrosPay provides support for almost any online payment and payout method. Our clients can work with as many payment providers as they need, having the power to connect both global and local payment options in a few clicks.
                     </p>
                     <p className="text-[18px] text-white leading-relaxed font-body text-left">
                       Our catalogue will help you to navigate the global payment landscape and find the best options for your business.

@@ -20,7 +20,7 @@ export function SecureOnlinePayments() {
     },
     {
       title: 'ISO 9001, 27001',
-      description: 'ValoraPay has both ISO 9001 and ISO 27001 standards. ISO 9001 specifies the requirements for Quality Management System. ISO/IEC 27001:2013 certification covers Application, Systems, People, Technology, and Processes.',
+      description: 'BrosPay has both ISO 9001 and ISO 27001 standards. ISO 9001 specifies the requirements for Quality Management System. ISO/IEC 27001:2013 certification covers Application, Systems, People, Technology, and Processes.',
     },
     {
       title: 'PSD2',
@@ -49,7 +49,7 @@ export function SecureOnlinePayments() {
         <div className="bg-gray-800 rounded-2xl p-8 mb-8">
           <h3 className="text-xl font-bold text-white mb-4 font-heading">How It Works?</h3>
           <p className="text-gray-300 leading-relaxed font-body">
-            Security of payment data underlies every solution of our platform. ValoraPay complies with the highest standards through rigorous security checks, safe data storage, staff control, and compliance with all the available regulations. We take the matter of security seriously to ensure the maximum data safety and reliability of the platform.
+            Security of payment data underlies every solution of our platform. BrosPay complies with the highest standards through rigorous security checks, safe data storage, staff control, and compliance with all the available regulations. We take the matter of security seriously to ensure the maximum data safety and reliability of the platform.
           </p>
           <p className="text-gray-300 leading-relaxed mt-4 font-body">
             The new technologies are always on our radars: we assess risks and perform independent audits to ensure stability, reliability, and safety throughout the platform.

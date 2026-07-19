@@ -18,7 +18,7 @@ export function AnalyticsFAQ() {
 
 Our payment platform allows merchants to gain insightful transactional data for customer experience optimisation and fraud management. This software represents a set of smart payment analytics tools that automatically aggregates and unifies all your business data.
 
-Payment analysis software by ValoraPay allows you to have all the key payment metrics and historical data spread in front of your eyes, giving you a real-time view of your business performance:
+Payment analysis software by BrosPay allows you to have all the key payment metrics and historical data spread in front of your eyes, giving you a real-time view of your business performance:
 • Transaction statuses
 • Merchant account balances
 • Chosen payment methods and authorisation rates
@@ -53,10 +53,10 @@ This helps you quickly spot problems, reduce failed transactions, and improve yo
 • Flexible report customisation
 • Scalability and global coverage
 
-ValoraPay combines all these features into one platform, making it a strong choice for businesses operating across different markets and currencies. Our solution adapts to your growing needs while maintaining simplicity and ease of use.`,
+BrosPay combines all these features into one platform, making it a strong choice for businesses operating across different markets and currencies. Our solution adapts to your growing needs while maintaining simplicity and ease of use.`,
     },
     {
-      question: 'What kind of data can I analyse in ValoraPay?',
+      question: 'What kind of data can I analyse in BrosPay?',
       answer: `You can analyse all key payment data, including:
 • Transaction volume
 • Approval rates
@@ -78,7 +78,7 @@ This comprehensive view helps you understand your business's health and the effe
             FAQ
           </h2>
           <p className="text-[18px] text-gray-300 max-w-2xl mx-auto leading-relaxed font-body">
-            Learn more about ValoraPay's analytics tools, reporting capabilities, and how to leverage data for better decision-making.
+            Learn more about BrosPay's analytics tools, reporting capabilities, and how to leverage data for better decision-making.
           </p>
         </div>
 

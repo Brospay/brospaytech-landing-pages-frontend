@@ -26,23 +26,23 @@ const documentationDetails: Record<string, DocumentationDetailData> = {
       sections: [
         {
           title: 'Product Overview',
-          content: 'ValoraPay Ecosystem',
+          content: 'BrosPay Ecosystem',
         },
         {
           title: 'Ecosystem Overview',
-          content: 'You can interact with ValoraPay using the Dashboard, or using APIs and Webhooks. ValoraPay also collects payment information from your customers via the hosted payment page and the merchant portal.',
+          content: 'You can interact with BrosPay using the Dashboard, or using APIs and Webhooks. BrosPay also collects payment information from your customers via the hosted payment page and the merchant portal.',
           subsections: [
             {
               title: 'Dashboard',
-              content: 'The Dashboard is the ValoraPay application. It allows you to create and configure your payment and payout gateways, provide access to your team members and assign them roles, and so on. All you have to do is log in with your credentials and you can start setting up your provider accounts and related settings. This would be the quickest way to kick start billing with ValoraPay. You could always decide to switch to ValoraPay\'s API for handling your payment needs.',
+              content: 'The Dashboard is the BrosPay application. It allows you to create and configure your payment and payout gateways, provide access to your team members and assign them roles, and so on. All you have to do is log in with your credentials and you can start setting up your provider accounts and related settings. This would be the quickest way to kick start billing with BrosPay. You could always decide to switch to BrosPay\'s API for handling your payment needs.',
             },
             {
               title: 'APIs and Client Libraries',
-              content: 'ValoraPay provides HTTP-based RESTful APIs that allow your application, system, product or service to interact with our system. To know more, take a look at ValoraPay\'s API documentation and detailed client library integration instructions.',
+              content: 'BrosPay provides HTTP-based RESTful APIs that allow your application, system, product or service to interact with our system. To know more, take a look at BrosPay\'s API documentation and detailed client library integration instructions.',
             },
             {
               title: 'Callbacks',
-              content: 'Use callbacks to notify your site or your application of events that happen inside ValoraPay, such as payment status update, recurring charges, and so on. Implement callbacks to handle events when using our APIs to customise your customer\'s experience when specific events occur.',
+              content: 'Use callbacks to notify your site or your application of events that happen inside BrosPay, such as payment status update, recurring charges, and so on. Implement callbacks to handle events when using our APIs to customise your customer\'s experience when specific events occur.',
             },
             {
               title: 'Hosted Payment Page',
@@ -50,7 +50,7 @@ const documentationDetails: Record<string, DocumentationDetailData> = {
             },
             {
               title: 'Merchant Portal',
-              content: 'ValoraPay offers a Merchant Portal, which is a self-service option you can provide to your merchants. It allows them to monitor and manage their payments, make mass payouts, access customer data and business insights, and many more. ValoraPay\'s merchant portal is ready-to-use and either be hosted by us or your infrastructure and hence requires no development effort.',
+              content: 'BrosPay offers a Merchant Portal, which is a self-service option you can provide to your merchants. It allows them to monitor and manage their payments, make mass payouts, access customer data and business insights, and many more. BrosPay\'s merchant portal is ready-to-use and either be hosted by us or your infrastructure and hence requires no development effort.',
             },
           ],
         },

@@ -22,7 +22,7 @@ export function OptimisePayouts() {
     },
     {
       title: 'Smart routing',
-      description: "ValoraPay's payout platform routes each transaction according to selected parameters, saving time and cutting costs.",
+      description: "BrosPay's payout platform routes each transaction according to selected parameters, saving time and cutting costs.",
     },
     {
       title: 'Business model versatility',

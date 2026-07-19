@@ -139,7 +139,7 @@ export function MarketPayments() {
             Market Payments
           </h2>
           <p className="text-[18px] text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed font-body">
-            Offer ValoraPay's sophisticated{' '}
+            Offer BrosPay's sophisticated{' '}
             <span className="text-[#4730B8] font-semibold">payment platform</span> to your merchants under your brand and get extra revenue effortlessly.
           </p>
         </div>

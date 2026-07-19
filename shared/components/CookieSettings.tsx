@@ -229,7 +229,7 @@ export function CookieSettings() {
             {/* Warning Message */}
             <div className="mb-10 bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
               <p className="text-sm text-gray-800 leading-relaxed font-body">
-                Blocking some types of cookies may impact your experience of our sites. You may review and change at any time by clicking Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the ValoraPay Cookie Policy.
+                Blocking some types of cookies may impact your experience of our sites. You may review and change at any time by clicking Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the BrosPay Cookie Policy.
               </p>
             </div>
 

@@ -51,7 +51,7 @@ export function Roadmap() {
     {
       year: '2024',
       month: 'September',
-      title: 'ValoraPay V2 Beta launch',
+      title: 'BrosPay V2 Beta launch',
       description: 'The next-gen version of our payment orchestration platform went into beta testing with clients in live mode. This is a completely revamped platform with an intuitive interface, advanced customisable checkout, new processing features and optimised performance.',
     },
     {
@@ -112,7 +112,7 @@ export function Roadmap() {
       year: '2023',
       month: 'April',
       title: 'Best global orchestration payment platform 2023',
-      description: 'The UK Enterprise Awards 2023 recognised ValoraPay as the best payment orchestration platform of 2023.',
+      description: 'The UK Enterprise Awards 2023 recognised BrosPay as the best payment orchestration platform of 2023.',
     },
     {
       year: '2022',
@@ -147,8 +147,8 @@ export function Roadmap() {
     {
       year: '2021',
       month: 'February',
-      title: 'Rebranded to ValoraPay',
-      description: 'We left our previous brand name behind and became ValoraPay, with a neat new website full of interactivity.',
+      title: 'Rebranded to BrosPay',
+      description: 'We left our previous brand name behind and became BrosPay, with a neat new website full of interactivity.',
     },
     {
       year: '2020',
@@ -160,42 +160,42 @@ export function Roadmap() {
       year: '2020',
       month: 'July',
       title: 'PCI DSS L1',
-      description: 'ValoraPay passes the PCI DSS certification, Level 1.',
+      description: 'BrosPay passes the PCI DSS certification, Level 1.',
     },
     {
       year: '2019',
       month: 'November',
-      title: 'ValoraPay 1.0 Release',
-      description: 'We upgraded and released the new 1.0 version of ValoraPay.',
+      title: 'BrosPay 1.0 Release',
+      description: 'We upgraded and released the new 1.0 version of BrosPay.',
     },
     {
       year: '2019',
       month: 'July',
       title: 'PCI DSS Attestation of Compliance',
-      description: 'ValoraPay successfully passed the PCI DSS compliance audit.',
+      description: 'BrosPay successfully passed the PCI DSS compliance audit.',
     },
     {
       year: '2019',
       month: 'April',
       title: 'Omnichannel large Batch payouts',
-      description: 'ValoraPay released user interfaces to process a large number of payouts using numerous different payment options at once by uploading a batch file.',
+      description: 'BrosPay released user interfaces to process a large number of payouts using numerous different payment options at once by uploading a batch file.',
     },
     {
       year: '2019',
       month: 'March',
       title: 'White label payment provider solution',
-      description: 'ValoraPay released a white label payment provider solution for banks, acquirers and payment service providers.',
+      description: 'BrosPay released a white label payment provider solution for banks, acquirers and payment service providers.',
     },
     {
       year: '2018',
       month: 'November',
       title: 'First public beta',
-      description: 'We released the beta version of upcoming ValoraPay 1.0 for testing during Web Summit 2018.',
+      description: 'We released the beta version of upcoming BrosPay 1.0 for testing during Web Summit 2018.',
     },
     {
       year: '2016',
       month: 'January',
-      title: 'The idea of ValoraPay appeared',
+      title: 'The idea of BrosPay appeared',
       description: 'We decided to develop a solution that will help unify the payment world.',
     },
   ]
@@ -204,7 +204,7 @@ export function Roadmap() {
     {
       year: '2025',
       month: 'Q2',
-      title: 'ValoraPay V2 public release',
+      title: 'BrosPay V2 public release',
       description: 'The new version of our payment orchestration platform is currently in development and is scheduled for public launch in Q2 2025. This completely revamped platform features an intuitive interface, advanced customisable checkout, new processing capabilities, and optimised performance.',
     },
     {
@@ -291,12 +291,12 @@ export function Roadmap() {
             <div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-gray-900 mb-6 leading-[1.2] tracking-[-0.075rem] font-body">
                 {activeTab === 'past' 
-                  ? 'Take a peep at ValoraPay\'s highlights — this is how we made it to now'
+                  ? 'Take a peep at BrosPay\'s highlights — this is how we made it to now'
                   : 'We want to expand globally and unify the payments world. Here is our action plan'}
               </h2>
               <p className="text-base text-gray-700 leading-relaxed mb-8 font-body text-justify">
                 {activeTab === 'past'
-                  ? 'From our humble beginnings to becoming a leading payment orchestration platform, discover the milestones that shaped ValoraPay into what it is today.'
+                  ? 'From our humble beginnings to becoming a leading payment orchestration platform, discover the milestones that shaped BrosPay into what it is today.'
                   : 'Our vision for the future includes cutting-edge features, global expansion, and innovative solutions that will continue to transform the payment industry.'}
               </p>
             </div>
@@ -381,7 +381,7 @@ export function Roadmap() {
           <div className="mt-16 text-center">
             <p className="text-base text-gray-600 mb-6 font-body">
               {activeTab === 'past'
-                ? 'Stay tuned with ValoraPay cause we are not going to rest on our laurels.'
+                ? 'Stay tuned with BrosPay cause we are not going to rest on our laurels.'
                 : 'Join us on this journey as we continue to innovate and shape the future of payments.'}
             </p>
             <a

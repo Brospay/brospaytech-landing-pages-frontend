@@ -27,7 +27,7 @@ export function BatchPayoutsHero() {
               Fully Automated and Versatile Batch Payouts
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              With ValoraPay you are just one click away from performing Batch payouts to thousands of recipients using multiple methods and currencies simultaneously.
+              With BrosPay you are just one click away from performing Batch payouts to thousands of recipients using multiple methods and currencies simultaneously.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a

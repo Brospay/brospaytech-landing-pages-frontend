@@ -640,7 +640,7 @@ export function GlobalAccess() {
                           <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
                           </svg>
-                          <span className="text-white text-xs font-bold">ValoraPay</span>
+                          <span className="text-white text-xs font-bold">BrosPay</span>
                         </div>
                         <div className="grid grid-cols-5 gap-2 text-xs font-semibold text-gray-300 mb-2 pb-2 border-b border-gray-700">
                           <div>Status</div>

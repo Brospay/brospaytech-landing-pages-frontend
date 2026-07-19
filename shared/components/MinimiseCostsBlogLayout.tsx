@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * Minimise Costs Blog Layout - matches ValoraPay blog post design
+ * Minimise Costs Blog Layout - matches BrosPay blog post design
  */
 export function MinimiseCostsBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -64,13 +64,13 @@ export function MinimiseCostsBlogLayout() {
       description: 'Relying on a single payment provider can be risky and costly. By diversifying providers, businesses can leverage competitive rates and ensure uninterrupted service.',
       details: 'This approach might involve integrating multiple gateways or negotiating specialised terms with providers based on transaction types or customer locations. For instance, using one provider for domestic transactions and another for international sales can optimise cost efficiency.',
       note: 'The downturn here is that you\'ll have to establish numerous integrations and bear the costs of multiple payment gateways, so this option only benefits large businesses.',
-      example: 'Prior to becoming ValoraPay\'s client, crypto exchange Kuna realised a strong need to offer their clients a wide choice of payment options. This meant establishing direct integrations with payment vendors and their further support. Several direct integrations covered this requirement at the outset, but then Kuna stumbled upon the draining costs of processing fees and the constant need to connect the emerging payment methods. On top of that, each integration required developers\' assistance and updates. Integrating ValoraPay\'s payment orchestration platform provided Kuna with a payment team as a service and the ability to connect any of our 400+ integrated providers while we took care of supporting and updating all those integrations.',
+      example: 'Prior to becoming BrosPay\'s client, crypto exchange Kuna realised a strong need to offer their clients a wide choice of payment options. This meant establishing direct integrations with payment vendors and their further support. Several direct integrations covered this requirement at the outset, but then Kuna stumbled upon the draining costs of processing fees and the constant need to connect the emerging payment methods. On top of that, each integration required developers\' assistance and updates. Integrating BrosPay\'s payment orchestration platform provided Kuna with a payment team as a service and the ability to connect any of our 400+ integrated providers while we took care of supporting and updating all those integrations.',
     },
     {
       number: 8,
       title: 'Use smart processing tools',
       description: 'Smart processing features help make the most out of working with multiple payment service providers. It is a real money-saver for high-volume merchants.',
-      details: 'ValoraPay\'s smart processing engine allows you to route each transaction cheaply and efficiently, depending on its currency, method, bank, amount, etc. Moreover, it helps distribute your cash flows across providers in the way you need. It also drives your conversion and saves your sales, rerouting transactions to another vendor if something goes wrong on the provider\'s side.',
+      details: 'BrosPay\'s smart processing engine allows you to route each transaction cheaply and efficiently, depending on its currency, method, bank, amount, etc. Moreover, it helps distribute your cash flows across providers in the way you need. It also drives your conversion and saves your sales, rerouting transactions to another vendor if something goes wrong on the provider\'s side.',
       additional: 'Besides, you can enable dynamic currency conversion to work with multiple currencies conveniently and cost-efficiently.',
     },
     {
@@ -81,7 +81,7 @@ export function MinimiseCostsBlogLayout() {
       quote: {
         text: 'Payment data provide you with valuable information on how much each transaction costs you, which means you can set up a payment routing system that saves you money. You can also integrate appropriate alternative payment methods if your transaction costs end up being too high. It\'s often an issue for cross-border card transactions.',
         author: 'Denys Kyrychenko',
-        role: 'ValoraPay\'s Co-founder & CEO',
+        role: 'BrosPay\'s Co-founder & CEO',
       },
     },
     {
@@ -125,7 +125,7 @@ export function MinimiseCostsBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>March 13, 2024</span>
                 <span>•</span>
@@ -249,13 +249,13 @@ export function MinimiseCostsBlogLayout() {
               </div>
             </div>
 
-            {/* How ValoraPay Can Help */}
+            {/* How BrosPay Can Help */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                How ValoraPay can help
+                How BrosPay can help
               </h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                Serving companies that work with multiple payment providers, ValoraPay empowers them to save on payment processing fees without lowering conversion rates. Intelligent payment routing technology enables this.
+                Serving companies that work with multiple payment providers, BrosPay empowers them to save on payment processing fees without lowering conversion rates. Intelligent payment routing technology enables this.
               </p>
               <div className="bg-gradient-to-r from-[#4730B8]/10 to-purple-100 rounded-[20px] p-8 border-2 border-[#4730B8]/20 mb-6">
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
@@ -278,7 +278,7 @@ export function MinimiseCostsBlogLayout() {
                 Get in touch with us!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                We can offer you a live demo, answer your questions, help you configure the payment setup and start saving on PSP fees with ValoraPay.
+                We can offer you a live demo, answer your questions, help you configure the payment setup and start saving on PSP fees with BrosPay.
               </p>
               <Link
                 href="#book-call"
@@ -298,7 +298,7 @@ export function MinimiseCostsBlogLayout() {
                   Need to minimise costs?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you save on payment processing fees and optimize your payment costs.
+                  Discover how BrosPay can help you save on payment processing fees and optimize your payment costs.
                 </p>
                 <Link
                   href="#book-call"

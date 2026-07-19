@@ -14,7 +14,7 @@ import {
 
 /**
  * ISO/MSP page component
- * Displays comprehensive information about ValoraPay's ISO/MSP payment gateway solution
+ * Displays comprehensive information about BrosPay's ISO/MSP payment gateway solution
  */
 export default function IsoMspPage() {
   return (

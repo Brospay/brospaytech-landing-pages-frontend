@@ -23,7 +23,7 @@ export function ConnectPayouts() {
   const paymentDetails = [
     {
       title: 'Any payment provider',
-      description: "Work with multiple international payout systems and acquirers available through ValoraPay's Provider hub to positively affect your pricing and success rates.",
+      description: "Work with multiple international payout systems and acquirers available through BrosPay's Provider hub to positively affect your pricing and success rates.",
       items: ['Payment gateways', 'Payment aggregators', 'Payment facilitators', 'Credit card acquirers'],
     },
     {
@@ -33,7 +33,7 @@ export function ConnectPayouts() {
     },
     {
       title: 'Any payout flow',
-      description: 'ValoraPay delivers great flexibility that adapts to any payout method flow, ensuring the flawless customer experience.',
+      description: 'BrosPay delivers great flexibility that adapts to any payout method flow, ensuring the flawless customer experience.',
       flows: [
         { name: 'Instant', description: 'Issue single payouts within minutes.' },
         { name: 'Batch', description: 'Send global payouts to numerous recipients.' },
@@ -43,7 +43,7 @@ export function ConnectPayouts() {
     },
     {
       title: 'Any fiat & crypto currency',
-      description: 'ValoraPay supports processing payouts in almost every currency, including major cryptocurrencies.',
+      description: 'BrosPay supports processing payouts in almost every currency, including major cryptocurrencies.',
       currencies: ['USD', 'EUR', 'GBP', 'BTC', 'LTC', '200+ currencies'],
     },
   ]

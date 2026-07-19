@@ -9,13 +9,13 @@ import {
   MarketplaceRole,
   MarketplaceAdvantages,
   MarketplaceHowToChoose,
-  MarketplaceHowValoraPayHelps,
+  MarketplaceHowBrosPayHelps,
   FAQ,
 } from '@/shared/components'
 
 /**
  * Marketplace page component
- * Displays comprehensive information about ValoraPay's marketplace payment gateway solution
+ * Displays comprehensive information about BrosPay's marketplace payment gateway solution
  */
 export default function MarketplacePage() {
   return (
@@ -50,9 +50,9 @@ export default function MarketplacePage() {
           <MarketplaceHowToChoose />
         </section>
 
-        {/* How ValoraPay Helps Section */}
-        <section aria-label="How ValoraPay helps" className="mx-5 my-5">
-          <MarketplaceHowValoraPayHelps />
+        {/* How BrosPay Helps Section */}
+        <section aria-label="How BrosPay helps" className="mx-5 my-5">
+          <MarketplaceHowBrosPayHelps />
         </section>
 
         {/* FAQ Section */}

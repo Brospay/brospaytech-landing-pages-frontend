@@ -4,7 +4,7 @@ import { useFadeIn } from '@/shared/hooks/useFadeIn'
 import Link from 'next/link'
 
 /**
- * APAC Blog Layout - matches ValoraPay blog post design
+ * APAC Blog Layout - matches BrosPay blog post design
  */
 export function APACBlogLayout() {
   const sectionRef = useFadeIn({ threshold: 0.1, delay: 100 })
@@ -104,7 +104,7 @@ export function APACBlogLayout() {
             {/* Author and Date Info */}
             <div className="mb-8">
               <div className="flex items-center gap-4 text-sm text-gray-600 font-body mb-4">
-                <span className="font-semibold text-gray-900">ValoraPay Team</span>
+                <span className="font-semibold text-gray-900">BrosPay Team</span>
                 <span>•</span>
                 <span>February 20, 2024</span>
                 <span>•</span>
@@ -289,13 +289,13 @@ export function APACBlogLayout() {
             {/* How We Can Help Section */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                How ValoraPay helps enter the APAC market
+                How BrosPay helps enter the APAC market
               </h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                At ValoraPay, we provide growing businesses with a holistic platform for efficiently entering and performing in APAC markets. Our solution allows connecting new payment methods in a few clicks and enables working with multiple payment providers conveniently, managing everything in a single place.
+                At BrosPay, we provide growing businesses with a holistic platform for efficiently entering and performing in APAC markets. Our solution allows connecting new payment methods in a few clicks and enables working with multiple payment providers conveniently, managing everything in a single place.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                Working with ValoraPay, you get a dedicated manager with a deep understanding of the global payment market and experience in dealing with payment providers and acquirers across APAC, who will eagerly help you scale up efficiently.
+                Working with BrosPay, you get a dedicated manager with a deep understanding of the global payment market and experience in dealing with payment providers and acquirers across APAC, who will eagerly help you scale up efficiently.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
                 Contact our team, we are ready to assist you with choosing the most relevant payment strategy to expand your business to any APAC market.
@@ -313,7 +313,7 @@ export function APACBlogLayout() {
                 We would be delighted to help you with all things payments!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo and learn how ValoraPay can help you handle your payments and payouts efficiently.
+                Book a demo and learn how BrosPay can help you handle your payments and payouts efficiently.
               </p>
               <Link
                 href="#book-call"
@@ -333,7 +333,7 @@ export function APACBlogLayout() {
                   Ready to expand?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Discover how ValoraPay can help you expand into APAC markets.
+                  Discover how BrosPay can help you expand into APAC markets.
                 </p>
                 <Link
                   href="#book-call"
@@ -365,7 +365,7 @@ export function APACBlogLayout() {
                   Digital wallet solutions
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Learn how ValoraPay can help you integrate digital wallets and other APAC payment methods.
+                  Learn how BrosPay can help you integrate digital wallets and other APAC payment methods.
                 </p>
                 <Link
                   href="/marketplace"

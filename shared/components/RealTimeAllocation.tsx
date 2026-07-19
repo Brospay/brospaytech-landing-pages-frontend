@@ -15,7 +15,7 @@ export function RealTimeAllocation() {
     {
       id: 'fees',
       title: 'Fees',
-      description: "ValoraPay's routing solution dynamically determines the optimal route based on a transaction fee value. Along with real-time fees and FX rates monitoring, it helps to optimise all transactions and ensure least-cost payments routing.",
+      description: "BrosPay's routing solution dynamically determines the optimal route based on a transaction fee value. Along with real-time fees and FX rates monitoring, it helps to optimise all transactions and ensure least-cost payments routing.",
       icon: (
         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -32,7 +32,7 @@ export function RealTimeAllocation() {
     {
       id: 'conversions',
       title: 'Conversions',
-      description: 'ValoraPay measures the performance of all routes in real-time to calculate success rates for every route alongside collecting statistics and providing analytics. Follow the conversion optimisation strategy by setting the success rate attribute in the routing scheme.',
+      description: 'BrosPay measures the performance of all routes in real-time to calculate success rates for every route alongside collecting statistics and providing analytics. Follow the conversion optimisation strategy by setting the success rate attribute in the routing scheme.',
       icon: (
         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />

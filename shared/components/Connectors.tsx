@@ -110,7 +110,7 @@ export function Connectors() {
             <div id="connectors" className="bg-white rounded-[20px] p-6 lg:p-8 shadow-sm mb-8">
               <h2 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-6 font-heading">Connectors</h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-                This section explains how to connect your payment providers' accounts and the ValoraPay platform. It describes setup processes and helps you to put in place new services that can relay requests to the payment or payout gateways.
+                This section explains how to connect your payment providers' accounts and the BrosPay platform. It describes setup processes and helps you to put in place new services that can relay requests to the payment or payout gateways.
               </p>
             </div>
 
@@ -128,7 +128,7 @@ export function Connectors() {
                 <ol className="list-decimal list-inside space-y-3 text-[18px] text-gray-700 font-body">
                   <li>Create an account on the side of the payment provider</li>
                   <li>Set up your provider or merchant account and get credentials for the further connection</li>
-                  <li>Connect the account in the ValoraPay Dashboard</li>
+                  <li>Connect the account in the BrosPay Dashboard</li>
                 </ol>
               </div>
 

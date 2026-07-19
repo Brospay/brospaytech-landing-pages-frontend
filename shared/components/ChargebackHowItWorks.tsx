@@ -51,7 +51,7 @@ export function ChargebackHowItWorks() {
                     markerEnd="url(#arrowhead-primary)"
                 />
                 
-                {/* Third-party solution to ValoraPay */}
+                {/* Third-party solution to BrosPay */}
                 <path
                   d="M 180 120 L 360 120"
                   stroke="#4730B8"
@@ -61,7 +61,7 @@ export function ChargebackHowItWorks() {
                     markerEnd="url(#arrowhead-primary)"
                 />
                 
-                {/* ValoraPay to Acquiring Bank (down) */}
+                {/* BrosPay to Acquiring Bank (down) */}
                 <path
                   d="M 360 120 L 360 200"
                   stroke="#4730B8"
@@ -71,7 +71,7 @@ export function ChargebackHowItWorks() {
                     markerEnd="url(#arrowhead-primary)"
                 />
                 
-                {/* ValoraPay to Merchant */}
+                {/* BrosPay to Merchant */}
                 <path
                   d="M 360 200 L 480 200"
                   stroke="#4730B8"
@@ -167,12 +167,12 @@ export function ChargebackHowItWorks() {
                   <span className="text-gray-900 text-sm font-semibold font-heading text-center">Third-party solution</span>
                 </div>
 
-                {/* ValoraPay - Blue (above Acquiring Bank) */}
+                {/* BrosPay - Blue (above Acquiring Bank) */}
                 <div className="absolute left-[360px] top-[20px] w-[120px] h-[100px] bg-blue-600 rounded-lg flex flex-col items-center justify-center p-3 shadow-lg">
                   <svg className="w-8 h-8 text-white mb-2" fill="currentColor" viewBox="0 0 24 24">
                     <rect x="8" y="8" width="8" height="8" rx="2" />
                   </svg>
-                  <span className="text-white text-sm font-semibold font-heading text-center">ValoraPay</span>
+                  <span className="text-white text-sm font-semibold font-heading text-center">BrosPay</span>
                 </div>
               </div>
             </div>

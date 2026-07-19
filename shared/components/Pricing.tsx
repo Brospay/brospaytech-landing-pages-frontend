@@ -139,7 +139,7 @@ export function Pricing({ activeTab = 'products' }: PricingProps) {
   const supportPlans = [
     {
       name: 'Standard',
-      description: 'High-quality support and resources available to every ValoraPay client.',
+      description: 'High-quality support and resources available to every BrosPay client.',
       price: 'Included with every plan',
       features: [
         'Dedicated Account Manager',
@@ -285,7 +285,7 @@ export function Pricing({ activeTab = 'products' }: PricingProps) {
                       <td className="py-4 px-4 text-sm text-gray-600 font-body">
                         <div className="flex items-center gap-2">
                           Infrastructure fee per month
-                          <div className="w-4 h-4 rounded-[10px] bg-primary flex items-center justify-center cursor-help" title="A monthly fee for using ValoraPay's payment infrastructure and platform">
+                          <div className="w-4 h-4 rounded-[10px] bg-primary flex items-center justify-center cursor-help" title="A monthly fee for using BrosPay's payment infrastructure and platform">
                             <span className="text-white text-[10px] font-bold">i</span>
                           </div>
                         </div>
@@ -854,7 +854,7 @@ export function Pricing({ activeTab = 'products' }: PricingProps) {
                     <div className="flex items-center justify-between">
                       <div>
                         <h3 className="text-lg font-semibold text-gray-900 mb-1 font-heading">Additional support</h3>
-                        <p className="text-sm text-gray-600 font-body">Get the most out of ValoraPay with additional guidance and support.</p>
+                        <p className="text-sm text-gray-600 font-body">Get the most out of BrosPay with additional guidance and support.</p>
                       </div>
                       <button
                         onClick={() => setShowSupport(!showSupport)}
@@ -1215,7 +1215,7 @@ export function Pricing({ activeTab = 'products' }: PricingProps) {
                       With this knowledge and experience, we are ready to guide you every step of the way with personalised support and consultancy.
                     </p>
                     <p>
-                      Every ValoraPay customer has our Standard plan. Our Premier and Turnkey plans offer additional guidance and support to help you succeed faster.
+                      Every BrosPay customer has our Standard plan. Our Premier and Turnkey plans offer additional guidance and support to help you succeed faster.
                     </p>
                   </div>
                 </div>

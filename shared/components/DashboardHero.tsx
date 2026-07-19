@@ -37,7 +37,7 @@ export function DashboardHero() {
               All-In-One Payment Dashboard For Your Business
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              Payment processes in your business are a thousand-piece jigsaw puzzle you are trying to complete. Payment Dashboard by ValoraPay is that final piece to snugly fit the blank space and make the overall picture perfect and understandable. Just sit back and admire the seamless flow of your transactions.
+              Payment processes in your business are a thousand-piece jigsaw puzzle you are trying to complete. Payment Dashboard by BrosPay is that final piece to snugly fit the blank space and make the overall picture perfect and understandable. Just sit back and admire the seamless flow of your transactions.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a
@@ -70,7 +70,7 @@ export function DashboardHero() {
                 <div className="w-3 h-3 rounded-[10px] bg-red-400"></div>
                 <div className="w-3 h-3 rounded-[10px] bg-yellow-400"></div>
                 <div className="w-3 h-3 rounded-[10px] bg-green-400"></div>
-                <span className="ml-4 text-white/70 text-sm font-body">ValoraPay Dashboard</span>
+                <span className="ml-4 text-white/70 text-sm font-body">BrosPay Dashboard</span>
               </div>
 
               {/* Dashboard Content */}

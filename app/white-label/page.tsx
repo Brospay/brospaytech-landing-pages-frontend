@@ -18,7 +18,7 @@ import {
 
 /**
  * White Label Payment Provider page component
- * Displays comprehensive information about ValoraPay's white label solution
+ * Displays comprehensive information about BrosPay's white label solution
  */
 export default function WhiteLabelPage() {
   return (

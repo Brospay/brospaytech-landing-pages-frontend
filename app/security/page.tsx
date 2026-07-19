@@ -18,7 +18,7 @@ import {
 
 /**
  * Security & Compliance page component
- * Displays comprehensive information about ValoraPay's security standards
+ * Displays comprehensive information about BrosPay's security standards
  */
 export default function SecurityPage() {
   return (

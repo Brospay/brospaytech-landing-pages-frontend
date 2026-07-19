@@ -12,7 +12,7 @@ export function DashboardMobileApp() {
   const features = [
     {
       title: 'Multi-Account Access',
-      description: 'When you add multiple ValoraPay accounts, you can switch between them without having to log out and log back in.',
+      description: 'When you add multiple BrosPay accounts, you can switch between them without having to log out and log back in.',
     },
     {
       title: 'Balance Report',
@@ -45,7 +45,7 @@ export function DashboardMobileApp() {
                         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
                       </svg>
                     </div>
-                    <h4 className="text-white font-bold font-heading">ValoraPay Bot</h4>
+                    <h4 className="text-white font-bold font-heading">BrosPay Bot</h4>
                     <p className="text-white/70 text-xs font-body">Your dashboard assistant</p>
                   </div>
 
@@ -80,7 +80,7 @@ export function DashboardMobileApp() {
               Dashboard On The Go
             </h2>
             <p className="text-[18px] text-gray-600 leading-relaxed mb-8 font-body">
-              Access the data you have with ValoraPay on the go, when and where you need it, without even leaving a messenger.
+              Access the data you have with BrosPay on the go, when and where you need it, without even leaving a messenger.
             </p>
             <div className="space-y-4">
               {features.map((feature, index) => (

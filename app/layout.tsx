@@ -3,10 +3,10 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'ValoraPay - Top-Notch Payment Orchestration Platform',
-    template: '%s | ValoraPay',
+    default: 'BrosPay - Top-Notch Payment Orchestration Platform',
+    template: '%s | BrosPay',
   },
-  description: 'ValoraPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.',
+  description: 'BrosPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.',
   keywords: [
     'payment orchestration',
     'payment orchestration platform',
@@ -29,9 +29,9 @@ export const metadata: Metadata = {
     'fintech',
     'payment institutions',
   ],
-  authors: [{ name: 'ValoraPay' }],
-  creator: 'ValoraPay',
-  publisher: 'ValoraPay',
+  authors: [{ name: 'BrosPay' }],
+  creator: 'BrosPay',
+  publisher: 'BrosPay',
   formatDetection: {
     email: false,
     address: false,
@@ -45,21 +45,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: '/',
-    title: 'ValoraPay - Top-Notch Payment Orchestration Platform',
-    description: 'ValoraPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.',
-    siteName: 'ValoraPay',
+    title: 'BrosPay - Top-Notch Payment Orchestration Platform',
+    description: 'BrosPay is a universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.',
+    siteName: 'BrosPay',
     images: [
       {
         url: '/assets/landing_page/hero/hero_bg.png',
         width: 1920,
         height: 974,
-        alt: 'ValoraPay Payment Platform',
+        alt: 'BrosPay Payment Platform',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ValoraPay - Top-Notch Payment Orchestration Platform',
+    title: 'BrosPay - Top-Notch Payment Orchestration Platform',
     description: 'Universal feature-rich payment hub integrating payment providers and acquirers worldwide for unified communication, control, and management.',
     images: ['/assets/landing_page/hero/hero_bg.png'],
     creator: '@valorapay',

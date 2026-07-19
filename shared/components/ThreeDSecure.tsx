@@ -18,7 +18,7 @@ export function ThreeDSecure() {
     },
     {
       title: 'Keep Your Transactions SCA-Compliant',
-      description: 'With built-in support for both 3D Secure 1 & 2 authentication protocols, ValoraPay can help ensure your transactions meet SCA requirements.',
+      description: 'With built-in support for both 3D Secure 1 & 2 authentication protocols, BrosPay can help ensure your transactions meet SCA requirements.',
     },
     {
       title: 'Shift Chargeback Liability',
@@ -30,7 +30,7 @@ export function ThreeDSecure() {
     },
     {
       title: 'Take Advantage Of Exemptions',
-      description: "ValoraPay's solution supports exemptions available under SCA requirements, so your customers can experience the least possible amount of friction on applicable transactions.",
+      description: "BrosPay's solution supports exemptions available under SCA requirements, so your customers can experience the least possible amount of friction on applicable transactions.",
     },
   ]
 
@@ -43,7 +43,7 @@ export function ThreeDSecure() {
             3D Secure (3DS)
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay supports both 3D Secure 1 and 3D Secure 2 authentication protocols. 3DS2 offers a better shopper experience than 3DS1 and enables a smooth in-app authentication.
+            BrosPay supports both 3D Secure 1 and 3D Secure 2 authentication protocols. 3DS2 offers a better shopper experience than 3DS1 and enables a smooth in-app authentication.
           </p>
         </div>
 

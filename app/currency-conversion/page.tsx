@@ -15,7 +15,7 @@ import {
 
 /**
  * Currency Conversion page component
- * Displays comprehensive information about ValoraPay's currency conversion solutions
+ * Displays comprehensive information about BrosPay's currency conversion solutions
  */
 export default function CurrencyConversionPage() {
   return (

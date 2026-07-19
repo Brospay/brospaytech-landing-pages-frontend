@@ -573,7 +573,7 @@ export function ApplicationModal({ isOpen, onClose }: ApplicationModalProps) {
             Application Submitted!
           </h3>
           <p className="text-base text-gray-600 mb-8 leading-relaxed font-body">
-            Thank you for your interest in joining ValoraPay. We've received your application and will review it shortly. Our team will get back to you soon.
+            Thank you for your interest in joining BrosPay. We've received your application and will review it shortly. Our team will get back to you soon.
           </p>
 
           {/* Close Button */}

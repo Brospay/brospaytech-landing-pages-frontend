@@ -10,7 +10,7 @@ import {
 
 /**
  * APAC page component
- * Blog-style layout matching ValoraPay design
+ * Blog-style layout matching BrosPay design
  */
 export default function APACPage() {
   return (

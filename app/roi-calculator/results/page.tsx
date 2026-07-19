@@ -21,7 +21,7 @@ interface ROIResults {
   extraRevenueBoost: number
   processingCostSavings: number
   chargebackSavings: number
-  ValoraPayCost: number
+  BrosPayCost: number
   totalROI: number
 }
 
@@ -119,13 +119,13 @@ export default function ROIResultsPage() {
             {/* Personalized ROI Header */}
             <div className="bg-white rounded-[20px] p-8 lg:p-12 shadow-lg mb-12 text-center">
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 font-heading">
-                {formData.name}, your ValoraPay ROI is{' '}
+                {formData.name}, your BrosPay ROI is{' '}
                 <span className="text-[#4730B8] underline decoration-yellow-400 decoration-4">
                   {results.totalROI.toFixed(2)}%
                 </span>
               </h2>
               <p className="text-base lg:text-lg text-gray-600 font-body">
-                Based on the data provided, here&apos;s an overview of your potential financial impact when using ValoraPay&apos;s payment orchestration platform.
+                Based on the data provided, here&apos;s an overview of your potential financial impact when using BrosPay&apos;s payment orchestration platform.
               </p>
             </div>
 
@@ -178,7 +178,7 @@ export default function ROIResultsPage() {
                     />
                   </svg>
                   <div className="absolute inset-0 flex flex-col items-center justify-center">
-                    <p className="text-sm text-gray-600 font-body mb-1">Before ValoraPay fee</p>
+                    <p className="text-sm text-gray-600 font-body mb-1">Before BrosPay fee</p>
                     <p className="text-3xl font-bold text-gray-900 font-heading">
                       {formatCurrency(totalGain)}
                     </p>
@@ -256,7 +256,7 @@ export default function ROIResultsPage() {
                       <div className="w-1 h-12 bg-gray-400 rounded mt-1"></div>
                       <div className="flex-1">
                         <div className="flex items-center gap-2 mb-1">
-                          <h4 className="text-base font-semibold text-gray-900 font-heading">Estimated ValoraPay cost</h4>
+                          <h4 className="text-base font-semibold text-gray-900 font-heading">Estimated BrosPay cost</h4>
                           <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                           </svg>
@@ -268,7 +268,7 @@ export default function ROIResultsPage() {
                       </div>
                     </div>
                     <p className="text-lg font-bold text-gray-900 font-heading">
-                      {formatCurrency(results.ValoraPayCost)}
+                      {formatCurrency(results.BrosPayCost)}
                     </p>
                   </div>
                 </div>
@@ -298,7 +298,7 @@ export default function ROIResultsPage() {
                       Curious how we can help you achieve this?
                     </h3>
                     <p className="text-sm text-gray-600 font-body">
-                      Let&apos;s explore how ValoraPay fits into your growth journey.
+                      Let&apos;s explore how BrosPay fits into your growth journey.
                     </p>
                   </div>
                 </div>

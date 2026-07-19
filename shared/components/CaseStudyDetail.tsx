@@ -107,7 +107,7 @@ export function CaseStudyDetail({ caseStudy }: CaseStudyDetailProps) {
               </p>
 
               <h3 className="text-2xl font-bold text-gray-900 mb-4 font-heading">
-                Client's background before ValoraPay
+                Client's background before BrosPay
               </h3>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
                 {caseStudy.backgroundBefore}
@@ -128,10 +128,10 @@ export function CaseStudyDetail({ caseStudy }: CaseStudyDetailProps) {
               )}
             </div>
 
-            {/* Why Choose ValoraPay Section */}
+            {/* Why Choose BrosPay Section */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6 font-heading">
-                Why choose ValoraPay?
+                Why choose BrosPay?
               </h2>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
                 {caseStudy.whyChoose}
@@ -141,7 +141,7 @@ export function CaseStudyDetail({ caseStudy }: CaseStudyDetailProps) {
             {/* Benefits Section */}
             <div className="mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-8 font-heading">
-                Benefits our client got with ValoraPay
+                Benefits our client got with BrosPay
               </h2>
               <div className="space-y-8">
                 {caseStudy.benefits.map((benefit, index) => (
@@ -185,7 +185,7 @@ export function CaseStudyDetail({ caseStudy }: CaseStudyDetailProps) {
                 Create your own success story!
               </h3>
               <p className="text-lg text-white/90 mb-6 font-body">
-                Book a demo with ValoraPay today and discover how our payment orchestration platform can help streamline your payment processes, boost conversions, and increase revenue.
+                Book a demo with BrosPay today and discover how our payment orchestration platform can help streamline your payment processes, boost conversions, and increase revenue.
               </p>
               <Link
                 href="#book-call"
@@ -205,7 +205,7 @@ export function CaseStudyDetail({ caseStudy }: CaseStudyDetailProps) {
                   Ready to get started?
                 </h3>
                 <p className="text-gray-700 mb-4 font-body">
-                  Contact us to learn how ValoraPay can help your business.
+                  Contact us to learn how BrosPay can help your business.
                 </p>
                 <Link
                   href="#book-call"

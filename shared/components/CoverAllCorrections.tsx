@@ -20,7 +20,7 @@ export function CoverAllCorrections() {
     },
     {
       title: 'Collisions monitoring & alerting',
-      description: 'Our payment reconciliation system detects and promptly notifies you when transaction data from the provider and payment details inserted into ValoraPay do not match.',
+      description: 'Our payment reconciliation system detects and promptly notifies you when transaction data from the provider and payment details inserted into BrosPay do not match.',
     },
     {
       title: 'Route fee auto-correction',
@@ -43,7 +43,7 @@ export function CoverAllCorrections() {
             Cover-all corrections
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay is a ready-made payments reconciliation tool that takes the hassle out of routine reconciliations while equipping you with everything needed to handle edge cases and protect financial health.
+            BrosPay is a ready-made payments reconciliation tool that takes the hassle out of routine reconciliations while equipping you with everything needed to handle edge cases and protect financial health.
           </p>
         </div>
 
@@ -68,9 +68,9 @@ export function CoverAllCorrections() {
           {/* Right - Matching Visualization */}
           <div className="bg-white rounded-2xl p-6 shadow-lg">
             <div className="grid grid-cols-2 gap-6">
-              {/* ValoraPay's statement */}
+              {/* BrosPay's statement */}
               <div>
-                <h4 className="text-sm font-semibold text-gray-500 mb-4 font-body">ValoraPay's statement</h4>
+                <h4 className="text-sm font-semibold text-gray-500 mb-4 font-body">BrosPay's statement</h4>
                 <div className="space-y-3">
                   {matchingStatements.map((item, index) => (
                     <div key={index} className="bg-[#E8E4FF] rounded-lg p-3">

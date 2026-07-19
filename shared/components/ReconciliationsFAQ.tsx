@@ -64,10 +64,10 @@ In case there are some pending transactions or some errors happened, payment rec
 Reconciliations are suitable for various purposes depending on your business needs, including invoice reconciliation, fee reconciliation, and merchant reconciliation.`,
     },
     {
-      question: "How can ValoraPay's payment reconciliation platform help me?",
+      question: "How can BrosPay's payment reconciliation platform help me?",
       answer: `Our platform is fully equipped to automatically tackle instant reconciliations for several accounts (including various methods and currencies). You can also import providers' statements in bulk and execute manual analysis of your accounts statements.
 
-Tackling reconciliations with ValoraPay, you avoid unnecessary manual work. The essential points on behalf of payment reconciliation services are reliability and time-efficiency. It helps you match the data from your accounts with that from the providers' side quicker, leaving you more spare time to be spent on strategic analysis of the received data.`,
+Tackling reconciliations with BrosPay, you avoid unnecessary manual work. The essential points on behalf of payment reconciliation services are reliability and time-efficiency. It helps you match the data from your accounts with that from the providers' side quicker, leaving you more spare time to be spent on strategic analysis of the received data.`,
     },
   ]
 

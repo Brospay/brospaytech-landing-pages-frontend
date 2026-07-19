@@ -19,7 +19,7 @@ import {
 
 /**
  * Forex page component
- * Displays comprehensive information about ValoraPay's Forex payment gateway solution
+ * Displays comprehensive information about BrosPay's Forex payment gateway solution
  */
 export default function ForexPage() {
   return (

@@ -20,7 +20,7 @@ export function AccurateRealTimeBalance() {
   const features = [
     {
       title: 'Auto-update',
-      description: 'ValoraPay is constantly synchronising and updating balances across multiple providers, accounts and methods.',
+      description: 'BrosPay is constantly synchronising and updating balances across multiple providers, accounts and methods.',
     },
     {
       title: 'Manual update',
@@ -45,7 +45,7 @@ export function AccurateRealTimeBalance() {
             Accurate real-time balance
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            No matter how many merchant accounts across various PSPs you have, ValoraPay is a <strong>one-stop platform</strong> that ensures your records are accurate.
+            No matter how many merchant accounts across various PSPs you have, BrosPay is a <strong>one-stop platform</strong> that ensures your records are accurate.
           </p>
         </div>
 

@@ -10,7 +10,7 @@ export function IGamingEducation() {
   const faqs = [
     {
       question: 'How to set up iGaming payment processing?',
-      answer: 'To set up iGaming payment processing, you need to integrate with a payment orchestration platform that supports high-risk industries. ValoraPay provides a comprehensive solution that includes multiple payment providers, fraud management, and compliance tools specifically designed for iGaming businesses. The integration process is straightforward and can be completed in a matter of weeks.',
+      answer: 'To set up iGaming payment processing, you need to integrate with a payment orchestration platform that supports high-risk industries. BrosPay provides a comprehensive solution that includes multiple payment providers, fraud management, and compliance tools specifically designed for iGaming businesses. The integration process is straightforward and can be completed in a matter of weeks.',
     },
     {
       question: 'Why is iGaming considered high-risk?',
@@ -18,7 +18,7 @@ export function IGamingEducation() {
     },
     {
       question: 'What payment methods are best for iGaming?',
-      answer: 'The best payment methods for iGaming include e-wallets (like PayPal, Skrill, Neteller), credit/debit cards, bank transfers, and cryptocurrency. The choice depends on your target geography and player preferences. A payment orchestration platform like ValoraPay allows you to offer multiple payment methods and route transactions intelligently to maximise success rates.',
+      answer: 'The best payment methods for iGaming include e-wallets (like PayPal, Skrill, Neteller), credit/debit cards, bank transfers, and cryptocurrency. The choice depends on your target geography and player preferences. A payment orchestration platform like BrosPay allows you to offer multiple payment methods and route transactions intelligently to maximise success rates.',
     },
   ]
 

@@ -117,7 +117,7 @@ export function ResponsiveAdaptive() {
             Unconditional Responsiveness and Adaptivity
           </h2>
           <p className="text-[18px] text-gray-600 max-w-3xl mx-auto leading-relaxed font-body">
-            ValoraPay's Checkout works properly on literally every device, app and screen size you could think of.
+            BrosPay's Checkout works properly on literally every device, app and screen size you could think of.
           </p>
         </div>
 

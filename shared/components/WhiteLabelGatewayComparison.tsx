@@ -73,7 +73,7 @@ export function WhiteLabelGatewayComparison() {
                 <span className="absolute -bottom-0.5 -right-0.5 text-xs opacity-90">⭐</span>
               </div>
               <h3 className="text-2xl font-bold text-gray-900 font-heading">
-                Opt for ValoraPay's white label
+                Opt for BrosPay's white label
               </h3>
             </div>
             <ul className="space-y-3 mb-6">

@@ -61,7 +61,7 @@ export function BusinessDashboard() {
             <div className="absolute bottom-2 right-2">
               <img
                 src="/assets/favicon.png"
-                alt="ValoraPay Logo"
+                alt="BrosPay Logo"
                 className="w-[180px] lg:w-[220px] h-auto opacity-20"
                 loading="lazy"
               />

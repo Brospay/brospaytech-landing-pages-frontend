@@ -6,7 +6,7 @@ export function SDKs() {
   const clientLibraries = [
     {
       name: 'JavaScript',
-      description: 'JavaScript client library for integrating with ValoraPay API',
+      description: 'JavaScript client library for integrating with BrosPay API',
       file: 'public-api-client.js',
       icon: (
         <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -46,7 +46,7 @@ export function SDKs() {
     },
     {
       title: 'Open Source',
-      description: 'Libraries are hosted and maintained by ValoraPay, and we welcome pull requests on GitHub.',
+      description: 'Libraries are hosted and maintained by BrosPay, and we welcome pull requests on GitHub.',
       icon: (
         <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
@@ -64,7 +64,7 @@ export function SDKs() {
             SDKs Integration Guide
           </h1>
           <p className="text-[18px] text-gray-700 leading-relaxed mb-6 font-body">
-            ValoraPay offers SDKs that wrap the RESTful API and make it even easier to integrate with our platform. 
+            BrosPay offers SDKs that wrap the RESTful API and make it even easier to integrate with our platform. 
             The SDK you need depends on your server-side technology stack and on the clients that you want to support. 
             Whether you&apos;re processing payments on desktop or on mobile, our software development kits give you 
             the freedom to build your own custom integration.
@@ -97,8 +97,8 @@ export function SDKs() {
             Client Libraries
           </h2>
           <p className="text-[18px] text-gray-700 mb-6 leading-relaxed font-body">
-            We offer various libraries via our ValoraPay API. Have a good look at our getting started guide and 
-            the API reference to get started right away in your IDE. These libraries are hosted and maintained by ValoraPay. 
+            We offer various libraries via our BrosPay API. Have a good look at our getting started guide and 
+            the API reference to get started right away in your IDE. These libraries are hosted and maintained by BrosPay. 
             Nevertheless we always appreciate pull requests on GitHub to ensure our libraries are up to date. 
             We greatly appreciate your input.
           </p>
@@ -204,7 +204,7 @@ export function SDKs() {
             Ready to Get Started?
           </h2>
           <p className="text-[18px] mb-6 max-w-2xl mx-auto leading-relaxed font-body">
-            Check out our getting started guide and API reference to begin integrating with ValoraPay SDKs today.
+            Check out our getting started guide and API reference to begin integrating with BrosPay SDKs today.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

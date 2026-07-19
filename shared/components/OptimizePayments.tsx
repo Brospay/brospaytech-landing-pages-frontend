@@ -33,7 +33,7 @@ export function OptimizePayments() {
   // Feature descriptions for tooltips
   const featureDescriptions: Record<string, string> = {
     'Cascading': 'Eliminate declines by using automatic rerouting of a transaction until full completion.',
-    'Smart routing': 'ValoraPay routes each transaction according to selected parameters, saving time and cutting costs.',
+    'Smart routing': 'BrosPay routes each transaction according to selected parameters, saving time and cutting costs.',
     'Anti-fraud': 'Combat fraud and decrease chargeback ratio relying on our anti-fraud engine and security tools.',
     'Tokenisation': 'One-click payments reduce friction and skyrocket conversion, refining the customer experience.',
     'Retries': 'Stop losing sales with manual retries and enable auto-retries to handle failover management.',
@@ -60,7 +60,7 @@ export function OptimizePayments() {
           </div>
           <div>
             <p className="text-[18px] text-gray-600 leading-relaxed font-body">
-              Maximise your payment success rates with ValoraPay's advanced optimization tools. From smart routing to personalized checkout experiences, we help you convert more transactions and reduce costs.
+              Maximise your payment success rates with BrosPay's advanced optimization tools. From smart routing to personalized checkout experiences, we help you convert more transactions and reduce costs.
             </p>
           </div>
         </div>

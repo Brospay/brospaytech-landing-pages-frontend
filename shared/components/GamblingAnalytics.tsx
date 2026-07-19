@@ -30,7 +30,7 @@ export function GamblingAnalytics() {
               Live All-Out View of Business Performance
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed font-body">
-              ValoraPay's Analytics gathers all your data under one roof, enabling you to inform your business decisions, optimise offerings, and stay ahead of the competition.
+              BrosPay's Analytics gathers all your data under one roof, enabling you to inform your business decisions, optimise offerings, and stay ahead of the competition.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed font-body">
               Transform previously disjointed data into visual insights on:

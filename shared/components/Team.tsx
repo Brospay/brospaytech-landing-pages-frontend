@@ -189,7 +189,7 @@ export function Team() {
             {/* Right Side - Content */}
             <div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-medium text-gray-900 mb-6 leading-[1.2] tracking-[-0.075rem] font-body">
-                Meet the talented people behind ValoraPay
+                Meet the talented people behind BrosPay
               </h2>
               <p className="text-base text-gray-700 leading-relaxed mb-8 font-body text-justify">
                 Our diverse team of engineers, designers, and business experts work together to build the future of payments. We&apos;re passionate about creating innovative solutions that help businesses grow and succeed in the digital economy.

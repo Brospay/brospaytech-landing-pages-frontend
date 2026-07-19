@@ -20,7 +20,7 @@ export function ChargebackHero() {
               Minimise your chargeback ratio and cut costs
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              ValoraPay's chargeback management service decreases the chargeback ratio, safeguarding your revenue and clearing the way for your business growth.
+              BrosPay's chargeback management service decreases the chargeback ratio, safeguarding your revenue and clearing the way for your business growth.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a

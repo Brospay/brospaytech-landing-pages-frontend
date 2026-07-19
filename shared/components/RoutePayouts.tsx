@@ -97,7 +97,7 @@ export function RoutePayouts() {
           </div>
           <div>
             <p className="text-[18px] text-gray-600 leading-relaxed font-body">
-              Explore how ValoraPay's routing engine can help you boost conversions, reduce processing costs, and diversify risks. Whether you're looking to optimise your payment processing or seeking advanced payment routing strategies, we have the solution.
+              Explore how BrosPay's routing engine can help you boost conversions, reduce processing costs, and diversify risks. Whether you're looking to optimise your payment processing or seeking advanced payment routing strategies, we have the solution.
             </p>
           </div>
         </div>

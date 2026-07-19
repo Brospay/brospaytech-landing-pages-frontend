@@ -79,7 +79,7 @@ export function ExpandGloballyHowToEnter() {
           ))}
         </div>
 
-        {/* ValoraPay Solution Section */}
+        {/* BrosPay Solution Section */}
         <div className="bg-gradient-to-r from-[#4730B8]/10 to-purple-100 rounded-[20px] p-8 lg:p-12 border-2 border-[#4730B8]/20">
           <div className="flex items-start gap-6 mb-6">
             <div className="w-16 h-16 bg-[#4730B8] rounded-xl flex items-center justify-center flex-shrink-0">
@@ -89,10 +89,10 @@ export function ExpandGloballyHowToEnter() {
             </div>
             <div className="flex-1">
               <h3 className="text-2xl font-bold text-gray-900 mb-4 font-heading">
-                ValoraPay: Your one-stop shop for growing businesses
+                BrosPay: Your one-stop shop for growing businesses
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed mb-4 font-body">
-                ValoraPay is a one-stop shop for growing businesses. Our solution not only allows connecting new payment methods in a few clicks but enables working with multiple payment providers conveniently, managing everything in a single place. We continuously work on upgrading our platform to ensure our clients get the best-in-class experience and technology.
+                BrosPay is a one-stop shop for growing businesses. Our solution not only allows connecting new payment methods in a few clicks but enables working with multiple payment providers conveniently, managing everything in a single place. We continuously work on upgrading our platform to ensure our clients get the best-in-class experience and technology.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6 font-body">
                 Moreover, our team deeply understands the global payment market and has experience dealing with numerous providers and acquirers. We use that knowledge to assist our clients as they scale up, suggesting the best solution for each payment challenge.

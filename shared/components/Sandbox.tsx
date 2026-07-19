@@ -60,7 +60,7 @@ export function Sandbox() {
           </h1>
           <p className="text-[18px] text-gray-700 leading-relaxed font-body">
             The Test Connector allows you to test payment and payout flows in a sandbox environment. 
-            Set up your merchant and provider accounts to start testing your integration with ValoraPay.
+            Set up your merchant and provider accounts to start testing your integration with BrosPay.
           </p>
         </div>
 
@@ -119,7 +119,7 @@ export function Sandbox() {
                     <ul className="list-disc list-inside space-y-2 text-[18px] text-gray-700 font-body">
                       <li>Merchant ID</li>
                       <li>API Key</li>
-                      <li>Currency settings (You can set these parameters according to available currencies and features for your wallets and services, but it&apos;s necessary to check details of the connection with your ValoraPay account manager.)</li>
+                      <li>Currency settings (You can set these parameters according to available currencies and features for your wallets and services, but it&apos;s necessary to check details of the connection with your BrosPay account manager.)</li>
                     </ul>
                   </div>
                 </div>
@@ -133,7 +133,7 @@ export function Sandbox() {
                 
                 <div className="bg-gray-50 rounded-lg p-6">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4 font-heading">
-                    Step 1. Connect H2H account at the ValoraPay Dashboard
+                    Step 1. Connect H2H account at the BrosPay Dashboard
                   </h3>
                   <ol className="list-decimal list-inside space-y-4 text-[18px] text-gray-700 font-body">
                     <li>Go to the Provider Hub page in &apos;New connection&apos; section and choose <strong>H2H Merchant account</strong> option to open Connection form.</li>
@@ -200,7 +200,7 @@ export function Sandbox() {
                 
                 <div className="bg-gray-50 rounded-lg p-6">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4 font-heading">
-                    Step 1. Connect Provider account at the ValoraPay Dashboard
+                    Step 1. Connect Provider account at the BrosPay Dashboard
                   </h3>
                   <ol className="list-decimal list-inside space-y-4 text-[18px] text-gray-700 font-body">
                     <li>Press <strong>Connect</strong> at Test Provider Overview page in &apos;New connection&apos; section and choose <strong>Provider account</strong> option to open Connection form.</li>

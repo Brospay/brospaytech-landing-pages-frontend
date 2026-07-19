@@ -40,7 +40,7 @@ export function EcommerceScaleGlobally() {
                 </div>
                 <div>
                   <p className="text-gray-900 font-semibold font-heading">New integrations with payment providers go live every day</p>
-                  <p className="text-gray-600 text-sm font-body">making ValoraPay the fastest-growing payment orchestration platform ever</p>
+                  <p className="text-gray-600 text-sm font-body">making BrosPay the fastest-growing payment orchestration platform ever</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">

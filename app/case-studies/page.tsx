@@ -26,7 +26,7 @@ export default function CaseStudiesPage() {
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-12 lg:mb-16">
                   <h1 className="text-4xl sm:text-5xl md:text-[57px] lg:text-[57px] font-bold leading-[1.2] mb-6 font-heading text-white text-center">
-                    800M+ successful transactions across the world powered by ValoraPay
+                    800M+ successful transactions across the world powered by BrosPay
                   </h1>
                   <p className="text-xl text-white/90 max-w-3xl mx-auto font-body">
                     Discover how our payment orchestration platform and expert assistance have facilitated businesses across different regions and industries, from e-commerce merchants to payment institutions.

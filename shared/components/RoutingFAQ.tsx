@@ -20,7 +20,7 @@ There are two fundamental ways in which payment routing works:
 • Static payment routing requires the manual creation of complex routing schemes
 • Dynamic payment routing is much more agile, with rules that can switch in real time
 
-ValoraPay enables intelligent or smart payment routing that uses your transaction data to predict the best route for every single transaction in real time.`,
+BrosPay enables intelligent or smart payment routing that uses your transaction data to predict the best route for every single transaction in real time.`,
     },
     {
       question: 'How to set up payment routing?',
@@ -58,7 +58,7 @@ For example, if the first PSP declines the payment for any reason (risk assessme
 
 Payment cascading comes into play when the initial provider declines the payment — the transaction is then automatically retried with alternative providers until it's approved or no routes remain.
 
-Using both ensures higher approval rates and better customer experience. These technologies usually come tied together in modern payment orchestration platforms like ValoraPay.`,
+Using both ensures higher approval rates and better customer experience. These technologies usually come tied together in modern payment orchestration platforms like BrosPay.`,
     },
   ]
 

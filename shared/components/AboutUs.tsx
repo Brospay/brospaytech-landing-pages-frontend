@@ -50,17 +50,17 @@ export function AboutUs() {
   // Slider data
   const slides = [
     {
-      title: 'What is ValoraPay?',
+      title: 'What is BrosPay?',
       duration: '2:27',
-      description: 'ValoraPay is a payment orchestration platform for online businesses and payment institutions. Our technical platform provides feature-rich functionality that connects and manages payment services, initiates and processes transactions, collects and analyses payment data, and much more.',
+      description: 'BrosPay is a payment orchestration platform for online businesses and payment institutions. Our technical platform provides feature-rich functionality that connects and manages payment services, initiates and processes transactions, collects and analyses payment data, and much more.',
     },
     {
       title: 'Our Mission',
       duration: '3:15',
-      description: 'At ValoraPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure.',
+      description: 'At BrosPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure.',
     },
     {
-      title: 'Why Choose ValoraPay?',
+      title: 'Why Choose BrosPay?',
       duration: '2:45',
       description: 'We offer the technology to build almost any online payment solution. We see the beauty in simplifying the complex, so you can run your online business without obstacles using cloud infrastructure, omni- and cross-channel and full-service payment solutions for both corporate and institutional clients.',
     },
@@ -152,7 +152,7 @@ export function AboutUs() {
   const features = [
     {
       title: 'Secure online and mobile banking',
-      description: 'ValoraPay provides state-of-the-art security measures to protect your financial data and transactions. Our platform uses advanced encryption and multi-factor authentication to ensure your money is always safe.',
+      description: 'BrosPay provides state-of-the-art security measures to protect your financial data and transactions. Our platform uses advanced encryption and multi-factor authentication to ensure your money is always safe.',
       icon: SecurityIcon,
     },
     {
@@ -191,7 +191,7 @@ export function AboutUs() {
                 Where technology meets finance to deliver next-level banking performance for users
               </h2>
               <p className="text-base text-gray-700 leading-relaxed mb-8 font-body text-justify">
-                At ValoraPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure. We offer the technology to build almost any online payment solution. We see the beauty in simplifying the complex, so you can run your online business without obstacles using cloud infrastructure, omni- and cross-channel and full-service payment solutions for both corporate and institutional clients.
+                At BrosPay, we aim to centralise and standardise online payment processing, improve visibility and control over transaction flows, mitigate risks, and improve overall business efficiency. Our purpose is to help our customers multiply payment capabilities and reach without the need to invest in development or infrastructure. We offer the technology to build almost any online payment solution. We see the beauty in simplifying the complex, so you can run your online business without obstacles using cloud infrastructure, omni- and cross-channel and full-service payment solutions for both corporate and institutional clients.
               </p>
               <a
                 href="#get-started"
@@ -359,7 +359,7 @@ export function AboutUs() {
                       First public beta
                     </h3>
                     <p className="text-base text-gray-700 leading-relaxed font-body">
-                      The first beta version of upcoming ValoraPay 1.0 released for testing during Web Summit 2024.
+                      The first beta version of upcoming BrosPay 1.0 released for testing during Web Summit 2024.
                     </p>
                   </div>
                 </div>
@@ -451,7 +451,7 @@ export function AboutUs() {
                       PCI DSS attestation of compliance
                     </h3>
                     <p className="text-base text-gray-700 leading-relaxed font-body">
-                      ValoraPay has successfully passed the PCI DSS compliance audit.
+                      BrosPay has successfully passed the PCI DSS compliance audit.
                     </p>
                   </div>
                 </div>
@@ -470,10 +470,10 @@ export function AboutUs() {
                   <div className="ml-10 lg:ml-0 lg:mt-16 pt-2">
                     <p className="text-sm text-gray-600 mb-2 font-body">November, 2024</p>
                     <h3 className="text-lg font-semibold text-gray-900 mb-3 font-heading">
-                      ValoraPay 1.0 release
+                      BrosPay 1.0 release
                     </h3>
                     <p className="text-base text-gray-700 leading-relaxed font-body">
-                      We have upgraded and released the new 1.0 version of ValoraPay.
+                      We have upgraded and released the new 1.0 version of BrosPay.
                     </p>
                   </div>
                 </div>

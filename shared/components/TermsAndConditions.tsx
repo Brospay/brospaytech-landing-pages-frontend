@@ -27,7 +27,7 @@ export function TermsAndConditions() {
             {/* Introduction */}
             <div className="mb-10">
               <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
-                These terms of use (the Agreement) form a legal agreement between you (You) and ValoraPay LIMITED, a legal entity under the laws of England and Wales, doing business as ValoraPay (the Company, We or Us). The effective date of this Agreement is when You accept or are deemed to accept this Agreement. You are deemed to have accepted and agreed to this Agreement, and all terms herein including the Limitation of Liability and Indemnification provisions, when you access this website. If You are accessing this website on behalf of a business, your access constitutes the business acceptance of these terms.
+                These terms of use (the Agreement) form a legal agreement between you (You) and BrosPay LIMITED, a legal entity under the laws of England and Wales, doing business as BrosPay (the Company, We or Us). The effective date of this Agreement is when You accept or are deemed to accept this Agreement. You are deemed to have accepted and agreed to this Agreement, and all terms herein including the Limitation of Liability and Indemnification provisions, when you access this website. If You are accessing this website on behalf of a business, your access constitutes the business acceptance of these terms.
               </p>
               <p className="text-base text-gray-700 leading-relaxed font-body mb-4">
                 By accessing https://valorapay.com/ and all subsidiary web pages within the Website, you agree to this Agreement in full, together with any additional or specific terms and conditions we may draw to your attention prior to your purchasing any products or services from or via this Website. You hereby consent to the exchange of information and documents between You and Us electronically over the Internet or by email and agree this electronic Agreement shall be the equivalent of a written paper agreement between You and Us. Capitalised terms in this Agreement are defined in the section headed "Definitions and interpretation" at the end of this Agreement if not otherwise defined in the provisions below.
@@ -291,7 +291,7 @@ export function TermsAndConditions() {
                   <tbody className="divide-y divide-gray-200">
                     <tr>
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"Customer"</td>
-                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">means the customer to whom ValoraPay is providing the Services.</td>
+                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">means the customer to whom BrosPay is providing the Services.</td>
                     </tr>
                     <tr className="bg-gray-50">
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"Website Terms of Use"</td>
@@ -299,15 +299,15 @@ export function TermsAndConditions() {
                     </tr>
                     <tr>
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"Linked Website"</td>
-                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">means a website or entity other than ValoraPay, which are linked through a hyperlink, or through another means (including text, image, and moving image) to or from this Website.</td>
+                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">means a website or entity other than BrosPay, which are linked through a hyperlink, or through another means (including text, image, and moving image) to or from this Website.</td>
                     </tr>
                     <tr className="bg-gray-50">
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"User" or "you"</td>
-                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">any third party that accesses the Website and is not either (i) employed by ValoraPay Limited and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to ValoraPay and accessing the Website in connection with the provision of such services.</td>
+                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">any third party that accesses the Website and is not either (i) employed by BrosPay Limited and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to BrosPay and accessing the Website in connection with the provision of such services.</td>
                     </tr>
                     <tr>
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"we", "us", "our" and "ourselves", or "the Company"</td>
-                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">refers to ValoraPay Limited, a company incorporated in England and Wales with registered number 11654625 whose registered office is at 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.</td>
+                      <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body">refers to BrosPay Limited, a company incorporated in England and Wales with registered number 11654625 whose registered office is at 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom.</td>
                     </tr>
                     <tr className="bg-gray-50">
                       <td className="border border-gray-300 px-4 py-3 text-sm text-gray-700 font-body font-semibold">"Website", "Web site" or "Site"</td>
@@ -334,7 +334,7 @@ export function TermsAndConditions() {
                   </a>
                 </p>
                 <p className="text-base text-gray-700 leading-relaxed font-body">
-                  <strong>Address:</strong> ValoraPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom
+                  <strong>Address:</strong> BrosPay Limited, 37th floor, One Canada Square, Canary Wharf, London, E14 5AA, United Kingdom
                 </p>
               </div>
             </div>

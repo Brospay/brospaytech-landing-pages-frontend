@@ -162,7 +162,7 @@ export function ApiReferences() {
               <div id="commerce-commerce-callbacks" className="mb-8 pb-8 border-b border-gray-200 last:border-0 last:pb-0 last:mb-0">
                 <h3 className="text-xl lg:text-2xl font-bold text-gray-900 mb-4 font-heading">Commerce Callbacks</h3>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  Callbacks notify you about events that occur with regards to the payments that you process via ValoraPay Commerce, like the state on payments or payouts changes changes. This allows you to be easily aware of things that happen, even after the consumer is no longer on your site.
+                  Callbacks notify you about events that occur with regards to the payments that you process via BrosPay Commerce, like the state on payments or payouts changes changes. This allows you to be easily aware of things that happen, even after the consumer is no longer on your site.
                 </p>
                 <div className="flex flex-wrap gap-6">
                   <Link
@@ -185,7 +185,7 @@ export function ApiReferences() {
               <div id="platform-core-api">
                 <h3 className="text-xl lg:text-2xl font-bold text-gray-900 mb-4 font-heading">Core API</h3>
                 <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                  The Core API allows you to programmatically manage your ValoraPay account. It does everything the Dashboard UI does, but adds some capabilities that may come in handy depending on your business needs. Consider, for instance, a business model in which you provide a service that allows other merchants to accept payments (like in a marketplace). Using the Core API you can create a Commerce accounts on behalf of each merchant, under the umbrella of your main account.
+                  The Core API allows you to programmatically manage your BrosPay account. It does everything the Dashboard UI does, but adds some capabilities that may come in handy depending on your business needs. Consider, for instance, a business model in which you provide a service that allows other merchants to accept payments (like in a marketplace). Using the Core API you can create a Commerce accounts on behalf of each merchant, under the umbrella of your main account.
                 </p>
                 <div className="flex flex-wrap gap-6">
                   <Link
@@ -215,7 +215,7 @@ export function ApiReferences() {
                 Codes are everywhere in the world of payments. But what do they all mean? If you struggle to tell your HTTP status codes from your ISO 4217s, we&apos;ve got your back.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
-                ValoraPay uses its own developed standard for classification and identification of FinTech industry entities named OpenFinTech.io.
+                BrosPay uses its own developed standard for classification and identification of FinTech industry entities named OpenFinTech.io.
               </p>
               <p className="text-[18px] text-gray-700 leading-relaxed mb-4 font-body">
                 OpenFinTech.io directory includes data like:

@@ -23,7 +23,7 @@ export default function RegisterPage() {
                     Let&apos;s get started!
                   </h1>
                   <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                    Join ValoraPay and start accepting payments globally
+                    Join BrosPay and start accepting payments globally
                   </p>
                 </div>
               </div>

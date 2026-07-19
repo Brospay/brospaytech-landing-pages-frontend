@@ -316,7 +316,7 @@ export function Register() {
                     required
                     value={formData.companyName}
                     onChange={handleInputChange}
-                    placeholder="ValoraPay"
+                    placeholder="BrosPay"
                     className="w-full px-4 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-[#4730B8] focus:border-transparent font-body text-[18px]"
                   />
                 </div>

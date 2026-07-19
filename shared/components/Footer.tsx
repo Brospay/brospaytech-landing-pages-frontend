@@ -139,13 +139,13 @@ export function Footer() {
               <div className="flex items-center gap-2 mb-4">
                 <img
                   src="/assets/logo_dark.png"
-                  alt="ValoraPay Logo"
+                  alt="BrosPay Logo"
                   className="h-10 w-auto"
                   loading="lazy"
                 />
               </div>
               <p className="text-[18px] text-gray-400 mb-6 max-w-xs font-body">
-                ValoraPay is a universal feature-rich payment orchestration platform for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.
+                BrosPay is a universal feature-rich payment orchestration platform for online businesses and payment institutions. We integrate payment providers and acquirers all around the world to bring a unified communication, control, and management interface.
               </p>
               {/* Social Links */}
               <div className="flex items-center gap-4">
@@ -277,7 +277,7 @@ export function Footer() {
         <div className="border-t border-white/10 pt-8 mt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-sm text-gray-400 font-body">
-              © {new Date().getFullYear()} ValoraPay. All rights reserved.
+              © {new Date().getFullYear()} BrosPay. All rights reserved.
             </p>
             <div className="flex items-center gap-6 flex-wrap justify-center">
               <Link

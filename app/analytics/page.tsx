@@ -16,7 +16,7 @@ import {
 
 /**
  * Analytics page component
- * Displays comprehensive information about ValoraPay's analytics solutions
+ * Displays comprehensive information about BrosPay's analytics solutions
  */
 export default function AnalyticsPage() {
   return (

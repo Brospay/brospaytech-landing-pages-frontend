@@ -27,14 +27,14 @@ export default function Home() {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'FinancialService',
-    name: 'ValoraPay',
+    name: 'BrosPay',
     description: 'Top-Notch Payment Orchestration Platform. Universal feature-rich payment hub for online businesses and payment institutions. We integrate payment providers and acquirers worldwide.',
     url: process.env.NEXT_PUBLIC_SITE_URL || 'https://valorapay.com',
     logo: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://valorapay.com'}/assets/landing_page/hero/hero_bg.png`,
     sameAs: [
-      'https://twitter.com/ValoraPay',
-      'https://facebook.com/ValoraPay',
-      'https://linkedin.com/company/ValoraPay',
+      'https://twitter.com/BrosPay',
+      'https://facebook.com/BrosPay',
+      'https://linkedin.com/company/BrosPay',
     ],
     contactPoint: {
       '@type': 'ContactPoint',

@@ -31,7 +31,7 @@ export function FraudPrevention() {
               Our platform entails a system that evaluates transactions online and detects suspicious ones. After a thorough analysis of each transaction, the system recommends rejecting or applying an additional check. In case of a fraud suspicion, the system can prevent money debiting.
             </p>
             <p className="text-gray-600 leading-relaxed mb-8 font-body">
-              ValoraPay anti-fraud system can operate according to different parameters:
+              BrosPay anti-fraud system can operate according to different parameters:
             </p>
             <div className="space-y-3">
               {antiFraudFeatures.map((feature, index) => (

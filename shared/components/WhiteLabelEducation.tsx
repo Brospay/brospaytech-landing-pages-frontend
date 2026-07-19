@@ -30,11 +30,11 @@ export function WhiteLabelEducation() {
     },
     {
       question: 'How scalable are white label provider solutions for growing payment service providers?',
-      answer: "White label provider solutions are designed to grow with your business. With ValoraPay's platform, PSPs can easily handle increasing transaction volumes, add new payment methods or providers, and expand into global markets without costly redevelopments.",
+      answer: "White label provider solutions are designed to grow with your business. With BrosPay's platform, PSPs can easily handle increasing transaction volumes, add new payment methods or providers, and expand into global markets without costly redevelopments.",
     },
     {
-      question: "What makes ValoraPay's white label PSP proposition stand out from other PSP solutions?",
-      answer: "ValoraPay's white label PSP combines the speed of a ready-made solution with the flexibility typically reserved for custom-built platforms. You get a fully functional PSP infrastructure including a branded merchant portal, access to 550+ payment providers and methods, routing and cascading tools, and compliance features.",
+      question: "What makes BrosPay's white label PSP proposition stand out from other PSP solutions?",
+      answer: "BrosPay's white label PSP combines the speed of a ready-made solution with the flexibility typically reserved for custom-built platforms. You get a fully functional PSP infrastructure including a branded merchant portal, access to 550+ payment providers and methods, routing and cascading tools, and compliance features.",
     },
   ]
 
@@ -107,7 +107,7 @@ export function WhiteLabelEducation() {
             How To Get Started With A White Label Payment Provider?
           </h3>
           <p className="text-gray-600 mb-8 text-center font-body">
-            You should take into account that there are some business-related preparations before integrating a white label payment provider. After all preparations, you can start integrating ValoraPay's solution.
+            You should take into account that there are some business-related preparations before integrating a white label payment provider. After all preparations, you can start integrating BrosPay's solution.
           </p>
           <div className="space-y-4">
             {integrationSteps.map((item, index) => (

@@ -19,7 +19,7 @@ export default function SDKsPage() {
                   SDKs Integration Guide
                 </h1>
                 <p className="text-[18px] text-white mb-6 max-w-3xl mx-auto text-center leading-relaxed font-body">
-                  Integrate ValoraPay payment platform with our easy-to-use SDKs. 
+                  Integrate BrosPay payment platform with our easy-to-use SDKs. 
                   Build custom payment solutions for desktop and mobile applications.
                 </p>
               </div>

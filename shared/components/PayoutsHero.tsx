@@ -20,7 +20,7 @@ export function PayoutsHero() {
               Make hassle-free global payouts
             </h1>
             <p className="text-[18px] text-white/90 mb-8 max-w-xl leading-relaxed font-body text-left">
-              The international payout system by ValoraPay gives you full control over your payout workflows. One seamless integration enables you to make single and mass payouts quickly and easily with a wide range of payout options to choose from.
+              The international payout system by BrosPay gives you full control over your payout workflows. One seamless integration enables you to make single and mass payouts quickly and easily with a wide range of payout options to choose from.
             </p>
             <div className="flex flex-col sm:flex-row items-start gap-4">
               <a
@@ -56,7 +56,7 @@ export function PayoutsHero() {
             <div className="relative w-full h-[500px] lg:h-[600px] flex items-center justify-center">
               <img
                 src="/assets/payouts_page/hero_right.png"
-                alt="ValoraPay payout solutions"
+                alt="BrosPay payout solutions"
                 className="w-full h-full object-contain"
                 loading="eager"
                 width={600}

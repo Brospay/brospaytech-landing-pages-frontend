@@ -178,7 +178,7 @@ export function Contacts() {
             {/* Right Column - Contact Form */}
             <div>
               <h2 className="text-2xl sm:text-3xl font-medium text-gray-900 mb-4 font-heading">
-                Connect with ValoraPay
+                Connect with BrosPay
               </h2>
               <p className="text-base text-gray-600 leading-relaxed mb-8 font-body">
                 Fill out the form below and we&apos;ll get back to you as soon as possible. Our team is ready to help you with any questions about our payment orchestration platform.

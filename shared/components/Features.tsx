@@ -1,7 +1,7 @@
 /**
  * Features section component matching Figma design
  * Features:
- * - "Why choose ValoraPay?" heading
+ * - "Why choose BrosPay?" heading
  * - 5 feature icons in a row
  * - Mobile-first responsive design
  */
@@ -54,7 +54,7 @@ export function Features() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 lg:mb-16">
           <h2 className="text-[2.4rem] font-medium text-[#000] mb-4 leading-[3.05563rem] tracking-[-0.075rem] font-body">
-            Why choose ValoraPay?
+            Why choose BrosPay?
           </h2>
         </div>
 

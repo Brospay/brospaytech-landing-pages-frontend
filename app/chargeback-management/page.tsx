@@ -13,7 +13,7 @@ import {
 
 /**
  * Chargeback Management page component
- * Displays comprehensive information about ValoraPay's chargeback management service
+ * Displays comprehensive information about BrosPay's chargeback management service
  */
 export default function ChargebackManagementPage() {
   return (

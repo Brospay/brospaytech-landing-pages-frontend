@@ -19,7 +19,7 @@ import {
 
 /**
  * E-commerce page component
- * Displays comprehensive information about ValoraPay's e-commerce payment gateway solution
+ * Displays comprehensive information about BrosPay's e-commerce payment gateway solution
  */
 export default function EcommercePage() {
   return (
